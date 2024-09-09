@@ -1,0 +1,501 @@
+pt_ids,age_at_first_visit,sex,first_visit_date,date_of_birth,second_visit_date,third_visit_date,first_visit_type,second_visit_type,third_visit_type,age_at_second_visit,age_at_third_visit,first_visit_clinic,second_visit_clinic,third_visit_clinic
+9677207,21.39,F,2019-11-23,1998-07-08,2019-12-19,2020-01-18,test results,initial intake,follow-up,21.46,21.54,Pine Health Center,Pine Health Center,Cedar Health Center
+6690266,55.67,F,2020-11-27,1965-04-10,2021-01-22,2021-02-12,test results,test results,drug pickup,55.82,55.88,Cedar Clinic,Redwood Health Center,Pine Health Center
+4026117,27.65,F,2020-05-08,1992-09-19,2020-06-24,2020-07-20,follow-up,initial intake,initial intake,27.78,27.85,Pine Health Center,Pine Health Center,Cedar Clinic
+6591956,17.88,F,2019-02-23,2001-04-11,2019-04-28,2019-05-02,test results,test results,drug pickup,18.06,18.07,Cedar Clinic,Redwood Health Center,Pine Health Center
+9752985,44.29,F,2020-08-26,1976-05-23,2020-10-25,2020-11-01,test results,initial intake,drug pickup,44.45,44.47,Spruce Clinic,Pine Clinic,Pine Clinic
+1999602,19.73,F,2020-01-05,2000-04-17,2020-01-11,2020-01-20,drug pickup,drug pickup,initial intake,19.75,19.77,Cedar Clinic,Pine Health Center,Cedar Clinic
+2488225,33.62,F,2019-12-27,1986-05-22,2020-01-02,2020-01-22,drug pickup,initial intake,drug pickup,33.64,33.69,Spruce Clinic,Pine Clinic,Pine Health Center
+5959627,29.54,F,2019-04-27,1989-10-18,2019-05-12,2019-05-17,initial intake,initial intake,initial intake,29.58,29.59,Pine Health Center,Pine Health Center,Pine Clinic
+8936796,32.43,F,2020-05-14,1987-12-17,2020-07-18,2020-07-24,follow-up,test results,follow-up,32.61,32.62,Cedar Clinic,Redwood Health Center,Spruce Clinic
+0865857,40.59,M,2020-07-19,1979-12-26,2020-08-29,2020-09-20,initial intake,initial intake,initial intake,40.7,40.76,Pine Health Center,Pine Health Center,Cedar Clinic
+0091627,26.42,M,2019-08-11,1993-03-16,2019-09-18,2019-09-21,initial intake,initial intake,drug pickup,26.52,26.53,Pine Health Center,Pine Health Center,Pine Clinic
+5046686,27.39,F,2019-07-04,1992-02-18,2019-08-07,2019-08-20,initial intake,test results,initial intake,27.48,27.52,Cedar Clinic,Redwood Health Center,Cedar Clinic
+4458638,40.22,F,2019-11-04,1979-08-25,2019-12-30,2020-01-29,follow-up,follow-up,test results,40.37,40.46,Cedar Health Center,Redwood Hospital,Pine Clinic
+0432220,68.52,F,2019-10-16,1951-04-26,2019-10-31,2019-11-30,initial intake,initial intake,initial intake,68.56,68.64,Redwood Hospital,Cedar Clinic,Cedar Clinic
+5642507,29.67,M,2020-12-26,1991-05-03,2021-01-09,2021-02-09,initial intake,initial intake,test results,29.71,29.79,Pine Health Center,Pine Health Center,Pine Clinic
+6957943,25.67,M,2019-03-02,1993-07-06,2019-04-28,2019-05-13,test results,follow-up,follow-up,25.83,25.87,Redwood Health Center,Spruce Clinic,Spruce Health Center
+2394107,24.25,F,2020-09-24,1996-06-30,2020-10-20,2020-11-20,drug pickup,initial intake,initial intake,24.32,24.41,Pine Health Center,Pine Health Center,Cedar Clinic
+6798454,24.82,M,2019-06-18,1994-08-28,2019-07-10,2019-07-25,test results,follow-up,initial intake,24.88,24.92,Pine Clinic,Cedar Clinic,Redwood Hospital
+8077089,40.57,F,2020-03-10,1979-08-24,2020-03-15,2020-03-19,follow-up,test results,test results,40.58,40.59,Pine Health Center,Pine Clinic,Pine Clinic
+8955170,38.47,M,2019-10-04,1981-04-24,2019-10-18,2019-10-27,follow-up,initial intake,initial intake,38.51,38.53,Redwood Hospital,Cedar Clinic,Pine Clinic
+2457980,49.73,M,2020-12-28,1971-04-18,2021-03-02,2021-03-04,drug pickup,initial intake,follow-up,49.91,49.91,Redwood Hospital,Cedar Clinic,Spruce Clinic
+9553632,37.19,F,2019-11-19,1982-09-19,2020-01-02,2020-01-31,test results,drug pickup,drug pickup,37.31,37.39,Cedar Clinic,Pine Health Center,Pine Clinic
+0863783,26.36,M,2019-11-17,1993-07-14,2019-11-22,2019-12-08,initial intake,follow-up,follow-up,26.37,26.42,Redwood Health Center,Spruce Clinic,Cedar Health Center
+0301043,23.44,F,2020-01-23,1996-08-20,2020-03-23,2020-04-10,initial intake,follow-up,initial intake,23.6,23.65,Redwood Health Center,Spruce Clinic,Cedar Clinic
+8142397,34.01,F,2020-01-16,1986-01-20,2020-01-25,2020-02-21,follow-up,initial intake,drug pickup,34.03,34.11,Pine Health Center,Pine Health Center,Pine Clinic
+6168791,12.19,F,2019-12-22,2007-10-16,2020-01-01,2020-01-10,test results,drug pickup,initial intake,12.22,12.24,Pine Clinic,Pine Health Center,Cedar Clinic
+4346654,39.23,M,2019-09-03,1980-06-20,2019-10-04,2019-11-06,follow-up,follow-up,test results,39.31,39.41,Pine Clinic,Cedar Clinic,Redwood Health Center
+2516362,42.25,F,2019-12-29,1977-10-08,2020-02-28,2020-03-14,drug pickup,drug pickup,follow-up,42.42,42.46,Cedar Clinic,Pine Health Center,Spruce Clinic
+2328355,29.25,M,2019-05-22,1990-02-26,2019-06-28,2019-07-02,drug pickup,initial intake,drug pickup,29.35,29.36,Spruce Clinic,Pine Clinic,Pine Health Center
+0839158,39.26,F,2020-06-25,1981-04-01,2020-08-02,2020-09-06,initial intake,follow-up,test results,39.36,39.46,Cedar Health Center,Redwood Hospital,Redwood Health Center
+9059424,12.97,F,2020-10-25,2007-11-08,2020-11-15,2020-12-05,test results,follow-up,initial intake,13.03,13.08,Pine Clinic,Cedar Clinic,Redwood Hospital
+1306214,20.11,F,2019-03-10,1999-02-02,2019-04-07,2019-05-01,drug pickup,follow-up,drug pickup,20.19,20.25,Pine Clinic,Cedar Clinic,Pine Clinic
+1743331,33.35,F,2020-10-30,1987-07-03,2020-12-03,2020-12-12,drug pickup,drug pickup,drug pickup,33.44,33.47,Pine Clinic,Pine Health Center,Pine Health Center
+9241976,56.74,F,2019-07-16,1962-11-01,2019-08-16,2019-08-29,test results,test results,test results,56.82,56.86,Cedar Clinic,Redwood Health Center,Pine Clinic
+9983198,39.22,F,2019-05-21,1980-03-10,2019-05-24,2019-06-11,test results,follow-up,drug pickup,39.23,39.28,Cedar Health Center,Redwood Hospital,Pine Clinic
+8356667,38.01,F,2020-08-23,1982-08-29,2020-10-15,2020-10-16,follow-up,initial intake,test results,38.16,38.16,Pine Health Center,Pine Health Center,Redwood Health Center
+3492186,19.4,F,2020-08-12,2001-03-24,2020-08-27,2020-09-03,follow-up,test results,follow-up,19.44,19.46,Cedar Clinic,Redwood Health Center,Spruce Health Center
+6674378,41.56,M,2019-05-05,1977-10-22,2019-06-24,2019-06-30,test results,follow-up,initial intake,41.7,41.71,Cedar Health Center,Redwood Hospital,Cedar Clinic
+2911211,50.43,M,2019-10-07,1969-05-15,2019-11-11,2019-12-13,drug pickup,drug pickup,follow-up,50.53,50.61,Pine Clinic,Pine Health Center,Spruce Health Center
+6331722,23.03,F,2019-10-13,1996-10-07,2019-10-22,2019-11-26,test results,drug pickup,test results,23.05,23.15,Cedar Clinic,Pine Health Center,Redwood Health Center
+8465732,19.77,M,2019-09-24,1999-12-21,2019-10-08,2019-10-24,follow-up,drug pickup,follow-up,19.81,19.85,Cedar Clinic,Pine Health Center,Spruce Clinic
+1176602,50.24,F,2019-10-18,1969-08-03,2019-10-20,2019-11-20,drug pickup,drug pickup,initial intake,50.25,50.33,Cedar Clinic,Pine Health Center,Cedar Clinic
+8024688,53.05,F,2019-05-11,1966-05-05,2019-05-25,2019-05-28,follow-up,follow-up,follow-up,53.09,53.1,Cedar Health Center,Redwood Hospital,Cedar Health Center
+2092069,42.03,F,2020-10-06,1978-10-06,2020-11-04,2020-11-26,drug pickup,test results,test results,42.11,42.17,Pine Health Center,Pine Clinic,Redwood Health Center
+8080948,11.15,F,2020-12-27,2009-11-05,2021-02-01,2021-02-06,follow-up,follow-up,test results,11.25,11.26,Cedar Health Center,Redwood Hospital,Redwood Health Center
+6893241,34.11,F,2019-03-07,1985-02-02,2019-04-11,2019-04-15,test results,drug pickup,initial intake,34.21,34.22,Pine Clinic,Pine Health Center,Redwood Hospital
+4352662,12.32,F,2020-07-11,2008-03-19,2020-07-31,2020-08-23,follow-up,drug pickup,follow-up,12.37,12.44,Cedar Clinic,Pine Health Center,Spruce Health Center
+4980414,31.42,F,2019-06-05,1988-01-10,2019-07-30,2019-08-13,follow-up,follow-up,follow-up,31.57,31.61,Pine Clinic,Cedar Clinic,Spruce Health Center
+4918573,21.22,F,2019-04-23,1998-02-06,2019-05-09,2019-05-30,follow-up,follow-up,initial intake,21.26,21.32,Redwood Health Center,Spruce Clinic,Cedar Clinic
+0577070,1.59,M,2020-04-12,2018-09-09,2020-06-15,2020-06-30,initial intake,initial intake,initial intake,1.77,1.81,Redwood Hospital,Cedar Clinic,Cedar Clinic
+4893011,41.54,M,2019-11-01,1978-04-27,2019-12-25,2020-01-09,follow-up,drug pickup,test results,41.69,41.73,Pine Clinic,Pine Health Center,Pine Clinic
+1211843,36.27,F,2020-05-11,1984-02-11,2020-05-23,2020-05-30,drug pickup,follow-up,initial intake,36.3,36.32,Redwood Health Center,Spruce Clinic,Cedar Clinic
+2974669,33.04,F,2019-09-16,1986-09-09,2019-10-21,2019-10-30,drug pickup,test results,initial intake,33.14,33.16,Pine Health Center,Pine Clinic,Cedar Clinic
+0103944,23.43,M,2020-03-26,1996-10-26,2020-05-20,2020-05-26,initial intake,follow-up,test results,23.58,23.6,Pine Clinic,Cedar Clinic,Redwood Health Center
+2618340,23.47,F,2019-08-08,1996-02-23,2019-09-26,2019-10-24,drug pickup,initial intake,follow-up,23.6,23.68,Redwood Hospital,Cedar Clinic,Spruce Clinic
+7285234,27.6,F,2019-11-20,1992-04-21,2019-11-25,NA,initial intake,follow-up,NA,27.61,NA,Pine Clinic,Cedar Clinic,NA
+0906713,10.35,F,2019-03-21,2008-11-15,2019-03-31,2019-04-25,initial intake,follow-up,initial intake,10.38,10.45,Redwood Health Center,Spruce Clinic,Redwood Hospital
+4886092,24.51,F,2019-06-20,1994-12-21,2019-07-30,2019-08-13,follow-up,drug pickup,follow-up,24.62,24.66,Cedar Clinic,Pine Health Center,Spruce Health Center
+0861246,19.13,M,2020-01-10,2000-11-27,2020-02-13,2020-03-17,initial intake,test results,initial intake,19.22,19.31,Cedar Clinic,Redwood Health Center,Pine Clinic
+0684299,39.92,M,2020-01-07,1980-02-15,2020-03-08,2020-04-08,initial intake,test results,follow-up,40.09,40.17,Pine Health Center,Pine Clinic,Cedar Health Center
+5344465,26.89,F,2020-09-11,1993-10-28,2020-09-23,2020-10-28,initial intake,initial intake,follow-up,26.92,27.02,Spruce Clinic,Pine Clinic,Cedar Health Center
+0207583,28.28,F,2020-07-08,1992-04-03,2020-08-09,2020-08-10,initial intake,follow-up,initial intake,28.37,28.37,Redwood Health Center,Spruce Clinic,Cedar Clinic
+3360082,38.42,F,2019-03-08,1980-10-14,2019-04-18,2019-05-13,follow-up,drug pickup,follow-up,38.53,38.6,Cedar Clinic,Pine Health Center,Spruce Health Center
+7950484,21.88,M,2019-04-21,1997-06-08,2019-06-22,NA,initial intake,follow-up,NA,22.05,NA,Pine Clinic,Cedar Clinic,NA
+2877629,20.38,F,2019-02-24,1998-10-13,2019-04-19,2019-05-04,drug pickup,test results,follow-up,20.53,20.57,Pine Health Center,Pine Clinic,Spruce Clinic
+1143297,29.86,F,2020-05-20,1990-07-18,2020-06-04,2020-06-25,drug pickup,initial intake,initial intake,29.9,29.96,Pine Health Center,Pine Health Center,Redwood Hospital
+7282642,44.41,F,2019-05-26,1975-01-07,2019-07-13,NA,initial intake,drug pickup,NA,44.54,NA,Cedar Clinic,Pine Health Center,NA
+3007238,1.69,M,2019-04-08,2017-07-30,2019-05-31,2019-07-03,follow-up,follow-up,follow-up,1.84,1.93,Cedar Health Center,Redwood Hospital,Spruce Health Center
+2185792,8.22,M,2020-01-26,2011-11-08,2020-03-08,2020-04-11,drug pickup,drug pickup,drug pickup,8.34,8.43,Cedar Clinic,Pine Health Center,Pine Clinic
+4042192,53.63,M,2019-12-26,1966-05-23,2020-02-02,2020-03-04,follow-up,drug pickup,follow-up,53.73,53.82,Cedar Clinic,Pine Health Center,Spruce Clinic
+3282608,19.37,F,2020-02-29,2000-10-20,2020-04-21,2020-05-18,follow-up,follow-up,follow-up,19.51,19.59,Cedar Health Center,Redwood Hospital,Cedar Health Center
+6426942,14.45,F,2019-05-27,2004-12-16,2019-07-06,2019-07-25,test results,drug pickup,initial intake,14.56,14.61,Cedar Clinic,Pine Health Center,Redwood Hospital
+3602081,28.04,F,2020-05-15,1992-05-07,2020-06-01,2020-06-09,follow-up,drug pickup,test results,28.09,28.11,Pine Clinic,Pine Health Center,Pine Clinic
+8069713,17.12,F,2020-12-15,2003-11-06,2020-12-19,2020-12-28,follow-up,follow-up,follow-up,17.13,17.16,Redwood Health Center,Spruce Clinic,Cedar Health Center
+1829558,19.82,F,2020-11-01,2001-01-10,2020-12-01,2020-12-13,drug pickup,follow-up,follow-up,19.9,19.94,Cedar Health Center,Redwood Hospital,Spruce Health Center
+8690047,34.92,F,2020-06-17,1985-07-25,2020-08-20,2020-08-22,follow-up,initial intake,drug pickup,35.1,35.1,Pine Health Center,Pine Health Center,Pine Health Center
+4166893,40.94,M,2020-04-14,1979-05-16,2020-06-18,2020-06-22,follow-up,follow-up,drug pickup,41.12,41.13,Redwood Health Center,Spruce Clinic,Pine Health Center
+8123719,29.83,M,2020-12-03,1991-02-11,2021-02-03,2021-02-15,follow-up,test results,initial intake,30,30.03,Pine Health Center,Pine Clinic,Redwood Hospital
+2756100,20.7,F,2019-02-16,1998-06-10,2019-04-09,2019-05-01,drug pickup,initial intake,drug pickup,20.84,20.9,Redwood Hospital,Cedar Clinic,Pine Clinic
+3330671,28.85,F,2019-04-14,1990-06-14,2019-05-06,2019-05-26,follow-up,drug pickup,test results,28.91,28.97,Pine Clinic,Pine Health Center,Redwood Health Center
+3856086,46.18,M,2019-02-03,1972-12-10,2019-03-29,2019-04-30,follow-up,test results,initial intake,46.33,46.42,Cedar Clinic,Redwood Health Center,Cedar Clinic
+8734991,46.85,M,2020-12-25,1974-03-01,2021-01-23,2021-02-16,follow-up,drug pickup,test results,46.93,47,Pine Clinic,Pine Health Center,Redwood Health Center
+2331600,58.73,M,2020-07-12,1961-11-02,2020-07-14,2020-08-07,drug pickup,initial intake,initial intake,58.74,58.8,Redwood Hospital,Cedar Clinic,Pine Clinic
+0395853,20.15,F,2020-11-26,2000-10-07,2021-01-12,2021-01-13,initial intake,follow-up,follow-up,20.28,20.28,Redwood Health Center,Spruce Clinic,Spruce Health Center
+7569666,4.24,M,2019-04-26,2015-01-29,2019-05-22,NA,initial intake,test results,NA,4.31,NA,Cedar Clinic,Redwood Health Center,NA
+0208718,39.16,F,2020-03-28,1981-02-07,2020-05-29,2020-06-12,initial intake,follow-up,drug pickup,39.33,39.37,Cedar Health Center,Redwood Hospital,Pine Health Center
+6322244,31.41,F,2020-04-26,1988-12-05,2020-06-07,2020-07-11,test results,follow-up,drug pickup,31.53,31.62,Pine Clinic,Cedar Clinic,Pine Clinic
+9019410,14.16,M,2020-05-04,2006-03-10,2020-05-20,2020-06-11,test results,initial intake,drug pickup,14.2,14.26,Redwood Hospital,Cedar Clinic,Pine Clinic
+6966618,41.16,M,2020-04-08,1979-02-19,2020-04-28,2020-05-10,test results,follow-up,initial intake,41.21,41.25,Cedar Health Center,Redwood Hospital,Cedar Clinic
+5887990,23.92,F,2020-01-25,1996-02-29,2020-02-19,2020-03-13,initial intake,initial intake,follow-up,23.99,24.05,Redwood Hospital,Cedar Clinic,Spruce Health Center
+4776638,56.07,F,2020-08-08,1964-07-27,2020-08-18,2020-09-21,follow-up,follow-up,drug pickup,56.1,56.19,Cedar Health Center,Redwood Hospital,Pine Clinic
+8385036,20.66,F,2019-12-03,1999-04-11,2019-12-04,2020-01-02,follow-up,test results,drug pickup,20.66,20.74,Cedar Clinic,Redwood Health Center,Pine Health Center
+7959876,5.53,M,2019-09-26,2014-03-17,2019-11-16,NA,initial intake,test results,NA,5.67,NA,Cedar Clinic,Redwood Health Center,NA
+8590860,16.77,F,2020-02-21,2003-05-19,2020-03-22,2020-04-08,follow-up,initial intake,follow-up,16.85,16.9,Redwood Hospital,Cedar Clinic,Cedar Health Center
+5488424,51.57,F,2020-05-03,1968-10-19,2020-05-06,2020-05-07,initial intake,follow-up,initial intake,51.58,51.58,Pine Clinic,Cedar Clinic,Pine Clinic
+8636973,-27.26,F,2019-07-11,2046-10-06,2019-08-31,2019-09-06,follow-up,follow-up,test results,-27.12,-27.1,Redwood Health Center,Spruce Clinic,Redwood Health Center
+0866729,14.07,F,2020-09-07,2006-08-16,2020-10-05,2020-10-30,initial intake,test results,initial intake,14.15,14.22,Pine Health Center,Pine Clinic,Cedar Clinic
+7908183,28.8,M,2020-10-24,1992-01-13,2020-12-09,NA,initial intake,follow-up,NA,28.93,NA,Redwood Health Center,Spruce Clinic,NA
+1877714,44.81,F,2019-02-06,1974-04-27,2019-02-09,2019-02-24,drug pickup,follow-up,follow-up,44.82,44.86,Pine Clinic,Cedar Clinic,Spruce Clinic
+7476552,48.06,M,2020-05-19,1972-05-09,2020-07-11,NA,initial intake,drug pickup,NA,48.21,NA,Cedar Clinic,Pine Health Center,NA
+9692998,28.13,F,2020-12-09,1992-10-29,2021-01-08,2021-01-19,test results,follow-up,test results,28.21,28.24,Cedar Health Center,Redwood Hospital,Pine Clinic
+4827824,28.63,F,2020-02-08,1991-06-30,2020-02-24,2020-03-11,follow-up,follow-up,drug pickup,28.67,28.72,Pine Clinic,Cedar Clinic,Pine Clinic
+8756035,40.34,M,2020-05-06,1980-01-12,2020-05-22,2020-05-23,follow-up,initial intake,follow-up,40.38,40.39,Spruce Clinic,Pine Clinic,Spruce Health Center
+4497888,23.34,F,2019-01-31,1995-10-04,2019-04-03,2019-04-30,follow-up,follow-up,initial intake,23.51,23.58,Cedar Health Center,Redwood Hospital,Cedar Clinic
+8856313,24.41,F,2020-09-21,1996-04-30,2020-10-07,2020-10-08,follow-up,follow-up,follow-up,24.45,24.46,Redwood Health Center,Spruce Clinic,Cedar Health Center
+1972302,22.23,F,2019-10-19,1997-08-01,2019-12-08,2020-01-05,drug pickup,drug pickup,initial intake,22.37,22.44,Cedar Clinic,Pine Health Center,Redwood Hospital
+2006490,26.41,M,2019-02-11,1992-09-20,2019-02-27,2019-03-08,drug pickup,initial intake,follow-up,26.45,26.48,Redwood Hospital,Cedar Clinic,Cedar Health Center
+4970968,44.31,M,2020-11-20,1976-08-09,2020-11-27,2020-12-30,follow-up,follow-up,initial intake,44.33,44.42,Cedar Health Center,Redwood Hospital,Cedar Clinic
+4991386,19.39,F,2020-06-09,2001-01-22,2020-07-10,2020-08-07,follow-up,test results,initial intake,19.47,19.55,Cedar Clinic,Redwood Health Center,Pine Clinic
+8947782,17.73,F,2019-11-14,2002-02-24,2019-12-03,2019-12-23,follow-up,drug pickup,follow-up,17.78,17.84,Cedar Clinic,Pine Health Center,Spruce Health Center
+4340090,10.75,M,2019-08-27,2008-11-28,2019-10-09,2019-11-07,follow-up,initial intake,initial intake,10.87,10.95,Redwood Hospital,Cedar Clinic,Pine Clinic
+0352092,18.68,F,2019-07-12,2000-11-09,2019-07-17,2019-07-22,initial intake,drug pickup,drug pickup,18.69,18.71,Cedar Clinic,Pine Health Center,Pine Health Center
+0621196,41.94,F,2019-07-01,1977-08-01,2019-09-02,2019-10-04,initial intake,test results,follow-up,42.11,42.2,Cedar Clinic,Redwood Health Center,Spruce Clinic
+6235244,18.46,F,2019-08-12,2001-03-01,2019-09-06,2019-09-19,test results,follow-up,test results,18.53,18.56,Pine Clinic,Cedar Clinic,Pine Clinic
+1960069,15.75,M,2020-05-30,2004-09-02,2020-06-04,2020-06-29,drug pickup,test results,test results,15.76,15.83,Pine Health Center,Pine Clinic,Pine Clinic
+5528776,32.07,F,2019-03-23,1987-03-05,2019-05-04,2019-05-14,initial intake,test results,follow-up,32.19,32.21,Cedar Clinic,Redwood Health Center,Spruce Clinic
+4554147,28.44,F,2020-09-30,1992-04-29,2020-11-29,2020-12-01,follow-up,initial intake,drug pickup,28.6,28.61,Pine Health Center,Pine Health Center,Pine Clinic
+3107872,22.64,F,2019-03-22,1996-08-05,2019-04-07,2019-04-28,follow-up,drug pickup,follow-up,22.68,22.74,Cedar Clinic,Pine Health Center,Cedar Health Center
+6409670,9.66,F,2020-08-14,2010-12-19,2020-09-22,2020-10-18,test results,initial intake,follow-up,9.77,9.84,Redwood Hospital,Cedar Clinic,Cedar Health Center
+9714462,31.94,F,2019-06-09,1987-07-08,2019-07-14,2019-07-16,test results,drug pickup,test results,32.04,32.04,Cedar Clinic,Pine Health Center,Redwood Health Center
+6831759,32.07,F,2019-12-18,1987-11-30,2020-01-10,2020-02-05,test results,test results,initial intake,32.13,32.2,Pine Health Center,Pine Clinic,Redwood Hospital
+5243291,39.79,M,2020-11-24,1981-02-18,2020-12-20,2020-12-21,initial intake,drug pickup,drug pickup,39.86,39.86,Pine Clinic,Pine Health Center,Pine Clinic
+4736524,38.82,F,2019-03-15,1980-05-28,2019-05-17,2019-06-12,follow-up,follow-up,drug pickup,38.99,39.06,Pine Clinic,Cedar Clinic,Pine Health Center
+0752365,57.15,F,2020-11-06,1963-09-27,2020-11-11,2020-12-10,initial intake,initial intake,initial intake,57.16,57.24,Spruce Clinic,Pine Clinic,Cedar Clinic
+7106834,37.3,F,2019-07-02,1982-03-23,2019-09-02,NA,initial intake,follow-up,NA,37.47,NA,Pine Clinic,Cedar Clinic,NA
+5585438,7.24,F,2020-02-19,2012-11-24,2020-03-27,2020-04-01,initial intake,follow-up,drug pickup,7.34,7.36,Cedar Health Center,Redwood Hospital,Pine Clinic
+8052292,32.59,M,2020-06-01,1987-11-06,2020-07-12,2020-07-17,follow-up,drug pickup,initial intake,32.7,32.72,Cedar Clinic,Pine Health Center,Pine Clinic
+7972435,44.74,F,2019-10-31,1975-02-13,2019-12-18,NA,initial intake,initial intake,NA,44.87,NA,Spruce Clinic,Pine Clinic,NA
+8514192,34.06,M,2020-02-03,1986-01-20,2020-03-16,2020-03-20,follow-up,drug pickup,initial intake,34.18,34.19,Cedar Clinic,Pine Health Center,Cedar Clinic
+7273481,1.07,F,2019-03-19,2018-02-21,2019-05-17,NA,initial intake,drug pickup,NA,1.23,NA,Pine Clinic,Pine Health Center,NA
+0536658,59.13,F,2019-02-13,1960-01-11,2019-02-16,2019-03-15,initial intake,follow-up,initial intake,59.14,59.21,Cedar Health Center,Redwood Hospital,Redwood Hospital
+6654087,16.62,M,2020-03-18,2003-08-08,2020-03-28,2020-04-12,test results,initial intake,drug pickup,16.65,16.69,Pine Health Center,Pine Health Center,Pine Health Center
+7368951,35.83,M,2019-11-22,1984-02-01,2020-01-10,NA,initial intake,drug pickup,NA,35.96,NA,Pine Clinic,Pine Health Center,NA
+5474301,29.58,F,2019-05-15,1989-10-22,2019-05-17,2019-06-20,initial intake,drug pickup,initial intake,29.59,29.68,Pine Clinic,Pine Health Center,Cedar Clinic
+3226140,30.18,F,2019-06-01,1989-04-03,2019-07-10,2019-07-24,follow-up,initial intake,follow-up,30.29,30.33,Redwood Hospital,Cedar Clinic,Spruce Clinic
+3000600,8.34,F,2020-10-18,2012-06-17,2020-12-16,2020-12-31,follow-up,initial intake,drug pickup,8.5,8.54,Redwood Hospital,Cedar Clinic,Pine Clinic
+4372021,32.16,M,2020-03-29,1988-02-07,2020-04-21,2020-05-23,follow-up,drug pickup,follow-up,32.22,32.31,Pine Clinic,Pine Health Center,Spruce Health Center
+9954967,0.58,M,2019-09-10,2019-02-10,2019-10-08,2019-10-27,test results,initial intake,initial intake,0.66,0.71,Pine Health Center,Pine Health Center,Pine Clinic
+0170203,17.62,M,2019-03-05,2001-07-25,2019-04-12,2019-04-29,initial intake,follow-up,test results,17.72,17.77,Redwood Health Center,Spruce Clinic,Pine Clinic
+9023747,19.71,F,2020-11-29,2001-03-19,2020-12-27,2021-01-31,test results,initial intake,drug pickup,19.79,19.88,Pine Health Center,Pine Health Center,Pine Clinic
+6323106,-2.6,M,2019-12-30,2022-08-05,2020-01-22,2020-02-26,test results,test results,test results,-2.54,-2.44,Cedar Clinic,Redwood Health Center,Redwood Health Center
+7382188,25.31,F,2020-03-16,1994-11-29,2020-05-19,NA,initial intake,follow-up,NA,25.49,NA,Cedar Health Center,Redwood Hospital,NA
+6158803,6.76,M,2019-07-15,2012-10-11,2019-09-15,2019-10-20,test results,follow-up,initial intake,6.93,7.03,Redwood Health Center,Spruce Clinic,Cedar Clinic
+4765991,25.59,F,2020-02-26,1994-07-31,2020-04-23,2020-05-09,follow-up,drug pickup,test results,25.75,25.79,Pine Clinic,Pine Health Center,Pine Clinic
+6455456,22.4,M,2020-09-05,1998-04-18,2020-09-13,2020-09-16,test results,test results,test results,22.42,22.43,Cedar Clinic,Redwood Health Center,Redwood Health Center
+1105745,49.4,F,2019-09-07,1970-04-26,2019-10-01,2019-10-21,drug pickup,initial intake,drug pickup,49.47,49.52,Spruce Clinic,Pine Clinic,Pine Clinic
+7758252,37.02,F,2020-09-06,1983-09-08,2020-09-13,NA,initial intake,drug pickup,NA,37.04,NA,Cedar Clinic,Pine Health Center,NA
+5423576,23.87,F,2020-11-22,1997-01-14,2020-12-21,2021-01-22,initial intake,test results,drug pickup,23.95,24.04,Cedar Clinic,Redwood Health Center,Pine Health Center
+1494894,11.52,M,2019-12-05,2008-05-31,2020-01-07,2020-01-08,drug pickup,follow-up,follow-up,11.61,11.61,Pine Clinic,Cedar Clinic,Cedar Health Center
+8714319,30.6,F,2020-07-31,1990-01-01,2020-09-13,2020-10-03,follow-up,test results,follow-up,30.72,30.78,Pine Health Center,Pine Clinic,Spruce Health Center
+7639124,16.03,M,2020-02-28,2004-02-21,2020-04-04,NA,initial intake,follow-up,NA,16.13,NA,Pine Clinic,Cedar Clinic,NA
+5869472,15.75,M,2020-01-02,2004-04-06,2020-02-27,2020-03-06,initial intake,drug pickup,test results,15.9,15.93,Cedar Clinic,Pine Health Center,Redwood Health Center
+1487804,61.88,M,2019-11-11,1958-01-08,2020-01-01,2020-01-19,drug pickup,follow-up,test results,62.02,62.07,Pine Clinic,Cedar Clinic,Pine Clinic
+7665564,19.27,F,2019-06-24,2000-03-21,2019-08-09,NA,initial intake,follow-up,NA,19.4,NA,Pine Clinic,Cedar Clinic,NA
+9668971,12.91,M,2019-11-30,2007-01-04,2020-01-05,2020-02-02,test results,drug pickup,drug pickup,13.01,13.09,Pine Clinic,Pine Health Center,Pine Health Center
+0728691,-0.75,F,2019-09-19,2020-06-18,2019-11-14,2019-12-12,initial intake,drug pickup,drug pickup,-0.6,-0.52,Pine Clinic,Pine Health Center,Pine Health Center
+8374429,6.35,M,2020-06-05,2014-01-30,2020-07-03,2020-07-09,follow-up,test results,test results,6.43,6.44,Pine Health Center,Pine Clinic,Pine Clinic
+6563669,52.72,F,2020-07-10,1967-11-03,2020-07-17,2020-08-04,test results,test results,follow-up,52.74,52.79,Pine Health Center,Pine Clinic,Spruce Clinic
+6090650,39.18,M,2019-01-21,1979-11-26,2019-03-16,2019-04-17,test results,initial intake,initial intake,39.33,39.42,Redwood Hospital,Cedar Clinic,Pine Clinic
+7305153,42.58,M,2020-10-20,1978-04-02,2020-11-17,NA,initial intake,follow-up,NA,42.66,NA,Redwood Health Center,Spruce Clinic,NA
+7320195,40.38,F,2019-10-27,1979-06-20,2019-12-19,NA,initial intake,initial intake,NA,40.53,NA,Spruce Clinic,Pine Clinic,NA
+3920336,38.89,F,2020-08-18,1981-10-07,2020-08-28,2020-08-29,follow-up,test results,test results,38.92,38.92,Cedar Clinic,Redwood Health Center,Pine Clinic
+6060859,29.84,F,2019-05-25,1989-07-29,2019-06-07,2019-07-12,test results,test results,drug pickup,29.88,29.97,Pine Health Center,Pine Clinic,Pine Health Center
+7394891,32.91,F,2020-07-06,1987-08-16,2020-08-09,NA,initial intake,drug pickup,NA,33,NA,Pine Clinic,Pine Health Center,NA
+7836629,29.11,F,2020-09-26,1991-08-24,2020-09-28,NA,initial intake,test results,NA,29.12,NA,Pine Health Center,Pine Clinic,NA
+9961688,31.99,M,2020-05-28,1988-06-08,2020-06-09,2020-06-16,test results,follow-up,test results,32.02,32.04,Cedar Health Center,Redwood Hospital,Redwood Health Center
+3114800,26.5,M,2020-12-04,1994-06-11,2021-01-07,2021-02-03,follow-up,initial intake,follow-up,26.59,26.67,Redwood Hospital,Cedar Clinic,Spruce Health Center
+2217723,24.68,M,2019-09-02,1995-01-02,2019-11-04,2019-11-18,drug pickup,follow-up,follow-up,24.85,24.89,Redwood Health Center,Spruce Clinic,Cedar Health Center
+6350916,40.09,M,2020-05-10,1980-04-17,2020-05-29,2020-05-30,test results,test results,initial intake,40.14,40.14,Cedar Clinic,Redwood Health Center,Cedar Clinic
+7933638,39.79,F,2020-05-02,1980-07-27,2020-05-11,NA,initial intake,follow-up,NA,39.81,NA,Cedar Health Center,Redwood Hospital,NA
+7087650,24.77,M,2019-02-10,1994-05-10,2019-02-19,NA,initial intake,initial intake,NA,24.79,NA,Redwood Hospital,Cedar Clinic,NA
+8637405,60.68,F,2019-04-29,1958-09-07,2019-05-24,2019-06-25,follow-up,initial intake,initial intake,60.75,60.84,Spruce Clinic,Pine Clinic,Redwood Hospital
+9212487,12.08,M,2019-07-27,2007-06-30,2019-08-30,2019-09-30,test results,initial intake,initial intake,12.17,12.26,Pine Health Center,Pine Health Center,Cedar Clinic
+4247735,44.96,F,2019-05-24,1974-06-18,2019-07-22,2019-08-06,follow-up,initial intake,test results,45.12,45.16,Spruce Clinic,Pine Clinic,Redwood Health Center
+6001518,27.34,M,2019-02-08,1991-10-13,2019-04-12,2019-05-01,test results,follow-up,drug pickup,27.51,27.56,Cedar Health Center,Redwood Hospital,Pine Clinic
+3356548,24.89,M,2019-05-28,1994-07-13,2019-06-17,2019-06-22,follow-up,follow-up,drug pickup,24.94,24.96,Cedar Health Center,Redwood Hospital,Pine Health Center
+4727653,43.09,F,2019-10-02,1976-09-09,2019-10-30,2019-11-13,follow-up,follow-up,follow-up,43.17,43.21,Redwood Health Center,Spruce Clinic,Spruce Health Center
+7986087,25.5,F,2020-03-21,1994-09-26,2020-05-04,NA,initial intake,initial intake,NA,25.62,NA,Pine Health Center,Pine Health Center,NA
+9657302,38.64,M,2020-10-09,1982-02-27,2020-11-20,2020-12-04,test results,drug pickup,follow-up,38.76,38.79,Cedar Clinic,Pine Health Center,Spruce Clinic
+7744793,51.29,F,2019-10-22,1968-07-20,2019-12-10,NA,initial intake,follow-up,NA,51.42,NA,Redwood Health Center,Spruce Clinic,NA
+1571914,27.84,F,2019-12-08,1992-02-11,2019-12-11,2020-01-15,drug pickup,follow-up,initial intake,27.85,27.94,Pine Clinic,Cedar Clinic,Redwood Hospital
+9414696,12.31,M,2020-09-10,2008-05-22,2020-10-05,2020-10-18,test results,test results,follow-up,12.38,12.41,Cedar Clinic,Redwood Health Center,Cedar Health Center
+4913465,23.47,F,2019-10-14,1996-04-30,2019-11-30,2019-12-14,follow-up,initial intake,follow-up,23.6,23.64,Spruce Clinic,Pine Clinic,Spruce Clinic
+0721242,-4.06,F,2019-10-26,2023-11-15,2019-12-12,2020-01-05,initial intake,drug pickup,initial intake,-3.93,-3.87,Cedar Clinic,Pine Health Center,Redwood Hospital
+0084891,34.55,F,2019-11-26,1985-05-17,2020-01-26,2020-02-20,initial intake,drug pickup,initial intake,34.72,34.79,Pine Clinic,Pine Health Center,Cedar Clinic
+1716232,23.22,M,2020-09-16,1997-07-03,2020-10-18,2020-11-10,drug pickup,drug pickup,initial intake,23.31,23.37,Cedar Clinic,Pine Health Center,Cedar Clinic
+5680851,67.86,F,2020-09-08,1952-11-15,2020-09-16,2020-10-16,initial intake,drug pickup,test results,67.88,67.96,Pine Clinic,Pine Health Center,Redwood Health Center
+5036809,23.2,M,2019-12-15,1996-10-08,2020-02-17,2020-03-08,initial intake,test results,follow-up,23.38,23.43,Pine Health Center,Pine Clinic,Cedar Health Center
+0487084,32.67,F,2019-04-18,1986-08-24,2019-05-28,2019-05-29,initial intake,follow-up,test results,32.78,32.78,Pine Clinic,Cedar Clinic,Pine Clinic
+0581675,38.66,M,2020-01-09,1981-05-22,2020-02-26,2020-03-12,initial intake,initial intake,drug pickup,38.79,38.83,Spruce Clinic,Pine Clinic,Pine Health Center
+6745950,17.66,M,2019-04-01,2001-08-07,2019-04-30,2019-05-10,test results,initial intake,initial intake,17.74,17.77,Redwood Hospital,Cedar Clinic,Cedar Clinic
+9005485,9.49,F,2019-01-24,2009-07-31,2019-03-08,2019-04-05,test results,initial intake,initial intake,9.61,9.68,Spruce Clinic,Pine Clinic,Redwood Hospital
+8429485,10.39,F,2020-10-31,2010-06-13,2020-11-16,2020-12-06,follow-up,initial intake,test results,10.43,10.49,Spruce Clinic,Pine Clinic,Redwood Health Center
+1302788,46.87,F,2019-07-14,1972-09-10,2019-08-05,2019-08-11,drug pickup,follow-up,drug pickup,46.93,46.95,Cedar Health Center,Redwood Hospital,Pine Clinic
+8826891,13.45,M,2019-02-14,2005-09-05,2019-02-25,2019-03-20,follow-up,drug pickup,initial intake,13.48,13.54,Pine Clinic,Pine Health Center,Cedar Clinic
+6978380,23.94,F,2020-03-23,1996-04-19,2020-04-16,2020-05-10,test results,initial intake,initial intake,24.01,24.07,Redwood Hospital,Cedar Clinic,Cedar Clinic
+4459390,43.72,F,2020-02-13,1976-06-05,2020-03-17,2020-04-07,follow-up,initial intake,initial intake,43.81,43.87,Redwood Hospital,Cedar Clinic,Pine Clinic
+5754674,-10.54,M,2020-08-11,2031-02-22,2020-09-04,2020-09-22,initial intake,follow-up,drug pickup,-10.47,-10.42,Pine Clinic,Cedar Clinic,Pine Health Center
+1859243,17.27,M,2020-07-13,2003-04-10,2020-07-24,2020-08-21,drug pickup,follow-up,drug pickup,17.3,17.38,Redwood Health Center,Spruce Clinic,Pine Clinic
+6795063,40.92,M,2020-11-04,1979-12-14,2021-01-05,2021-01-29,test results,follow-up,test results,41.09,41.16,Redwood Health Center,Spruce Clinic,Pine Clinic
+3131952,-7.4,F,2020-07-14,2027-12-06,2020-08-26,2020-09-24,follow-up,drug pickup,follow-up,-7.28,-7.2,Cedar Clinic,Pine Health Center,Spruce Clinic
+5872825,37.17,F,2020-06-16,1983-04-24,2020-07-17,2020-08-08,initial intake,initial intake,follow-up,37.25,37.32,Spruce Clinic,Pine Clinic,Cedar Health Center
+6547736,22.84,F,2019-04-12,1996-06-14,2019-05-27,2019-07-01,test results,test results,drug pickup,22.96,23.06,Cedar Clinic,Redwood Health Center,Pine Clinic
+2766453,27.98,M,2019-11-13,1991-11-27,2019-12-21,2019-12-22,drug pickup,follow-up,drug pickup,28.08,28.09,Redwood Health Center,Spruce Clinic,Pine Health Center
+5506921,40.65,M,2020-07-21,1979-12-06,2020-09-21,2020-09-28,initial intake,drug pickup,follow-up,40.82,40.84,Pine Clinic,Pine Health Center,Cedar Health Center
+0244665,37.83,F,2019-10-17,1981-12-27,2019-10-29,2019-12-03,initial intake,initial intake,follow-up,37.86,37.96,Spruce Clinic,Pine Clinic,Spruce Health Center
+4107359,46.99,F,2020-07-20,1973-08-04,2020-09-12,2020-09-28,follow-up,test results,follow-up,47.14,47.18,Pine Health Center,Pine Clinic,Cedar Health Center
+4295786,40.32,F,2019-12-24,1979-09-08,2020-02-23,2020-02-25,follow-up,test results,initial intake,40.49,40.49,Cedar Clinic,Redwood Health Center,Redwood Hospital
+2316486,23.86,M,2020-05-23,1996-07-19,2020-07-11,2020-08-11,drug pickup,test results,drug pickup,23.99,24.08,Cedar Clinic,Redwood Health Center,Pine Clinic
+4244579,30.82,F,2020-06-27,1989-09-08,2020-07-28,2020-07-30,follow-up,test results,initial intake,30.9,30.91,Pine Health Center,Pine Clinic,Cedar Clinic
+2664436,33.31,M,2019-09-06,1986-05-23,2019-10-28,2019-11-19,drug pickup,test results,test results,33.45,33.51,Cedar Clinic,Redwood Health Center,Pine Clinic
+9891806,29.39,F,2020-02-18,1990-10-05,2020-04-15,2020-04-29,test results,test results,test results,29.55,29.58,Cedar Clinic,Redwood Health Center,Pine Clinic
+3930294,59,F,2020-06-11,1961-06-26,2020-06-19,2020-07-13,follow-up,follow-up,follow-up,59.02,59.09,Pine Clinic,Cedar Clinic,Spruce Health Center
+3838252,33.79,F,2019-01-19,1985-04-13,2019-02-06,2019-03-04,follow-up,drug pickup,follow-up,33.84,33.91,Cedar Clinic,Pine Health Center,Spruce Clinic
+0469691,3.65,F,2020-01-24,2016-05-31,2020-01-26,2020-02-09,initial intake,drug pickup,test results,3.66,3.69,Pine Clinic,Pine Health Center,Pine Clinic
+6737578,43.29,F,2019-08-13,1976-05-09,2019-08-14,2019-09-08,test results,follow-up,follow-up,43.29,43.36,Cedar Health Center,Redwood Hospital,Cedar Health Center
+3892229,50.61,F,2020-03-04,1969-08-06,2020-05-01,2020-05-29,follow-up,test results,test results,50.77,50.85,Pine Health Center,Pine Clinic,Pine Clinic
+0874391,36.76,F,2020-08-25,1983-11-30,2020-10-13,2020-11-02,initial intake,drug pickup,drug pickup,36.89,36.95,Pine Clinic,Pine Health Center,Pine Health Center
+3612735,37.3,M,2019-06-14,1982-03-05,2019-06-28,2019-06-29,follow-up,initial intake,test results,37.34,37.34,Spruce Clinic,Pine Clinic,Pine Clinic
+8914045,42.31,M,2020-03-30,1977-12-17,2020-05-01,2020-05-14,follow-up,initial intake,follow-up,42.4,42.43,Spruce Clinic,Pine Clinic,Spruce Clinic
+6119910,27.3,F,2020-01-01,1992-09-19,2020-01-09,2020-02-07,test results,initial intake,initial intake,27.32,27.4,Redwood Hospital,Cedar Clinic,Pine Clinic
+3400020,21.57,F,2020-01-17,1998-06-27,2020-03-16,2020-03-19,follow-up,initial intake,test results,21.73,21.74,Redwood Hospital,Cedar Clinic,Pine Clinic
+0891308,44.83,M,2020-12-30,1976-03-13,2021-03-04,2021-03-24,initial intake,follow-up,follow-up,45.01,45.06,Cedar Health Center,Redwood Hospital,Spruce Clinic
+9461422,48.77,F,2019-09-14,1970-12-18,2019-10-09,2019-10-14,test results,drug pickup,follow-up,48.84,48.85,Cedar Clinic,Pine Health Center,Spruce Clinic
+8281517,34.12,F,2019-07-29,1985-06-23,2019-09-17,2019-10-08,follow-up,initial intake,follow-up,34.26,34.31,Pine Health Center,Pine Health Center,Cedar Health Center
+3997487,33.81,M,2020-08-07,1986-10-24,2020-09-23,2020-09-24,follow-up,initial intake,follow-up,33.94,33.94,Pine Health Center,Pine Health Center,Spruce Clinic
+3115432,26.06,F,2020-04-03,1994-03-19,2020-06-07,2020-07-10,follow-up,drug pickup,initial intake,26.24,26.33,Cedar Clinic,Pine Health Center,Cedar Clinic
+5827758,37.76,M,2019-02-28,1981-06-04,2019-04-04,2019-04-24,initial intake,follow-up,follow-up,37.86,37.91,Cedar Health Center,Redwood Hospital,Spruce Clinic
+1726783,32.54,F,2019-04-05,1986-09-27,2019-06-05,2019-06-25,drug pickup,follow-up,initial intake,32.71,32.76,Redwood Health Center,Spruce Clinic,Redwood Hospital
+2530227,47.78,F,2019-04-20,1971-07-21,2019-06-11,2019-06-28,drug pickup,initial intake,follow-up,47.92,47.97,Pine Health Center,Pine Health Center,Cedar Health Center
+6660556,55.98,F,2020-04-22,1964-05-13,2020-06-07,2020-07-02,test results,test results,drug pickup,56.11,56.17,Cedar Clinic,Redwood Health Center,Pine Health Center
+3761338,49.49,F,2020-04-01,1970-10-17,2020-04-16,2020-05-11,follow-up,follow-up,drug pickup,49.53,49.6,Cedar Health Center,Redwood Hospital,Pine Clinic
+9800971,23.42,F,2020-11-09,1997-06-14,2020-12-22,2021-01-08,test results,drug pickup,follow-up,23.54,23.58,Pine Clinic,Pine Health Center,Cedar Health Center
+6608508,26.4,M,2020-05-22,1994-01-03,2020-05-23,2020-06-09,test results,follow-up,test results,26.4,26.45,Cedar Health Center,Redwood Hospital,Pine Clinic
+9671527,26.64,F,2019-07-22,1992-12-06,2019-09-08,2019-09-13,test results,initial intake,follow-up,26.77,26.79,Pine Health Center,Pine Health Center,Spruce Health Center
+8770899,19,F,2019-10-05,2000-10-09,2019-11-11,2019-12-13,follow-up,test results,follow-up,19.1,19.19,Pine Health Center,Pine Clinic,Spruce Health Center
+1455014,16.92,M,2019-09-27,2002-10-30,2019-11-24,2019-12-20,drug pickup,follow-up,initial intake,17.08,17.15,Pine Clinic,Cedar Clinic,Cedar Clinic
+1430466,36.89,M,2020-05-31,1983-07-20,2020-07-23,2020-08-09,drug pickup,test results,test results,37.04,37.08,Cedar Clinic,Redwood Health Center,Pine Clinic
+9395168,47.56,F,2019-08-16,1972-02-04,2019-09-06,2019-09-17,test results,follow-up,initial intake,47.62,47.65,Cedar Health Center,Redwood Hospital,Pine Clinic
+0591680,47.93,F,2020-12-07,1973-01-13,2021-01-15,2021-01-29,initial intake,initial intake,test results,48.04,48.08,Redwood Hospital,Cedar Clinic,Pine Clinic
+5204555,27.66,F,2020-07-30,1992-12-08,2020-08-23,2020-09-24,initial intake,initial intake,follow-up,27.73,27.81,Spruce Clinic,Pine Clinic,Spruce Clinic
+0377082,41.05,F,2020-01-08,1978-12-30,2020-01-30,2020-02-04,initial intake,drug pickup,follow-up,41.11,41.12,Cedar Clinic,Pine Health Center,Spruce Clinic
+0450614,48.85,M,2020-03-02,1971-05-08,2020-04-23,2020-05-11,initial intake,follow-up,drug pickup,48.99,49.04,Pine Clinic,Cedar Clinic,Pine Clinic
+2865914,39.11,F,2020-09-12,1981-08-12,2020-09-30,2020-10-09,drug pickup,follow-up,test results,39.16,39.18,Pine Clinic,Cedar Clinic,Pine Clinic
+8241984,25.01,M,2020-04-19,1995-04-22,2020-06-08,2020-06-17,follow-up,follow-up,initial intake,25.15,25.17,Pine Clinic,Cedar Clinic,Pine Clinic
+3941555,51.68,M,2020-04-05,1968-08-12,2020-04-23,2020-05-07,follow-up,initial intake,initial intake,51.73,51.77,Spruce Clinic,Pine Clinic,Pine Clinic
+3007996,22.46,F,2020-09-09,1998-03-31,2020-10-01,2020-10-19,follow-up,test results,test results,22.52,22.57,Cedar Clinic,Redwood Health Center,Pine Clinic
+2972597,-1.56,F,2020-02-27,2021-09-18,2020-04-15,2020-05-01,drug pickup,initial intake,drug pickup,-1.43,-1.38,Pine Health Center,Pine Health Center,Pine Clinic
+1241405,14.87,M,2020-02-20,2005-04-11,2020-03-12,2020-04-01,drug pickup,initial intake,drug pickup,14.93,14.98,Spruce Clinic,Pine Clinic,Pine Clinic
+1930801,22.38,M,2019-12-06,1997-07-25,2019-12-27,2020-01-20,drug pickup,drug pickup,initial intake,22.44,22.5,Pine Clinic,Pine Health Center,Cedar Clinic
+8172759,31.24,F,2019-06-17,1988-03-28,2019-08-10,2019-09-10,follow-up,test results,initial intake,31.39,31.47,Pine Health Center,Pine Clinic,Cedar Clinic
+7789050,36.2,M,2020-11-18,1984-09-14,2020-11-24,NA,initial intake,initial intake,NA,36.22,NA,Redwood Hospital,Cedar Clinic,NA
+2262181,26.58,F,2019-01-10,1992-06-18,2019-01-19,2019-02-02,drug pickup,drug pickup,drug pickup,26.6,26.64,Pine Clinic,Pine Health Center,Pine Health Center
+0147830,14.51,F,2020-03-01,2005-08-30,2020-03-12,2020-04-15,initial intake,initial intake,initial intake,14.54,14.63,Redwood Hospital,Cedar Clinic,Redwood Hospital
+1619934,52.92,M,2019-04-17,1966-05-29,2019-06-07,2019-06-28,drug pickup,follow-up,follow-up,53.06,53.12,Pine Clinic,Cedar Clinic,Cedar Health Center
+6621953,67,F,2020-11-08,1953-11-25,2020-12-16,2021-01-01,test results,follow-up,drug pickup,67.1,67.15,Redwood Health Center,Spruce Clinic,Pine Clinic
+6205057,21.01,F,2019-07-19,1998-07-20,2019-07-28,2019-08-08,test results,initial intake,follow-up,21.03,21.06,Pine Health Center,Pine Health Center,Cedar Health Center
+2564388,38.14,M,2020-04-06,1982-02-23,2020-06-03,2020-06-14,drug pickup,follow-up,follow-up,38.3,38.33,Cedar Health Center,Redwood Hospital,Spruce Clinic
+6850216,27.98,F,2020-12-29,1993-01-12,2021-01-07,2021-01-17,test results,test results,initial intake,28,28.03,Cedar Clinic,Redwood Health Center,Pine Clinic
+1515765,35.18,F,2020-12-02,1985-10-06,2020-12-23,2020-12-29,drug pickup,initial intake,test results,35.24,35.25,Spruce Clinic,Pine Clinic,Pine Clinic
+3794885,21.38,M,2020-08-30,1999-04-19,2020-10-02,2020-10-09,follow-up,initial intake,test results,21.47,21.49,Spruce Clinic,Pine Clinic,Pine Clinic
+9985857,31.54,F,2020-06-03,1988-11-25,2020-07-21,2020-08-14,test results,initial intake,follow-up,31.67,31.74,Pine Health Center,Pine Health Center,Spruce Clinic
+1687132,22.43,F,2019-11-02,1997-06-03,2019-12-11,2020-01-14,drug pickup,drug pickup,follow-up,22.54,22.63,Cedar Clinic,Pine Health Center,Spruce Clinic
+2747898,34.86,F,2019-10-03,1984-12-01,2019-10-28,2019-12-01,drug pickup,follow-up,drug pickup,34.93,35.02,Cedar Health Center,Redwood Hospital,Pine Clinic
+3349687,34.22,M,2020-05-09,1986-02-26,2020-07-06,2020-07-07,follow-up,initial intake,initial intake,34.38,34.38,Pine Health Center,Pine Health Center,Pine Clinic
+8278111,28.57,M,2019-11-16,1991-04-28,2019-12-13,2019-12-31,follow-up,drug pickup,drug pickup,28.64,28.69,Pine Clinic,Pine Health Center,Pine Clinic
+0784710,46.63,F,2020-05-24,1973-10-18,2020-07-10,2020-08-06,initial intake,initial intake,test results,46.76,46.83,Redwood Hospital,Cedar Clinic,Redwood Health Center
+8100761,41,F,2019-10-23,1978-11-02,2019-11-04,2019-11-24,follow-up,drug pickup,follow-up,41.03,41.09,Pine Clinic,Pine Health Center,Spruce Clinic
+6529629,22.44,F,2019-06-08,1997-01-03,2019-07-24,2019-08-12,test results,test results,drug pickup,22.57,22.62,Pine Health Center,Pine Clinic,Pine Health Center
+9048078,10.31,F,2019-09-05,2009-05-16,2019-10-28,2019-11-18,test results,follow-up,follow-up,10.46,10.51,Cedar Health Center,Redwood Hospital,Cedar Health Center
+4451726,28.73,F,2019-01-03,1990-04-18,2019-02-23,2019-02-27,follow-up,test results,initial intake,28.87,28.88,Cedar Clinic,Redwood Health Center,Pine Clinic
+9402747,14.61,F,2020-06-04,2005-10-28,2020-06-13,2020-07-04,test results,initial intake,follow-up,14.63,14.69,Pine Health Center,Pine Health Center,Spruce Clinic
+0843818,36.88,F,2019-01-07,1982-02-28,2019-02-28,2019-04-04,initial intake,follow-up,follow-up,37.02,37.12,Cedar Health Center,Redwood Hospital,Spruce Clinic
+7341038,22.4,F,2019-01-11,1996-08-23,2019-02-03,NA,initial intake,follow-up,NA,22.46,NA,Cedar Health Center,Redwood Hospital,NA
+0816000,42.75,F,2020-02-02,1977-05-14,2020-03-25,2020-04-13,initial intake,initial intake,follow-up,42.89,42.94,Redwood Hospital,Cedar Clinic,Spruce Health Center
+6467998,24.73,F,2019-08-26,1994-12-08,2019-09-23,2019-10-24,test results,follow-up,follow-up,24.81,24.89,Cedar Health Center,Redwood Hospital,Spruce Clinic
+5967552,27.9,M,2020-07-28,1992-09-09,2020-07-31,2020-08-27,initial intake,drug pickup,initial intake,27.91,27.98,Cedar Clinic,Pine Health Center,Pine Clinic
+8452960,22.74,F,2019-02-05,1996-05-15,2019-04-11,2019-05-06,follow-up,initial intake,test results,22.92,22.99,Redwood Hospital,Cedar Clinic,Redwood Health Center
+1692578,22.56,F,2020-04-28,1997-10-11,2020-07-01,2020-07-04,drug pickup,follow-up,follow-up,22.74,22.74,Cedar Health Center,Redwood Hospital,Spruce Clinic
+3231765,17.24,F,2020-08-31,2003-06-09,2020-10-11,2020-11-11,follow-up,initial intake,drug pickup,17.35,17.44,Spruce Clinic,Pine Clinic,Pine Clinic
+0066803,43.22,M,2020-10-21,1977-08-12,2020-11-13,2020-11-29,initial intake,follow-up,test results,43.28,43.33,Redwood Health Center,Spruce Clinic,Pine Clinic
+6853158,32.56,M,2019-06-02,1986-11-17,2019-07-13,2019-08-06,test results,follow-up,test results,32.67,32.74,Cedar Health Center,Redwood Hospital,Redwood Health Center
+1977232,32.68,F,2020-06-02,1987-10-05,2020-07-20,2020-08-12,drug pickup,drug pickup,drug pickup,32.81,32.87,Cedar Clinic,Pine Health Center,Pine Health Center
+8398856,15.57,M,2020-01-18,2004-06-26,2020-02-25,2020-03-11,follow-up,test results,drug pickup,15.67,15.72,Cedar Clinic,Redwood Health Center,Pine Clinic
+2788341,34.46,F,2020-06-21,1986-01-13,2020-08-02,2020-08-16,drug pickup,drug pickup,test results,34.58,34.61,Pine Clinic,Pine Health Center,Redwood Health Center
+6557468,49.42,M,2019-10-12,1970-05-23,2019-10-27,2019-11-24,test results,follow-up,follow-up,49.46,49.54,Cedar Health Center,Redwood Hospital,Spruce Clinic
+1169082,32.91,M,2020-07-05,1987-08-15,2020-07-21,2020-08-13,drug pickup,drug pickup,follow-up,32.95,33.02,Cedar Clinic,Pine Health Center,Spruce Health Center
+4197226,32.84,F,2019-05-01,1986-07-06,2019-06-21,2019-07-25,follow-up,test results,initial intake,32.98,33.07,Cedar Clinic,Redwood Health Center,Redwood Hospital
+7624935,17.42,F,2019-02-09,2001-09-12,2019-03-09,NA,initial intake,initial intake,NA,17.5,NA,Spruce Clinic,Pine Clinic,NA
+9627337,27.31,F,2019-03-12,1991-11-25,2019-03-19,2019-03-29,test results,initial intake,test results,27.33,27.36,Pine Health Center,Pine Health Center,Pine Clinic
+8828806,49.74,F,2020-04-10,1970-07-26,2020-05-14,2020-06-05,follow-up,test results,initial intake,49.83,49.89,Cedar Clinic,Redwood Health Center,Redwood Hospital
+6026018,33.02,M,2019-02-21,1986-02-21,2019-04-23,2019-04-27,test results,follow-up,initial intake,33.19,33.2,Cedar Health Center,Redwood Hospital,Pine Clinic
+1581574,21.62,F,2020-09-18,1999-02-09,2020-11-16,2020-11-26,drug pickup,follow-up,test results,21.78,21.81,Pine Clinic,Cedar Clinic,Redwood Health Center
+8977850,14.45,M,2020-06-30,2006-01-20,2020-07-12,2020-08-13,follow-up,initial intake,follow-up,14.48,14.57,Redwood Hospital,Cedar Clinic,Spruce Health Center
+6435892,44.02,F,2020-04-18,1976-04-21,2020-06-20,2020-06-22,test results,drug pickup,drug pickup,44.19,44.2,Cedar Clinic,Pine Health Center,Pine Health Center
+0492202,31.65,F,2020-11-14,1989-03-29,2021-01-16,2021-02-04,initial intake,drug pickup,follow-up,31.82,31.87,Cedar Clinic,Pine Health Center,Spruce Clinic
+7556737,27.41,F,2020-03-05,1992-10-13,2020-04-17,NA,initial intake,initial intake,NA,27.53,NA,Pine Health Center,Pine Health Center,NA
+0971418,26.95,F,2019-07-24,1992-08-17,2019-09-19,2019-10-15,initial intake,follow-up,initial intake,27.11,27.18,Cedar Health Center,Redwood Hospital,Redwood Hospital
+5052659,17.71,M,2019-04-25,2001-08-12,2019-06-01,2019-06-19,initial intake,test results,test results,17.81,17.86,Pine Health Center,Pine Clinic,Pine Clinic
+2551239,27.4,F,2019-10-28,1992-06-10,2019-12-22,2020-01-23,drug pickup,test results,follow-up,27.55,27.64,Pine Health Center,Pine Clinic,Spruce Health Center
+2752034,23.64,M,2020-02-16,1996-07-02,2020-04-10,2020-05-14,drug pickup,follow-up,follow-up,23.79,23.88,Pine Clinic,Cedar Clinic,Spruce Clinic
+7549719,29.9,F,2019-03-26,1989-05-08,2019-05-16,NA,initial intake,test results,NA,30.04,NA,Pine Health Center,Pine Clinic,NA
+7123405,44.58,M,2020-12-23,1976-06-05,2021-02-15,NA,initial intake,initial intake,NA,44.73,NA,Spruce Clinic,Pine Clinic,NA
+1699821,39.65,F,2020-04-07,1980-08-22,2020-04-17,2020-05-03,drug pickup,drug pickup,follow-up,39.68,39.72,Pine Clinic,Pine Health Center,Spruce Health Center
+3751829,39.28,M,2019-11-15,1980-08-13,2019-11-20,2019-12-12,follow-up,test results,drug pickup,39.29,39.35,Pine Health Center,Pine Clinic,Pine Health Center
+7727839,35.5,F,2019-01-14,1983-07-24,2019-01-16,NA,initial intake,test results,NA,35.51,NA,Pine Health Center,Pine Clinic,NA
+0080188,22.15,F,2020-04-09,1998-02-19,2020-04-20,2020-05-14,initial intake,follow-up,follow-up,22.18,22.25,Cedar Health Center,Redwood Hospital,Spruce Clinic
+5365620,29.3,F,2019-11-10,1990-07-30,2019-12-22,2020-01-10,initial intake,initial intake,initial intake,29.42,29.47,Redwood Hospital,Cedar Clinic,Cedar Clinic
+4803288,25.43,F,2020-06-06,1995-01-07,2020-07-19,2020-08-04,follow-up,follow-up,follow-up,25.55,25.59,Cedar Health Center,Redwood Hospital,Spruce Clinic
+4750418,56.13,F,2020-07-26,1964-06-22,2020-09-20,2020-10-01,follow-up,follow-up,drug pickup,56.28,56.31,Cedar Health Center,Redwood Hospital,Pine Clinic
+5377457,31.13,M,2019-05-16,1988-04-05,2019-05-21,2019-05-22,initial intake,initial intake,drug pickup,31.14,31.15,Pine Health Center,Pine Health Center,Pine Health Center
+5747807,37.16,F,2019-04-19,1982-02-28,2019-05-30,2019-06-24,initial intake,initial intake,follow-up,37.27,37.34,Pine Health Center,Pine Health Center,Spruce Clinic
+2009588,-0.77,M,2020-11-28,2021-09-05,2021-01-31,2021-02-21,drug pickup,follow-up,drug pickup,-0.59,-0.54,Cedar Health Center,Redwood Hospital,Pine Clinic
+7656104,34.39,F,2019-09-13,1985-05-01,2019-11-08,NA,initial intake,follow-up,NA,34.54,NA,Pine Clinic,Cedar Clinic,NA
+6954128,10.23,F,2020-03-07,2009-12-16,2020-04-11,2020-04-15,test results,follow-up,initial intake,10.33,10.34,Cedar Health Center,Redwood Hospital,Redwood Hospital
+7127353,29.08,F,2020-08-17,1991-07-26,2020-09-24,NA,initial intake,follow-up,NA,29.18,NA,Redwood Health Center,Spruce Clinic,NA
+1624302,23.38,M,2020-11-17,1997-07-07,2020-11-26,2020-12-31,drug pickup,drug pickup,drug pickup,23.4,23.5,Cedar Clinic,Pine Health Center,Pine Clinic
+1552293,48.07,F,2020-12-20,1972-12-06,2021-01-17,2021-02-13,drug pickup,follow-up,follow-up,48.15,48.22,Redwood Health Center,Spruce Clinic,Spruce Health Center
+9787796,41.28,F,2019-12-01,1978-08-30,2020-01-23,2020-02-05,test results,test results,initial intake,41.43,41.46,Cedar Clinic,Redwood Health Center,Redwood Hospital
+8549187,52.47,M,2020-07-25,1968-02-17,2020-09-08,2020-09-16,follow-up,initial intake,test results,52.59,52.62,Pine Health Center,Pine Health Center,Redwood Health Center
+6458424,32.54,F,2020-02-09,1987-08-03,2020-03-22,2020-04-16,test results,follow-up,test results,32.66,32.72,Pine Clinic,Cedar Clinic,Redwood Health Center
+9649282,-2.18,F,2020-09-28,2022-12-02,2020-10-04,2020-10-28,test results,drug pickup,follow-up,-2.16,-2.1,Cedar Clinic,Pine Health Center,Cedar Health Center
+1179183,44.08,M,2019-02-22,1975-02-03,2019-03-19,2019-04-13,drug pickup,follow-up,follow-up,44.15,44.22,Redwood Health Center,Spruce Clinic,Spruce Health Center
+6706670,45.18,F,2019-10-29,1974-09-04,2019-10-31,2019-11-23,test results,initial intake,follow-up,45.19,45.25,Redwood Hospital,Cedar Clinic,Spruce Health Center
+8824208,40.39,F,2019-08-10,1979-03-30,2019-09-07,2019-09-26,follow-up,follow-up,test results,40.47,40.52,Cedar Health Center,Redwood Hospital,Redwood Health Center
+7559608,46.62,M,2019-04-16,1972-09-12,2019-05-04,NA,initial intake,follow-up,NA,46.67,NA,Cedar Health Center,Redwood Hospital,NA
+8826641,21.1,F,2020-12-13,1999-11-12,2020-12-26,2021-01-14,follow-up,drug pickup,follow-up,21.14,21.19,Pine Clinic,Pine Health Center,Spruce Clinic
+5284082,31.02,M,2019-06-10,1988-06-09,2019-07-11,2019-08-15,initial intake,drug pickup,initial intake,31.1,31.2,Cedar Clinic,Pine Health Center,Redwood Hospital
+2242812,41.46,F,2020-07-23,1979-02-16,2020-08-09,2020-08-31,drug pickup,drug pickup,drug pickup,41.51,41.57,Cedar Clinic,Pine Health Center,Pine Clinic
+7741962,49.7,F,2020-08-09,1970-12-09,2020-09-20,NA,initial intake,drug pickup,NA,49.82,NA,Cedar Clinic,Pine Health Center,NA
+8472820,-0.53,M,2020-08-10,2021-02-19,2020-08-31,2020-09-05,follow-up,initial intake,initial intake,-0.47,-0.46,Redwood Hospital,Cedar Clinic,Redwood Hospital
+2666948,32,M,2019-06-12,1987-06-20,2019-06-16,2019-07-21,drug pickup,follow-up,drug pickup,32.01,32.11,Cedar Health Center,Redwood Hospital,Pine Clinic
+6995380,6.76,F,2020-10-28,2014-01-25,2020-12-07,2020-12-11,test results,initial intake,drug pickup,6.87,6.88,Redwood Hospital,Cedar Clinic,Pine Clinic
+5647335,23.12,F,2019-08-28,1996-07-20,2019-10-11,2019-10-29,initial intake,initial intake,test results,23.24,23.29,Spruce Clinic,Pine Clinic,Pine Clinic
+3292183,50.38,F,2020-11-10,1970-07-07,2020-12-23,2021-01-08,follow-up,follow-up,follow-up,50.5,50.54,Redwood Health Center,Spruce Clinic,Cedar Health Center
+9754024,25.2,M,2020-08-02,1995-05-28,2020-09-24,2020-10-27,test results,follow-up,initial intake,25.35,25.44,Pine Clinic,Cedar Clinic,Pine Clinic
+5442429,52.89,F,2019-08-06,1966-09-28,2019-08-20,2019-09-12,initial intake,test results,drug pickup,52.93,52.99,Pine Health Center,Pine Clinic,Pine Health Center
+2776066,29.18,F,2019-05-19,1990-03-21,2019-07-02,2019-07-11,drug pickup,test results,drug pickup,29.3,29.33,Cedar Clinic,Redwood Health Center,Pine Clinic
+5010561,22.38,F,2019-10-10,1997-05-29,2019-11-25,2019-12-07,initial intake,drug pickup,initial intake,22.51,22.54,Pine Clinic,Pine Health Center,Pine Clinic
+3766667,56.59,M,2020-01-15,1963-06-27,2020-01-28,2020-02-21,follow-up,initial intake,drug pickup,56.63,56.69,Pine Health Center,Pine Health Center,Pine Clinic
+8185749,42.55,M,2019-04-15,1976-10-06,2019-04-25,2019-05-04,follow-up,test results,follow-up,42.58,42.6,Pine Health Center,Pine Clinic,Spruce Clinic
+9181122,14.28,M,2020-11-16,2006-08-09,2020-12-22,2021-01-26,test results,drug pickup,test results,14.38,14.47,Cedar Clinic,Pine Health Center,Redwood Health Center
+8836273,28.76,F,2020-06-23,1991-09-26,2020-07-22,2020-07-27,follow-up,follow-up,initial intake,28.84,28.85,Redwood Health Center,Spruce Clinic,Pine Clinic
+2388053,25.22,M,2020-06-07,1995-03-25,2020-06-29,2020-07-30,drug pickup,follow-up,initial intake,25.28,25.37,Redwood Health Center,Spruce Clinic,Cedar Clinic
+4943351,4.15,F,2019-04-06,2015-02-11,2019-04-07,2019-04-10,follow-up,drug pickup,initial intake,4.15,4.16,Pine Clinic,Pine Health Center,Cedar Clinic
+7188006,36.12,M,2020-04-23,1984-03-19,2020-05-06,NA,initial intake,test results,NA,36.16,NA,Cedar Clinic,Redwood Health Center,NA
+7572022,34.72,M,2019-04-07,1984-07-26,2019-05-08,NA,initial intake,drug pickup,NA,34.8,NA,Cedar Clinic,Pine Health Center,NA
+7018287,47.12,F,2019-01-30,1971-12-29,2019-03-10,NA,initial intake,initial intake,NA,47.23,NA,Pine Health Center,Pine Health Center,NA
+5258425,32.93,F,2020-03-25,1987-04-28,2020-05-02,2020-06-02,initial intake,initial intake,drug pickup,33.03,33.12,Spruce Clinic,Pine Clinic,Pine Health Center
+6636221,51.04,F,2020-04-24,1969-04-22,2020-06-20,2020-06-30,test results,drug pickup,initial intake,51.2,51.22,Pine Clinic,Pine Health Center,Cedar Clinic
+1799833,31.79,F,2019-10-25,1988-01-17,2019-12-19,2019-12-27,drug pickup,follow-up,initial intake,31.94,31.96,Redwood Health Center,Spruce Clinic,Pine Clinic
+2045533,3.94,F,2019-01-26,2015-02-17,2019-03-23,2019-04-06,drug pickup,follow-up,test results,4.09,4.13,Redwood Health Center,Spruce Clinic,Redwood Health Center
+4678123,-2.03,M,2019-03-01,2021-03-10,2019-03-09,2019-04-07,follow-up,follow-up,initial intake,-2.01,-1.93,Redwood Health Center,Spruce Clinic,Pine Clinic
+8870772,21.36,F,2019-07-28,1998-03-23,2019-09-18,2019-10-20,follow-up,drug pickup,initial intake,21.5,21.59,Cedar Clinic,Pine Health Center,Cedar Clinic
+9050876,6,M,2019-06-16,2013-06-17,2019-07-04,2019-07-21,test results,test results,drug pickup,6.05,6.1,Cedar Clinic,Redwood Health Center,Pine Clinic
+9763823,25.07,F,2020-08-04,1995-07-16,2020-09-25,2020-10-24,test results,follow-up,follow-up,25.21,25.29,Redwood Health Center,Spruce Clinic,Spruce Clinic
+1340847,21.64,F,2020-01-06,1998-05-22,2020-01-31,2020-02-10,drug pickup,initial intake,initial intake,21.71,21.74,Pine Health Center,Pine Health Center,Cedar Clinic
+6390772,22.83,M,2020-10-14,1997-12-21,2020-11-16,2020-12-21,test results,drug pickup,drug pickup,22.92,23.02,Cedar Clinic,Pine Health Center,Pine Clinic
+5044592,19.41,M,2019-05-03,1999-12-09,2019-06-27,2019-07-01,initial intake,drug pickup,drug pickup,19.56,19.57,Cedar Clinic,Pine Health Center,Pine Clinic
+1162184,37.3,F,2019-09-28,1982-06-19,2019-10-31,2019-11-23,drug pickup,follow-up,follow-up,37.39,37.45,Pine Clinic,Cedar Clinic,Spruce Health Center
+0841555,34.89,F,2019-03-09,1984-04-26,2019-03-25,2019-04-27,initial intake,initial intake,initial intake,34.93,35.02,Spruce Clinic,Pine Clinic,Pine Clinic
+7492454,21.05,F,2020-03-17,1999-03-04,2020-04-13,NA,initial intake,follow-up,NA,21.12,NA,Pine Clinic,Cedar Clinic,NA
+2266005,46.47,M,2019-01-22,1972-08-14,2019-01-23,2019-02-25,drug pickup,initial intake,initial intake,46.47,46.56,Spruce Clinic,Pine Clinic,Redwood Hospital
+1327778,32.55,F,2019-11-05,1987-04-26,2019-12-15,2019-12-27,drug pickup,follow-up,initial intake,32.66,32.69,Cedar Health Center,Redwood Hospital,Pine Clinic
+9494504,45.6,F,2020-01-12,1974-06-18,2020-02-19,2020-03-07,test results,follow-up,initial intake,45.7,45.75,Pine Clinic,Cedar Clinic,Pine Clinic
+5691468,44.46,M,2019-03-03,1974-09-27,2019-03-28,2019-04-24,initial intake,follow-up,follow-up,44.53,44.6,Cedar Health Center,Redwood Hospital,Spruce Clinic
+1500588,27.56,F,2020-02-23,1992-08-08,2020-03-24,2020-04-11,drug pickup,follow-up,drug pickup,27.64,27.69,Cedar Health Center,Redwood Hospital,Pine Clinic
+1343314,30.03,F,2019-10-01,1989-09-27,2019-11-02,2019-11-03,drug pickup,follow-up,follow-up,30.12,30.12,Pine Clinic,Cedar Clinic,Spruce Health Center
+1651958,1.21,F,2019-09-12,2018-06-27,2019-11-09,2019-11-27,drug pickup,follow-up,initial intake,1.37,1.42,Cedar Health Center,Redwood Hospital,Pine Clinic
+6222128,45.44,M,2020-03-31,1974-11-02,2020-05-05,2020-05-12,test results,follow-up,drug pickup,45.54,45.56,Cedar Health Center,Redwood Hospital,Pine Health Center
+4474350,41.17,F,2020-02-17,1978-12-26,2020-03-17,2020-04-09,follow-up,initial intake,test results,41.25,41.31,Redwood Hospital,Cedar Clinic,Pine Clinic
+8652678,11.07,M,2019-06-11,2008-05-18,2019-07-30,2019-08-31,follow-up,follow-up,drug pickup,11.2,11.29,Cedar Health Center,Redwood Hospital,Pine Clinic
+9150018,24.5,F,2020-02-25,1995-09-01,2020-03-02,2020-03-03,test results,follow-up,follow-up,24.52,24.52,Cedar Health Center,Redwood Hospital,Spruce Health Center
+1547155,23.4,F,2020-07-18,1997-02-28,2020-09-12,2020-10-16,drug pickup,initial intake,test results,23.55,23.65,Spruce Clinic,Pine Clinic,Redwood Health Center
+9766311,36.55,F,2019-06-22,1982-12-12,2019-08-20,2019-08-27,test results,drug pickup,initial intake,36.71,36.73,Pine Clinic,Pine Health Center,Pine Clinic
+8549455,31.61,M,2019-08-04,1988-01-01,2019-10-02,2019-10-12,follow-up,initial intake,drug pickup,31.77,31.8,Spruce Clinic,Pine Clinic,Pine Health Center
+6976234,18.08,M,2019-05-10,2001-04-14,2019-06-23,2019-07-03,test results,follow-up,follow-up,18.2,18.23,Pine Clinic,Cedar Clinic,Spruce Health Center
+1474497,39.15,M,2019-11-27,1980-10-12,2020-01-13,2020-01-26,drug pickup,initial intake,test results,39.28,39.31,Pine Health Center,Pine Health Center,Redwood Health Center
+9786127,47.69,F,2020-11-02,1973-03-07,2020-12-15,2020-12-25,test results,initial intake,initial intake,47.81,47.84,Pine Health Center,Pine Health Center,Redwood Hospital
+7819369,29.37,F,2019-07-25,1990-03-18,2019-07-29,NA,initial intake,test results,NA,29.38,NA,Pine Health Center,Pine Clinic,NA
+0167463,36.54,M,2020-06-29,1983-12-23,2020-08-18,2020-08-28,initial intake,follow-up,follow-up,36.68,36.7,Redwood Health Center,Spruce Clinic,Cedar Health Center
+2071119,33.81,F,2019-03-16,1985-06-01,2019-03-30,2019-04-22,drug pickup,test results,drug pickup,33.85,33.91,Pine Health Center,Pine Clinic,Pine Health Center
+8848961,11,F,2019-12-11,2008-12-13,2020-01-08,2020-01-15,follow-up,drug pickup,initial intake,11.08,11.1,Pine Clinic,Pine Health Center,Redwood Hospital
+4493575,33.56,M,2019-12-10,1986-05-27,2019-12-29,2020-01-17,follow-up,initial intake,initial intake,33.61,33.66,Spruce Clinic,Pine Clinic,Pine Clinic
+7178811,10.24,F,2020-12-18,2010-09-24,2020-12-29,NA,initial intake,drug pickup,NA,10.27,NA,Pine Clinic,Pine Health Center,NA
+0826034,16.66,F,2020-01-29,2003-06-06,2020-03-25,2020-04-16,initial intake,follow-up,test results,16.81,16.87,Pine Clinic,Cedar Clinic,Redwood Health Center
+2150831,62.2,F,2019-12-20,1957-10-23,2020-02-16,2020-03-20,drug pickup,drug pickup,initial intake,62.36,62.45,Pine Clinic,Pine Health Center,Cedar Clinic
+8359897,43.18,F,2020-09-15,1977-07-22,2020-10-22,2020-11-19,follow-up,initial intake,test results,43.28,43.36,Pine Health Center,Pine Health Center,Pine Clinic
+4889129,29.38,M,2019-12-12,1990-08-02,2019-12-29,2020-01-25,follow-up,test results,initial intake,29.43,29.5,Pine Health Center,Pine Clinic,Redwood Hospital
+5875461,31.25,M,2020-06-18,1989-03-26,2020-07-28,2020-07-30,initial intake,drug pickup,initial intake,31.36,31.37,Pine Clinic,Pine Health Center,Cedar Clinic
+5190646,35.72,F,2020-06-08,1984-09-27,2020-07-25,2020-07-27,initial intake,test results,initial intake,35.85,35.85,Cedar Clinic,Redwood Health Center,Pine Clinic
+0470482,41.23,F,2020-08-05,1979-05-24,2020-10-03,2020-10-21,initial intake,drug pickup,drug pickup,41.39,41.44,Cedar Clinic,Pine Health Center,Pine Clinic
+0695205,46.61,F,2020-02-06,1973-07-09,2020-03-02,2020-03-06,initial intake,initial intake,test results,46.68,46.69,Spruce Clinic,Pine Clinic,Redwood Health Center
+6727390,53.44,M,2019-09-08,1966-04-13,2019-11-12,2019-11-18,test results,initial intake,follow-up,53.62,53.63,Redwood Hospital,Cedar Clinic,Cedar Health Center
+3470040,5.61,M,2019-08-02,2013-12-23,2019-09-09,2019-10-07,follow-up,initial intake,initial intake,5.71,5.79,Redwood Hospital,Cedar Clinic,Pine Clinic
+2127223,25.64,M,2020-06-28,1994-11-13,2020-07-12,2020-08-01,drug pickup,follow-up,drug pickup,25.68,25.73,Redwood Health Center,Spruce Clinic,Pine Clinic
+3278242,49.39,F,2020-07-15,1971-03-07,2020-07-28,2020-08-06,follow-up,drug pickup,test results,49.43,49.45,Cedar Clinic,Pine Health Center,Redwood Health Center
+2344328,40.49,F,2019-12-13,1979-06-27,2019-12-27,2019-12-31,drug pickup,follow-up,drug pickup,40.53,40.54,Cedar Health Center,Redwood Hospital,Pine Clinic
+1807161,67.46,M,2019-12-21,1952-07-22,2020-02-01,2020-03-03,drug pickup,drug pickup,follow-up,67.58,67.66,Pine Clinic,Pine Health Center,Spruce Health Center
+1317467,14.66,F,2019-07-13,2004-11-17,2019-08-05,2019-09-08,drug pickup,initial intake,follow-up,14.72,14.82,Pine Health Center,Pine Health Center,Cedar Health Center
+1873045,41.3,F,2019-09-04,1978-05-27,2019-10-09,2019-10-14,drug pickup,initial intake,follow-up,41.4,41.41,Spruce Clinic,Pine Clinic,Spruce Clinic
+6144476,9.22,M,2020-02-12,2010-11-25,2020-03-08,2020-03-10,test results,test results,initial intake,9.29,9.29,Cedar Clinic,Redwood Health Center,Cedar Clinic
+8092294,26.75,M,2019-10-15,1993-01-20,2019-10-20,2019-11-08,follow-up,follow-up,follow-up,26.76,26.82,Pine Clinic,Cedar Clinic,Cedar Health Center
+0695430,43.11,F,2020-01-28,1976-12-28,2020-03-05,2020-03-18,initial intake,initial intake,follow-up,43.21,43.25,Redwood Hospital,Cedar Clinic,Cedar Health Center
+3384219,31.79,F,2019-05-06,1987-07-29,2019-07-01,2019-07-23,follow-up,test results,follow-up,31.94,32,Pine Health Center,Pine Clinic,Spruce Health Center
+5823243,14.17,F,2019-04-09,2005-02-08,2019-05-13,2019-05-28,initial intake,follow-up,follow-up,14.26,14.3,Redwood Health Center,Spruce Clinic,Cedar Health Center
+9046731,11.65,F,2020-08-16,2008-12-24,2020-08-22,2020-08-28,test results,drug pickup,follow-up,11.67,11.68,Pine Clinic,Pine Health Center,Cedar Health Center
+2705056,9.57,F,2020-10-13,2011-03-21,2020-12-03,2020-12-13,drug pickup,test results,follow-up,9.71,9.74,Cedar Clinic,Redwood Health Center,Spruce Health Center
+3180512,5.95,M,2019-08-30,2013-09-18,2019-09-23,2019-10-03,follow-up,drug pickup,follow-up,6.02,6.04,Cedar Clinic,Pine Health Center,Spruce Health Center
+2782290,0.06,F,2020-12-22,2020-11-30,2021-01-02,2021-01-29,drug pickup,initial intake,test results,0.09,0.16,Redwood Hospital,Cedar Clinic,Pine Clinic
+3276107,54.86,F,2019-05-09,1964-07-12,2019-05-15,2019-06-06,follow-up,initial intake,test results,54.88,54.94,Pine Health Center,Pine Health Center,Redwood Health Center
+6156957,11.06,M,2019-05-04,2008-04-14,2019-06-21,2019-07-19,test results,initial intake,test results,11.19,11.27,Pine Health Center,Pine Health Center,Pine Clinic
+0047540,30.93,M,2020-04-21,1989-05-24,2020-05-09,2020-05-30,initial intake,initial intake,initial intake,30.98,31.04,Redwood Hospital,Cedar Clinic,Cedar Clinic
+9942099,15.19,F,2019-10-20,2004-08-14,2019-11-21,2019-12-14,test results,test results,follow-up,15.28,15.34,Pine Health Center,Pine Clinic,Spruce Clinic
+1459265,45.48,M,2020-10-12,1975-05-01,2020-12-08,2021-01-11,drug pickup,initial intake,drug pickup,45.64,45.73,Spruce Clinic,Pine Clinic,Pine Clinic
+5483106,44.49,M,2019-08-29,1975-03-14,2019-10-11,2019-10-31,initial intake,test results,drug pickup,44.61,44.66,Cedar Clinic,Redwood Health Center,Pine Clinic
+0924984,43.9,M,2020-09-13,1976-10-30,2020-10-26,2020-11-16,initial intake,follow-up,test results,44.02,44.08,Pine Clinic,Cedar Clinic,Redwood Health Center
+9794973,54.38,M,2020-11-03,1966-07-01,2020-12-03,2020-12-11,test results,follow-up,drug pickup,54.46,54.48,Redwood Health Center,Spruce Clinic,Pine Clinic
+9304290,10.33,F,2019-06-28,2009-03-01,2019-08-12,2019-09-07,test results,initial intake,initial intake,10.45,10.52,Redwood Hospital,Cedar Clinic,Pine Clinic
+1060598,5.21,M,2019-11-06,2014-08-22,2020-01-08,2020-02-02,drug pickup,follow-up,drug pickup,5.38,5.45,Cedar Health Center,Redwood Hospital,Pine Health Center
+2305312,28.89,F,2019-08-18,1990-10-04,2019-10-08,2019-11-03,drug pickup,drug pickup,follow-up,29.03,29.1,Cedar Clinic,Pine Health Center,Spruce Health Center
+3497444,59.89,F,2020-08-27,1960-10-21,2020-10-13,2020-11-10,follow-up,follow-up,initial intake,60.02,60.1,Pine Clinic,Cedar Clinic,Cedar Clinic
+3101507,34.16,F,2020-07-02,1986-05-13,2020-07-10,2020-08-02,follow-up,initial intake,drug pickup,34.18,34.24,Pine Health Center,Pine Health Center,Pine Health Center
+4190351,33.76,F,2020-11-19,1987-02-23,2020-11-29,2020-12-14,follow-up,drug pickup,follow-up,33.79,33.83,Pine Clinic,Pine Health Center,Spruce Clinic
+7785748,22.8,M,2020-12-01,1998-02-18,2021-02-01,NA,initial intake,follow-up,NA,22.97,NA,Cedar Health Center,Redwood Hospital,NA
+2222031,7.66,M,2019-08-21,2011-12-25,2019-09-10,2019-09-18,drug pickup,drug pickup,follow-up,7.71,7.74,Pine Clinic,Pine Health Center,Cedar Health Center
+3888002,-1.04,F,2020-04-13,2021-04-27,2020-04-30,2020-05-27,follow-up,drug pickup,initial intake,-0.99,-0.92,Cedar Clinic,Pine Health Center,Pine Clinic
+0561768,21.02,M,2020-02-07,1999-02-04,2020-03-24,2020-04-19,initial intake,follow-up,test results,21.15,21.22,Cedar Health Center,Redwood Hospital,Pine Clinic
+6904997,26.48,F,2020-11-23,1994-06-07,2021-01-05,2021-01-12,test results,initial intake,drug pickup,26.6,26.62,Pine Health Center,Pine Health Center,Pine Health Center
+5606946,37.53,M,2019-10-09,1982-04-07,2019-12-05,2020-01-06,initial intake,test results,test results,37.69,37.77,Cedar Clinic,Redwood Health Center,Redwood Health Center
+5662936,42.73,M,2019-08-01,1976-11-17,2019-08-09,2019-08-16,initial intake,test results,test results,42.75,42.77,Cedar Clinic,Redwood Health Center,Redwood Health Center
+2221165,36.99,F,2019-09-18,1982-09-30,2019-10-23,2019-11-22,drug pickup,initial intake,drug pickup,37.09,37.17,Spruce Clinic,Pine Clinic,Pine Health Center
+9941259,40.58,F,2020-03-11,1979-08-22,2020-04-04,2020-05-02,test results,test results,drug pickup,40.65,40.72,Pine Health Center,Pine Clinic,Pine Health Center
+1963256,5.5,M,2020-01-14,2014-07-16,2020-02-11,2020-03-13,drug pickup,test results,follow-up,5.58,5.66,Cedar Clinic,Redwood Health Center,Spruce Health Center
+9678401,20.63,F,2020-12-06,2000-04-25,2021-01-10,2021-02-01,test results,drug pickup,drug pickup,20.73,20.79,Pine Clinic,Pine Health Center,Pine Clinic
+8213430,-10.85,F,2019-08-05,2030-06-08,2019-08-26,2019-09-20,follow-up,initial intake,initial intake,-10.79,-10.72,Redwood Hospital,Cedar Clinic,Cedar Clinic
+5797300,48.04,F,2019-03-31,1971-03-28,2019-04-14,2019-05-16,initial intake,initial intake,test results,48.08,48.17,Redwood Hospital,Cedar Clinic,Redwood Health Center
+8138860,50.67,F,2019-05-17,1968-09-26,2019-06-16,2019-06-22,follow-up,initial intake,drug pickup,50.75,50.77,Redwood Hospital,Cedar Clinic,Pine Health Center
+9272194,41.06,F,2019-09-21,1978-09-09,2019-10-09,2019-11-01,test results,follow-up,drug pickup,41.11,41.17,Pine Clinic,Cedar Clinic,Pine Clinic
+6592220,43.58,F,2020-11-21,1977-05-04,2021-01-10,2021-02-11,test results,initial intake,drug pickup,43.72,43.8,Redwood Hospital,Cedar Clinic,Pine Clinic
+7390122,41.94,M,2020-01-13,1978-02-13,2020-01-19,NA,initial intake,drug pickup,NA,41.96,NA,Cedar Clinic,Pine Health Center,NA
+9169900,17.71,F,2020-01-19,2002-05-08,2020-01-29,2020-02-07,test results,initial intake,initial intake,17.74,17.76,Redwood Hospital,Cedar Clinic,Pine Clinic
+3947319,46.06,F,2020-08-22,1974-08-12,2020-08-23,2020-09-18,follow-up,test results,follow-up,46.06,46.13,Pine Health Center,Pine Clinic,Cedar Health Center
+4355152,48.2,F,2019-09-30,1971-07-31,2019-12-02,2019-12-31,follow-up,drug pickup,drug pickup,48.37,48.45,Cedar Clinic,Pine Health Center,Pine Clinic
+7889830,52.45,M,2020-12-24,1968-07-25,2021-01-28,NA,initial intake,initial intake,NA,52.55,NA,Redwood Hospital,Cedar Clinic,NA
+6429702,28.92,F,2019-04-24,1990-05-30,2019-05-26,2019-06-25,test results,drug pickup,initial intake,29.01,29.09,Cedar Clinic,Pine Health Center,Redwood Hospital
+9565579,34.49,F,2020-06-10,1985-12-22,2020-07-11,2020-08-01,test results,test results,drug pickup,34.57,34.63,Pine Health Center,Pine Clinic,Pine Clinic
+1562313,39.34,F,2019-01-12,1979-09-19,2019-02-19,2019-03-18,drug pickup,follow-up,follow-up,39.44,39.52,Redwood Health Center,Spruce Clinic,Cedar Health Center
+6603923,19.41,F,2020-05-27,2001-01-02,2020-07-23,2020-07-30,test results,follow-up,initial intake,19.57,19.59,Redwood Health Center,Spruce Clinic,Cedar Clinic
+6670784,27.75,F,2020-06-19,1992-09-25,2020-07-23,2020-08-01,test results,follow-up,drug pickup,27.84,27.87,Pine Clinic,Cedar Clinic,Pine Clinic
+3649226,37.19,F,2019-07-17,1982-05-17,2019-08-12,2019-09-09,follow-up,test results,test results,37.26,37.34,Cedar Clinic,Redwood Health Center,Pine Clinic
+8523586,4.61,M,2020-01-11,2015-06-03,2020-02-25,2020-03-05,follow-up,test results,initial intake,4.73,4.76,Cedar Clinic,Redwood Health Center,Redwood Hospital
+6938111,20.33,M,2019-01-09,1998-09-15,2019-02-19,2019-02-21,test results,drug pickup,drug pickup,20.44,20.45,Pine Clinic,Pine Health Center,Pine Clinic
+8634148,37.22,M,2020-05-13,1983-03-03,2020-05-27,2020-06-09,follow-up,follow-up,test results,37.26,37.29,Cedar Health Center,Redwood Hospital,Pine Clinic
+6891497,41.96,M,2020-05-26,1978-06-20,2020-06-21,2020-06-25,test results,initial intake,initial intake,42.03,42.04,Pine Health Center,Pine Health Center,Redwood Hospital
+2342161,46.31,M,2020-12-10,1974-08-30,2021-01-11,2021-02-13,drug pickup,drug pickup,follow-up,46.4,46.49,Pine Clinic,Pine Health Center,Spruce Health Center
+4706102,-0.23,F,2020-11-15,2021-02-06,2020-11-26,2020-12-11,follow-up,drug pickup,drug pickup,-0.2,-0.16,Cedar Clinic,Pine Health Center,Pine Clinic
+3207895,26.28,F,2019-08-03,1993-04-28,2019-09-28,2019-10-19,follow-up,initial intake,test results,26.43,26.49,Spruce Clinic,Pine Clinic,Pine Clinic
+3376200,13.48,F,2020-07-27,2007-02-05,2020-08-10,2020-09-03,follow-up,initial intake,follow-up,13.52,13.58,Redwood Hospital,Cedar Clinic,Spruce Health Center
+8132300,43.19,F,2019-09-11,1976-07-13,2019-10-18,2019-10-29,follow-up,initial intake,test results,43.29,43.32,Redwood Hospital,Cedar Clinic,Pine Clinic
+1949818,37.56,M,2020-09-03,1983-02-20,2020-09-27,2020-10-01,drug pickup,follow-up,drug pickup,37.63,37.64,Cedar Health Center,Redwood Hospital,Pine Clinic
+4073502,25.84,F,2019-07-23,1993-09-25,2019-09-02,2019-09-24,follow-up,drug pickup,follow-up,25.95,26.01,Cedar Clinic,Pine Health Center,Spruce Clinic
+7752175,35.2,M,2020-07-01,1985-04-27,2020-08-19,NA,initial intake,initial intake,NA,35.33,NA,Spruce Clinic,Pine Clinic,NA
+8970029,51.21,F,2020-05-07,1969-03-04,2020-07-01,2020-07-30,follow-up,test results,initial intake,51.36,51.44,Pine Health Center,Pine Clinic,Cedar Clinic
+2220437,14.27,F,2019-02-12,2004-11-08,2019-03-14,2019-03-18,drug pickup,initial intake,follow-up,14.35,14.36,Pine Health Center,Pine Health Center,Cedar Health Center
+5063409,17.68,M,2020-10-23,2003-02-21,2020-12-09,2020-12-18,initial intake,test results,follow-up,17.81,17.83,Pine Health Center,Pine Clinic,Cedar Health Center
+7299077,37.19,F,2019-02-01,1981-12-02,2019-03-27,NA,initial intake,initial intake,NA,37.34,NA,Pine Health Center,Pine Health Center,NA
+9982286,35.6,M,2019-02-27,1983-08-01,2019-03-08,2019-04-12,test results,test results,drug pickup,35.62,35.72,Cedar Clinic,Redwood Health Center,Pine Health Center
+2179013,40.97,F,2019-03-13,1978-04-02,2019-04-04,2019-05-08,drug pickup,follow-up,follow-up,41.03,41.12,Redwood Health Center,Spruce Clinic,Cedar Health Center
+3392403,41.21,F,2020-11-30,1979-09-25,2021-01-15,2021-01-22,follow-up,follow-up,drug pickup,41.34,41.36,Redwood Health Center,Spruce Clinic,Pine Health Center
+0012781,62.28,M,2020-04-30,1958-02-02,2020-05-06,2020-05-23,initial intake,drug pickup,follow-up,62.3,62.34,Pine Clinic,Pine Health Center,Spruce Health Center
+8230889,53.08,F,2020-03-12,1967-02-24,2020-04-20,2020-05-08,follow-up,test results,follow-up,53.19,53.24,Pine Health Center,Pine Clinic,Cedar Health Center
+0562630,32.23,M,2020-06-24,1988-04-09,2020-08-19,2020-09-01,initial intake,initial intake,drug pickup,32.38,32.42,Redwood Hospital,Cedar Clinic,Pine Clinic
+7325744,69.41,M,2019-01-28,1949-09-17,2019-03-18,NA,initial intake,follow-up,NA,69.54,NA,Pine Clinic,Cedar Clinic,NA
+4164057,51.81,F,2020-08-13,1968-11-03,2020-09-29,2020-11-02,follow-up,initial intake,drug pickup,51.94,52.03,Pine Health Center,Pine Health Center,Pine Health Center
+3490849,35.83,F,2019-08-20,1983-10-30,2019-09-08,2019-09-13,follow-up,test results,follow-up,35.88,35.9,Pine Health Center,Pine Clinic,Spruce Health Center
+6552690,34.86,F,2020-10-22,1985-12-21,2020-10-27,2020-11-16,test results,initial intake,test results,34.87,34.93,Redwood Hospital,Cedar Clinic,Redwood Health Center
+8783886,4.36,M,2020-04-17,2015-12-08,2020-04-25,2020-05-07,follow-up,test results,initial intake,4.38,4.41,Cedar Clinic,Redwood Health Center,Pine Clinic
+9423868,33.01,F,2019-12-14,1986-12-18,2020-01-05,2020-01-13,test results,follow-up,follow-up,33.07,33.09,Cedar Health Center,Redwood Hospital,Spruce Health Center
+5716476,29.63,F,2020-09-19,1991-02-09,2020-10-28,2020-10-31,initial intake,test results,drug pickup,29.74,29.75,Cedar Clinic,Redwood Health Center,Pine Clinic
+2682032,47.59,F,2019-08-24,1972-02-01,2019-09-28,2019-10-19,drug pickup,drug pickup,test results,47.69,47.74,Cedar Clinic,Pine Health Center,Pine Clinic
+3877375,20.65,F,2019-03-04,1998-07-14,2019-04-03,2019-05-02,follow-up,initial intake,drug pickup,20.73,20.81,Spruce Clinic,Pine Clinic,Pine Health Center
+3828485,42.33,M,2019-07-08,1977-03-19,2019-08-08,2019-08-18,follow-up,initial intake,follow-up,42.41,42.44,Spruce Clinic,Pine Clinic,Cedar Health Center
+1690385,42.08,F,2020-01-22,1978-01-02,2020-01-29,2020-02-15,drug pickup,initial intake,initial intake,42.1,42.15,Spruce Clinic,Pine Clinic,Redwood Hospital
+6950796,61.55,M,2020-02-11,1958-08-09,2020-02-20,2020-03-04,test results,test results,follow-up,61.57,61.61,Cedar Clinic,Redwood Health Center,Spruce Clinic
+8207700,52.08,F,2019-09-25,1967-09-08,2019-10-01,2019-10-26,follow-up,initial intake,test results,52.1,52.16,Redwood Hospital,Cedar Clinic,Redwood Health Center
+3120601,14.41,F,2019-12-16,2005-07-22,2020-02-08,2020-03-11,follow-up,drug pickup,drug pickup,14.56,14.65,Pine Clinic,Pine Health Center,Pine Clinic
+4233089,42.68,F,2019-06-13,1976-10-17,2019-08-05,2019-08-18,follow-up,test results,follow-up,42.83,42.86,Pine Health Center,Pine Clinic,Cedar Health Center
+8558419,25.78,M,2019-01-13,1993-04-09,2019-02-08,2019-02-16,follow-up,test results,test results,25.85,25.87,Pine Health Center,Pine Clinic,Redwood Health Center
+8183034,42.46,M,2019-05-23,1976-12-16,2019-05-29,2019-06-17,follow-up,follow-up,initial intake,42.48,42.53,Pine Clinic,Cedar Clinic,Pine Clinic
+7165715,44.97,F,2019-05-08,1974-05-29,2019-06-06,NA,initial intake,initial intake,NA,45.05,NA,Spruce Clinic,Pine Clinic,NA
+8220952,21.06,M,2019-06-04,1998-05-18,2019-08-02,2019-09-04,follow-up,drug pickup,follow-up,21.22,21.31,Cedar Clinic,Pine Health Center,Spruce Clinic
+3313424,3.21,F,2020-11-05,2017-08-21,2020-11-13,2020-11-28,follow-up,follow-up,follow-up,3.23,3.27,Pine Clinic,Cedar Clinic,Cedar Health Center
+7746894,28.45,F,2019-01-20,1990-08-15,2019-02-21,NA,initial intake,follow-up,NA,28.54,NA,Pine Clinic,Cedar Clinic,NA
+8293643,18.48,F,2019-12-19,2001-06-30,2020-01-12,2020-02-09,follow-up,follow-up,test results,18.55,18.62,Redwood Health Center,Spruce Clinic,Pine Clinic
+6604595,33.27,M,2019-12-04,1986-09-04,2019-12-26,2020-01-25,test results,initial intake,initial intake,33.33,33.41,Spruce Clinic,Pine Clinic,Redwood Hospital
+0178996,54.79,M,2020-11-07,1966-02-05,2020-11-15,2020-11-24,initial intake,test results,follow-up,54.81,54.84,Cedar Clinic,Redwood Health Center,Spruce Clinic
+8790486,27.22,F,2019-12-28,1992-10-14,2020-01-21,2020-02-09,follow-up,test results,test results,27.29,27.34,Cedar Clinic,Redwood Health Center,Pine Clinic
+5123128,19.38,M,2019-03-30,1999-11-16,2019-04-16,2019-05-16,initial intake,follow-up,test results,19.43,19.51,Cedar Health Center,Redwood Hospital,Redwood Health Center
+2953515,35.16,F,2020-09-22,1985-08-03,2020-11-23,2020-12-12,drug pickup,initial intake,drug pickup,35.33,35.38,Spruce Clinic,Pine Clinic,Pine Health Center

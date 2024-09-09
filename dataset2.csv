@@ -1,0 +1,494 @@
+pt_ids,age_at_first_visit,sex,first_visit_date,date_of_birth,second_visit_date,third_visit_date,first_visit_type,second_visit_type,third_visit_type,age_at_second_visit,age_at_third_visit,first_visit_clinic,second_visit_clinic,third_visit_clinic
+3454815,46.52,Male,2020-08-22,1974-02-25,2020-09-20,2020-09-28,Follow-up,Follow-up,Follow-up,46.6,46.62,Juniper Hospital,Sandalwood Clinic,Juniper Health Center
+3650137,50.66,Male,2020-02-13,1969-06-29,2020-03-07,2020-04-07,Follow-up,Initial intake appointment,Drug pickup,50.72,50.81,Sandalwood Clinic,Mangrove Health Center,Acacia Clinic
+7719341,45.11,Female,2019-07-18,1974-06-18,2019-09-06,NA,Initial intake appointment,Drug pickup,NA,45.25,NA,Baobab Clinic,Juniper Health Center,NA
+5200980,8.84,Female,2019-12-08,2011-02-06,2019-12-29,2020-01-16,Initial intake appointment,Receiving test results,Receiving test results,8.9,8.95,Juniper Hospital,Baobab Clinic,Juniper Health Center
+9133812,37.14,Female,2019-06-12,1982-04-30,2019-06-26,2019-07-14,Receiving test results,Drug pickup,Follow-up,37.18,37.23,Acacia Clinic,Juniper Health Center,Sandalwood Clinic
+7595837,36.21,Male,2020-05-04,1984-02-26,2020-05-20,NA,Initial intake appointment,Initial intake appointment,NA,36.25,NA,Sandalwood Clinic,Mangrove Health Center,NA
+4615191,36.4,Female,2019-02-23,1982-10-09,2019-03-13,2019-04-05,Initial intake appointment,Drug pickup,Initial intake appointment,36.45,36.51,Baobab Clinic,Juniper Health Center,Juniper Hospital
+3924378,33.23,Male,2019-01-10,1985-10-26,2019-03-12,2019-04-04,Follow-up,Follow-up,Follow-up,33.4,33.46,Mangrove Health Center,Juniper Hospital,Sandalwood Clinic
+2648008,27.36,Female,2019-12-01,1992-07-28,2019-12-20,2020-01-21,Follow-up,Follow-up,Drug pickup,27.41,27.5,Mangrove Health Center,Juniper Hospital,Baobab Clinic
+2481298,7.18,Male,2020-12-27,2013-10-24,2021-01-07,2021-02-09,Follow-up,Follow-up,Receiving test results,7.21,7.3,Mangrove Health Center,Juniper Hospital,Baobab Clinic
+8788673,49.3,Female,2020-07-10,1971-04-04,2020-08-02,2020-08-07,Drug pickup,Follow-up,Drug pickup,49.36,49.38,Juniper Health Center,Baobab Clinic,Acacia Clinic
+3829004,32.72,Female,2019-02-15,1986-06-05,2019-03-20,2019-03-24,Follow-up,Follow-up,Follow-up,32.81,32.82,Acacia Clinic,Acacia Clinic,Sandalwood Clinic
+5610901,35.92,Female,2019-12-28,1984-02-04,2020-02-07,2020-02-17,Initial intake appointment,Drug pickup,Drug pickup,36.03,36.06,Baobab Clinic,Juniper Health Center,Acacia Clinic
+3243254,23.5,Female,2020-03-05,1996-09-09,2020-04-06,2020-05-05,Follow-up,Follow-up,Initial intake appointment,23.59,23.67,Acacia Clinic,Acacia Clinic,Juniper Hospital
+9413020,43.7,Female,2020-02-19,1976-06-18,2020-03-23,2020-04-27,Receiving test results,Receiving test results,Drug pickup,43.79,43.89,Juniper Hospital,Baobab Clinic,Acacia Clinic
+5452157,39.71,Female,2020-04-19,1980-08-12,2020-05-12,2020-05-18,Initial intake appointment,Initial intake appointment,Follow-up,39.77,39.79,Sandalwood Clinic,Mangrove Health Center,Juniper Health Center
+3821056,29.01,Female,2020-07-04,1991-07-08,2020-07-22,2020-08-04,Follow-up,Receiving test results,Follow-up,29.06,29.09,Baobab Clinic,Mangrove Health Center,Sandalwood Clinic
+2978739,30.28,Male,2020-04-05,1989-12-31,2020-05-15,2020-05-16,Follow-up,Receiving test results,Receiving test results,30.39,30.39,Sandalwood Clinic,Sandalwood Clinic,Juniper Health Center
+3711462,41.17,Female,2019-02-25,1978-01-03,2019-03-30,2019-05-02,Follow-up,Drug pickup,Drug pickup,41.26,41.35,Acacia Clinic,Juniper Health Center,Juniper Health Center
+7176965,27.06,Male,2020-05-02,1993-04-17,2020-06-22,NA,Initial intake appointment,Follow-up,NA,27.2,NA,Juniper Hospital,Sandalwood Clinic,NA
+0185114,39.45,Female,2020-10-22,1981-05-20,2020-11-04,2020-12-02,Initial intake appointment,Follow-up,Drug pickup,39.49,39.56,Acacia Clinic,Acacia Clinic,Juniper Health Center
+1073690,30.1,Female,2019-07-17,1989-06-17,2019-09-05,2019-09-11,Drug pickup,Receiving test results,Drug pickup,30.24,30.25,Juniper Hospital,Baobab Clinic,Baobab Clinic
+7555121,24.63,Male,2019-09-09,1995-01-28,2019-09-19,NA,Initial intake appointment,Drug pickup,NA,24.66,NA,Baobab Clinic,Juniper Health Center,NA
+9376398,21.58,Female,2020-08-20,1999-01-26,2020-09-07,2020-10-03,Receiving test results,Follow-up,Follow-up,21.63,21.7,Mangrove Health Center,Juniper Hospital,Mangrove Health Center
+6541342,22.03,Female,2020-03-23,1998-03-18,2020-04-26,2020-05-30,Receiving test results,Drug pickup,Initial intake appointment,22.12,22.22,Acacia Clinic,Juniper Health Center,Baobab Clinic
+6271800,32.62,Male,2019-12-05,1987-04-30,2020-01-29,2020-02-20,Receiving test results,Receiving test results,Initial intake appointment,32.77,32.83,Juniper Hospital,Baobab Clinic,Baobab Clinic
+9543612,18.95,Female,2020-02-02,2001-02-24,2020-03-02,2020-04-01,Receiving test results,Drug pickup,Drug pickup,19.03,19.11,Acacia Clinic,Juniper Health Center,Baobab Clinic
+0969965,13.57,Female,2020-06-28,2006-12-05,2020-08-12,2020-08-16,Initial intake appointment,Follow-up,Receiving test results,13.69,13.7,Juniper Hospital,Sandalwood Clinic,Juniper Health Center
+7792935,23.05,Female,2020-11-26,1997-11-13,2021-01-06,NA,Initial intake appointment,Follow-up,NA,23.16,NA,Juniper Hospital,Sandalwood Clinic,NA
+4163898,54.68,Female,2020-01-06,1965-05-15,2020-02-23,2020-03-17,Initial intake appointment,Follow-up,Drug pickup,54.81,54.87,Mangrove Health Center,Juniper Hospital,Acacia Clinic
+3262224,17.92,Female,2020-01-07,2002-02-09,2020-01-10,2020-01-17,Follow-up,Follow-up,Drug pickup,17.93,17.95,Acacia Clinic,Acacia Clinic,Acacia Clinic
+3728288,20.8,Male,2019-10-20,1999-01-06,2019-11-18,2019-12-11,Follow-up,Follow-up,Drug pickup,20.88,20.94,Mangrove Health Center,Juniper Hospital,Baobab Clinic
+2132399,13.04,Male,2019-05-18,2006-05-06,2019-06-14,2019-07-14,Follow-up,Receiving test results,Follow-up,13.11,13.2,Sandalwood Clinic,Sandalwood Clinic,Sandalwood Clinic
+3475643,18.74,Female,2020-05-28,2001-09-04,2020-07-30,2020-08-18,Follow-up,Follow-up,Follow-up,18.91,18.96,Juniper Health Center,Baobab Clinic,Juniper Health Center
+7658382,2.7,Male,2019-04-18,2016-08-05,2019-06-06,NA,Initial intake appointment,Drug pickup,NA,2.83,NA,Acacia Clinic,Juniper Health Center,NA
+2914664,20.23,Male,2020-10-10,2000-07-23,2020-11-14,2020-12-11,Follow-up,Follow-up,Drug pickup,20.33,20.4,Acacia Clinic,Acacia Clinic,Baobab Clinic
+6953742,42.98,Female,2019-01-19,1976-02-06,2019-03-19,2019-03-23,Receiving test results,Drug pickup,Follow-up,43.14,43.15,Acacia Clinic,Juniper Health Center,Mangrove Health Center
+3942369,50.69,Female,2019-08-28,1968-12-31,2019-09-22,2019-09-25,Follow-up,Receiving test results,Initial intake appointment,50.76,50.77,Sandalwood Clinic,Sandalwood Clinic,Juniper Hospital
+4995273,64.46,Female,2020-05-17,1955-12-17,2020-06-12,2020-06-20,Initial intake appointment,Follow-up,Initial intake appointment,64.53,64.55,Juniper Health Center,Baobab Clinic,Baobab Clinic
+3628851,34.17,Female,2019-02-04,1984-12-11,2019-02-09,2019-02-21,Follow-up,Drug pickup,Drug pickup,34.18,34.22,Baobab Clinic,Juniper Health Center,Baobab Clinic
+8915939,11.02,Female,2019-02-19,2008-02-14,2019-02-21,2019-03-08,Drug pickup,Receiving test results,Follow-up,11.03,11.07,Sandalwood Clinic,Sandalwood Clinic,Juniper Health Center
+6190779,16.97,Female,2020-05-08,2003-05-23,2020-07-11,2020-07-28,Receiving test results,Receiving test results,Follow-up,17.15,17.19,Sandalwood Clinic,Sandalwood Clinic,Juniper Health Center
+9581248,40.13,Female,2019-09-15,1979-08-08,2019-10-09,2019-11-13,Receiving test results,Follow-up,Follow-up,40.2,40.29,Mangrove Health Center,Juniper Hospital,Mangrove Health Center
+9107295,33.37,Female,2020-08-31,1987-04-26,2020-10-29,2020-11-02,Receiving test results,Follow-up,Drug pickup,33.53,33.54,Juniper Hospital,Sandalwood Clinic,Juniper Health Center
+2758744,27.9,Female,2020-10-20,1992-12-02,2020-12-10,2020-12-25,Follow-up,Follow-up,Initial intake appointment,28.04,28.08,Acacia Clinic,Acacia Clinic,Juniper Hospital
+9533158,31.4,Male,2020-08-07,1989-03-22,2020-08-19,2020-08-23,Receiving test results,Follow-up,Follow-up,31.43,31.44,Mangrove Health Center,Juniper Hospital,Mangrove Health Center
+8132246,19.65,Female,2019-10-04,2000-02-13,2019-10-11,2019-10-13,Drug pickup,Receiving test results,Follow-up,19.67,19.67,Baobab Clinic,Mangrove Health Center,Mangrove Health Center
+7035722,35.88,Male,2019-10-21,1983-12-12,2019-11-27,NA,Initial intake appointment,Drug pickup,NA,35.98,NA,Acacia Clinic,Juniper Health Center,NA
+7606171,9.44,Female,2019-11-29,2010-06-23,2019-12-21,NA,Initial intake appointment,Drug pickup,NA,9.5,NA,Baobab Clinic,Juniper Health Center,NA
+3518817,33.29,Female,2019-09-17,1986-06-11,2019-09-23,2019-10-19,Follow-up,Initial intake appointment,Receiving test results,33.31,33.38,Sandalwood Clinic,Mangrove Health Center,Baobab Clinic
+9534242,28.63,Female,2019-10-19,1991-03-10,2019-10-26,2019-11-01,Receiving test results,Drug pickup,Drug pickup,28.65,28.67,Acacia Clinic,Juniper Health Center,Baobab Clinic
+6693396,21.23,Male,2020-11-16,1999-08-30,2020-12-19,2020-12-30,Receiving test results,Receiving test results,Initial intake appointment,21.32,21.35,Baobab Clinic,Mangrove Health Center,Baobab Clinic
+0496069,30.5,Male,2019-10-11,1989-04-18,2019-10-24,2019-11-23,Initial intake appointment,Receiving test results,Follow-up,30.54,30.62,Sandalwood Clinic,Sandalwood Clinic,Mangrove Health Center
+9724657,22.91,Female,2020-11-03,1997-12-11,2020-11-11,2020-11-24,Receiving test results,Initial intake appointment,Follow-up,22.93,22.97,Sandalwood Clinic,Mangrove Health Center,Sandalwood Clinic
+6623363,59.82,Male,2020-12-14,1961-03-04,2021-01-24,2021-02-02,Receiving test results,Follow-up,Drug pickup,59.93,59.96,Juniper Health Center,Baobab Clinic,Juniper Health Center
+4966150,15.03,Female,2020-01-10,2005-01-02,2020-02-15,2020-02-26,Initial intake appointment,Receiving test results,Receiving test results,15.13,15.16,Juniper Hospital,Baobab Clinic,Juniper Health Center
+3827007,24.66,Male,2020-03-25,1995-08-03,2020-05-13,2020-06-10,Follow-up,Initial intake appointment,Initial intake appointment,24.79,24.87,Sandalwood Clinic,Mangrove Health Center,Baobab Clinic
+0006545,22.72,Male,2020-08-27,1997-12-13,2020-10-22,2020-11-13,Initial intake appointment,Follow-up,Follow-up,22.87,22.93,Juniper Hospital,Sandalwood Clinic,Mangrove Health Center
+2064983,22.57,Male,2020-04-16,1997-09-25,2020-06-15,2020-07-11,Follow-up,Follow-up,Drug pickup,22.73,22.81,Juniper Health Center,Baobab Clinic,Baobab Clinic
+0452888,29.59,Female,2020-02-17,1990-07-23,2020-03-03,2020-03-11,Initial intake appointment,Follow-up,Drug pickup,29.63,29.65,Mangrove Health Center,Juniper Hospital,Baobab Clinic
+0063132,34.26,Female,2019-11-07,1985-08-12,2019-12-21,2019-12-23,Initial intake appointment,Drug pickup,Follow-up,34.38,34.39,Acacia Clinic,Juniper Health Center,Mangrove Health Center
+9997720,37.59,Female,2019-05-12,1981-10-17,2019-06-13,2019-06-15,Receiving test results,Receiving test results,Initial intake appointment,37.68,37.68,Juniper Hospital,Baobab Clinic,Juniper Hospital
+5498552,27.5,Male,2019-03-24,1991-09-29,2019-05-25,2019-06-15,Initial intake appointment,Drug pickup,Initial intake appointment,27.67,27.73,Acacia Clinic,Juniper Health Center,Juniper Hospital
+2401193,33.1,Female,2019-01-09,1985-12-11,2019-01-28,2019-02-14,Follow-up,Follow-up,Follow-up,33.15,33.2,Juniper Health Center,Baobab Clinic,Sandalwood Clinic
+1806497,29.44,Female,2019-01-29,1989-08-28,2019-03-21,2019-03-24,Drug pickup,Initial intake appointment,Follow-up,29.58,29.59,Sandalwood Clinic,Mangrove Health Center,Sandalwood Clinic
+3323135,16.22,Female,2020-10-06,2004-07-21,2020-10-17,2020-11-07,Follow-up,Follow-up,Drug pickup,16.25,16.31,Juniper Hospital,Sandalwood Clinic,Acacia Clinic
+6635707,21.21,Female,2020-02-21,1998-12-11,2020-03-08,2020-03-23,Receiving test results,Initial intake appointment,Follow-up,21.25,21.29,Sandalwood Clinic,Mangrove Health Center,Mangrove Health Center
+6007510,6.43,Female,2019-02-12,2012-09-09,2019-02-25,2019-04-01,Receiving test results,Receiving test results,Drug pickup,6.47,6.56,Juniper Hospital,Baobab Clinic,Baobab Clinic
+9781497,12.74,Female,2019-08-19,2006-11-24,2019-09-01,2019-09-24,Receiving test results,Initial intake appointment,Follow-up,12.78,12.84,Sandalwood Clinic,Mangrove Health Center,Sandalwood Clinic
+1362158,31.23,Female,2020-08-14,1989-05-30,2020-08-26,2020-09-23,Drug pickup,Follow-up,Follow-up,31.26,31.34,Mangrove Health Center,Juniper Hospital,Mangrove Health Center
+3535655,52.32,Female,2020-07-19,1968-04-06,2020-09-08,2020-09-19,Follow-up,Follow-up,Receiving test results,52.46,52.49,Juniper Hospital,Sandalwood Clinic,Baobab Clinic
+8837448,36.43,Male,2019-06-09,1983-01-12,2019-07-11,2019-07-18,Drug pickup,Follow-up,Follow-up,36.52,36.54,Mangrove Health Center,Juniper Hospital,Juniper Health Center
+9839015,43.94,Female,2020-03-26,1976-04-27,2020-05-01,2020-05-13,Receiving test results,Follow-up,Follow-up,44.04,44.07,Juniper Hospital,Sandalwood Clinic,Mangrove Health Center
+0534535,42.09,Male,2020-03-15,1978-02-21,2020-04-01,2020-04-26,Initial intake appointment,Follow-up,Receiving test results,42.14,42.21,Juniper Hospital,Sandalwood Clinic,Juniper Health Center
+9113131,13.09,Male,2019-08-17,2006-07-18,2019-09-02,2019-10-06,Receiving test results,Drug pickup,Receiving test results,13.13,13.23,Baobab Clinic,Juniper Health Center,Juniper Health Center
+1804021,24.77,Female,2020-07-23,1995-10-21,2020-08-22,2020-08-23,Drug pickup,Drug pickup,Follow-up,24.85,24.85,Baobab Clinic,Juniper Health Center,Mangrove Health Center
+1618803,57.5,Female,2019-05-31,1961-12-13,2019-06-29,2019-07-30,Drug pickup,Follow-up,Initial intake appointment,57.58,57.66,Juniper Health Center,Baobab Clinic,Baobab Clinic
+1677716,21.96,Female,2019-08-02,1997-08-21,2019-09-16,2019-10-08,Drug pickup,Receiving test results,Follow-up,22.08,22.14,Baobab Clinic,Mangrove Health Center,Juniper Health Center
+1010934,28.1,Male,2019-01-23,1990-12-24,2019-02-11,2019-02-15,Drug pickup,Follow-up,Initial intake appointment,28.15,28.16,Acacia Clinic,Acacia Clinic,Juniper Hospital
+6666169,17.46,Female,2019-03-18,2001-10-05,2019-04-03,2019-04-16,Receiving test results,Receiving test results,Receiving test results,17.5,17.54,Sandalwood Clinic,Sandalwood Clinic,Juniper Health Center
+0108601,51.87,Female,2020-01-29,1968-03-29,2020-01-31,2020-02-11,Initial intake appointment,Drug pickup,Drug pickup,51.88,51.91,Baobab Clinic,Juniper Health Center,Baobab Clinic
+6150825,27.38,Female,2020-07-25,1993-03-15,2020-09-14,2020-09-15,Receiving test results,Follow-up,Initial intake appointment,27.52,27.52,Juniper Hospital,Sandalwood Clinic,Juniper Hospital
+1796695,39.37,Female,2020-06-25,1981-02-19,2020-08-18,2020-09-09,Drug pickup,Follow-up,Receiving test results,39.52,39.58,Juniper Hospital,Sandalwood Clinic,Baobab Clinic
+6900507,53.3,Female,2019-07-22,1966-04-16,2019-08-27,2019-09-23,Receiving test results,Initial intake appointment,Follow-up,53.4,53.47,Sandalwood Clinic,Mangrove Health Center,Mangrove Health Center
+0241135,28.36,Male,2019-09-18,1991-05-16,2019-11-12,2019-12-09,Initial intake appointment,Follow-up,Receiving test results,28.51,28.58,Juniper Hospital,Sandalwood Clinic,Baobab Clinic
+9992248,43.97,Female,2020-08-13,1976-09-03,2020-08-30,2020-09-14,Receiving test results,Follow-up,Follow-up,44.02,44.06,Mangrove Health Center,Juniper Hospital,Sandalwood Clinic
+6034822,31.65,Male,2019-06-24,1987-11-06,2019-07-24,2019-08-26,Receiving test results,Drug pickup,Receiving test results,31.73,31.82,Acacia Clinic,Juniper Health Center,Juniper Health Center
+8032292,20.62,Female,2020-12-04,2000-04-26,2021-02-04,2021-03-01,Drug pickup,Drug pickup,Drug pickup,20.79,20.86,Acacia Clinic,Juniper Health Center,Baobab Clinic
+4160070,27.08,Female,2020-01-21,1992-12-28,2020-03-13,2020-03-28,Initial intake appointment,Receiving test results,Follow-up,27.22,27.26,Juniper Hospital,Baobab Clinic,Juniper Health Center
+2864656,29.98,Female,2019-11-13,1989-11-27,2019-12-05,2019-12-23,Follow-up,Receiving test results,Follow-up,30.04,30.09,Baobab Clinic,Mangrove Health Center,Mangrove Health Center
+9902772,34.66,Female,2020-05-22,1985-10-02,2020-06-30,2020-07-20,Receiving test results,Drug pickup,Initial intake appointment,34.77,34.82,Acacia Clinic,Juniper Health Center,Baobab Clinic
+7627325,14.44,Male,2020-05-23,2005-12-17,2020-07-18,NA,Initial intake appointment,Follow-up,NA,14.59,NA,Juniper Hospital,Sandalwood Clinic,NA
+6820750,18.5,Female,2019-02-06,2000-08-11,2019-02-12,2019-02-13,Receiving test results,Receiving test results,Follow-up,18.52,18.52,Juniper Hospital,Baobab Clinic,Mangrove Health Center
+1112763,1.4,Male,2020-02-03,2018-09-10,2020-03-23,2020-03-30,Drug pickup,Follow-up,Initial intake appointment,1.53,1.55,Juniper Health Center,Baobab Clinic,Baobab Clinic
+7473554,32.61,Male,2020-12-30,1988-05-29,2021-03-03,NA,Initial intake appointment,Follow-up,NA,32.78,NA,Acacia Clinic,Acacia Clinic,NA
+8192999,23.7,Female,2020-08-09,1996-12-02,2020-09-14,2020-09-28,Drug pickup,Receiving test results,Follow-up,23.8,23.84,Sandalwood Clinic,Sandalwood Clinic,Juniper Health Center
+2281096,41.93,Female,2019-06-03,1977-07-08,2019-07-17,2019-07-24,Follow-up,Receiving test results,Follow-up,42.05,42.07,Baobab Clinic,Mangrove Health Center,Sandalwood Clinic
+5751576,34.26,Male,2019-07-29,1985-05-03,2019-09-09,2019-09-19,Initial intake appointment,Receiving test results,Receiving test results,34.38,34.4,Baobab Clinic,Mangrove Health Center,Baobab Clinic
+5953264,35.73,Female,2020-08-16,1984-12-01,2020-10-15,2020-11-06,Initial intake appointment,Follow-up,Receiving test results,35.89,35.95,Acacia Clinic,Acacia Clinic,Juniper Health Center
+9337344,36.44,Female,2020-11-06,1984-06-07,2020-12-17,2021-01-01,Receiving test results,Follow-up,Drug pickup,36.55,36.59,Acacia Clinic,Acacia Clinic,Baobab Clinic
+3197464,40.4,Male,2019-10-18,1979-06-04,2019-10-24,2019-11-27,Follow-up,Follow-up,Drug pickup,40.42,40.51,Acacia Clinic,Acacia Clinic,Acacia Clinic
+0637656,44.75,Male,2019-03-17,1974-06-27,2019-04-16,2019-04-21,Initial intake appointment,Receiving test results,Drug pickup,44.83,44.85,Baobab Clinic,Mangrove Health Center,Baobab Clinic
+0286960,10.62,Female,2019-10-30,2009-03-19,2019-11-24,2019-12-19,Initial intake appointment,Receiving test results,Receiving test results,10.69,10.76,Juniper Hospital,Baobab Clinic,Baobab Clinic
+5950486,26.46,Female,2019-08-06,1993-02-25,2019-09-17,2019-10-14,Initial intake appointment,Receiving test results,Follow-up,26.58,26.65,Baobab Clinic,Mangrove Health Center,Sandalwood Clinic
+2729743,31.21,Female,2019-03-11,1988-01-01,2019-03-27,2019-04-29,Follow-up,Follow-up,Receiving test results,31.25,31.34,Juniper Health Center,Baobab Clinic,Baobab Clinic
+3852439,25.06,Male,2020-12-05,1995-11-20,2021-01-25,2021-02-02,Follow-up,Receiving test results,Drug pickup,25.2,25.22,Sandalwood Clinic,Sandalwood Clinic,Juniper Health Center
+6843103,29.81,Male,2019-04-07,1989-06-22,2019-05-27,2019-06-07,Receiving test results,Follow-up,Drug pickup,29.95,29.98,Juniper Health Center,Baobab Clinic,Acacia Clinic
+3612089,25.72,Female,2019-03-31,1993-07-17,2019-05-06,2019-05-14,Follow-up,Receiving test results,Follow-up,25.82,25.84,Sandalwood Clinic,Sandalwood Clinic,Sandalwood Clinic
+8325543,22.61,Male,2020-06-17,1997-11-12,2020-07-27,2020-07-31,Drug pickup,Follow-up,Drug pickup,22.72,22.73,Juniper Health Center,Baobab Clinic,Baobab Clinic
+2530539,28.67,Male,2019-12-10,1991-04-16,2020-02-05,2020-03-08,Follow-up,Receiving test results,Follow-up,28.83,28.91,Sandalwood Clinic,Sandalwood Clinic,Juniper Health Center
+6841423,25.61,Male,2019-04-24,1993-09-19,2019-06-07,2019-06-10,Receiving test results,Follow-up,Initial intake appointment,25.73,25.74,Juniper Health Center,Baobab Clinic,Baobab Clinic
+0273467,27.89,Male,2020-07-16,1992-09-01,2020-08-12,2020-09-16,Initial intake appointment,Initial intake appointment,Receiving test results,27.96,28.06,Sandalwood Clinic,Mangrove Health Center,Juniper Health Center
+0096988,32.28,Female,2019-07-31,1987-04-27,2019-09-29,2019-10-23,Initial intake appointment,Follow-up,Follow-up,32.44,32.51,Mangrove Health Center,Juniper Hospital,Mangrove Health Center
+0709318,22.45,Male,2019-06-30,1997-01-21,2019-08-18,2019-09-03,Initial intake appointment,Follow-up,Follow-up,22.58,22.63,Mangrove Health Center,Juniper Hospital,Mangrove Health Center
+3310296,26.53,Male,2020-03-02,1993-08-27,2020-04-05,2020-04-23,Follow-up,Receiving test results,Follow-up,26.62,26.67,Baobab Clinic,Mangrove Health Center,Mangrove Health Center
+8959213,31.96,Female,2020-11-09,1988-12-01,2021-01-04,2021-01-29,Drug pickup,Follow-up,Receiving test results,32.11,32.18,Juniper Health Center,Baobab Clinic,Baobab Clinic
+4189694,56.37,Female,2019-10-01,1963-06-01,2019-10-09,2019-11-13,Initial intake appointment,Follow-up,Follow-up,56.39,56.49,Acacia Clinic,Acacia Clinic,Mangrove Health Center
+1276976,40.54,Male,2019-02-02,1978-07-29,2019-02-05,2019-02-27,Drug pickup,Receiving test results,Drug pickup,40.55,40.61,Baobab Clinic,Mangrove Health Center,Acacia Clinic
+4450427,39.59,Female,2019-03-01,1979-08-07,2019-04-04,2019-05-01,Initial intake appointment,Initial intake appointment,Drug pickup,39.68,39.76,Sandalwood Clinic,Mangrove Health Center,Baobab Clinic
+1182186,4.79,Female,2020-10-15,2016-01-01,2020-12-03,2020-12-04,Drug pickup,Receiving test results,Follow-up,4.92,4.93,Baobab Clinic,Mangrove Health Center,Sandalwood Clinic
+4133804,64.35,Female,2019-12-18,1955-08-28,2020-02-11,2020-02-21,Initial intake appointment,Follow-up,Drug pickup,64.5,64.53,Acacia Clinic,Acacia Clinic,Baobab Clinic
+6305113,24.41,Female,2019-06-29,1995-02-05,2019-08-16,2019-08-24,Receiving test results,Follow-up,Follow-up,24.54,24.56,Juniper Health Center,Baobab Clinic,Sandalwood Clinic
+4521904,37.3,Male,2019-09-26,1982-06-17,2019-10-18,2019-11-20,Initial intake appointment,Follow-up,Initial intake appointment,37.36,37.45,Acacia Clinic,Acacia Clinic,Baobab Clinic
+7010445,54.22,Female,2020-07-09,1966-05-03,2020-08-26,NA,Initial intake appointment,Follow-up,NA,54.35,NA,Juniper Hospital,Sandalwood Clinic,NA
+1911686,51.8,Female,2020-06-10,1968-09-04,2020-08-07,2020-09-10,Drug pickup,Receiving test results,Initial intake appointment,51.96,52.05,Baobab Clinic,Mangrove Health Center,Baobab Clinic
+0604009,31.18,Female,2020-08-17,1989-06-20,2020-10-14,2020-11-03,Initial intake appointment,Receiving test results,Follow-up,31.34,31.39,Sandalwood Clinic,Sandalwood Clinic,Mangrove Health Center
+3586682,35.02,Male,2019-03-20,1984-03-20,2019-03-23,2019-04-15,Follow-up,Drug pickup,Initial intake appointment,35.03,35.09,Acacia Clinic,Juniper Health Center,Juniper Hospital
+7945060,31.71,Female,2020-10-21,1989-02-11,2020-11-03,NA,Initial intake appointment,Receiving test results,NA,31.75,NA,Juniper Hospital,Baobab Clinic,NA
+7321811,24.35,Male,2020-10-23,1996-06-23,2020-12-15,NA,Initial intake appointment,Drug pickup,NA,24.5,NA,Baobab Clinic,Juniper Health Center,NA
+3676719,30.1,Male,2019-08-05,1989-07-06,2019-09-17,2019-10-15,Follow-up,Receiving test results,Initial intake appointment,30.22,30.29,Sandalwood Clinic,Sandalwood Clinic,Juniper Hospital
+1721474,46.51,Female,2019-02-20,1972-08-28,2019-04-19,2019-05-04,Drug pickup,Follow-up,Follow-up,46.67,46.71,Acacia Clinic,Acacia Clinic,Sandalwood Clinic
+3853274,6.99,Female,2020-10-09,2013-10-14,2020-10-17,2020-11-18,Follow-up,Follow-up,Follow-up,7.01,7.1,Acacia Clinic,Acacia Clinic,Juniper Health Center
+6488770,21.42,Male,2019-02-26,1997-09-30,2019-04-15,2019-05-02,Receiving test results,Receiving test results,Drug pickup,21.55,21.6,Juniper Hospital,Baobab Clinic,Juniper Health Center
+9441945,2.75,Male,2020-07-02,2017-10-02,2020-07-27,2020-08-07,Receiving test results,Follow-up,Drug pickup,2.82,2.85,Juniper Hospital,Sandalwood Clinic,Acacia Clinic
+6220125,38.98,Female,2019-07-13,1980-07-29,2019-08-29,2019-09-25,Receiving test results,Follow-up,Initial intake appointment,39.11,39.18,Juniper Hospital,Sandalwood Clinic,Juniper Hospital
+2316853,8.42,Female,2020-02-06,2011-09-07,2020-02-15,2020-03-09,Follow-up,Follow-up,Receiving test results,8.44,8.51,Juniper Health Center,Baobab Clinic,Baobab Clinic
+4027903,32.89,Male,2020-07-11,1987-08-29,2020-07-18,2020-08-03,Initial intake appointment,Follow-up,Follow-up,32.91,32.95,Juniper Health Center,Baobab Clinic,Mangrove Health Center
+8006982,45.85,Male,2020-12-01,1975-02-05,2021-01-03,2021-01-07,Drug pickup,Drug pickup,Drug pickup,45.94,45.95,Acacia Clinic,Juniper Health Center,Acacia Clinic
+5549819,23.61,Female,2019-05-09,1995-10-04,2019-05-30,2019-06-06,Initial intake appointment,Receiving test results,Receiving test results,23.67,23.69,Sandalwood Clinic,Sandalwood Clinic,Juniper Health Center
+7400244,20.49,Female,2020-03-12,1999-09-20,2020-04-09,NA,Initial intake appointment,Follow-up,NA,20.57,NA,Acacia Clinic,Acacia Clinic,NA
+3299615,29.14,Female,2019-03-29,1990-02-12,2019-05-16,2019-06-20,Follow-up,Follow-up,Initial intake appointment,29.27,29.37,Juniper Hospital,Sandalwood Clinic,Baobab Clinic
+7171005,16.41,Male,2019-03-27,2002-11-01,2019-05-13,NA,Initial intake appointment,Follow-up,NA,16.54,NA,Juniper Hospital,Sandalwood Clinic,NA
+1827004,15.22,Male,2019-01-01,2003-10-16,2019-02-25,2019-03-07,Drug pickup,Follow-up,Drug pickup,15.37,15.4,Acacia Clinic,Acacia Clinic,Acacia Clinic
+8642000,30.52,Male,2019-11-19,1989-05-20,2020-01-14,2020-02-17,Drug pickup,Receiving test results,Drug pickup,30.67,30.77,Juniper Hospital,Baobab Clinic,Acacia Clinic
+4776428,51.98,Male,2020-02-12,1968-03-03,2020-04-16,2020-04-25,Initial intake appointment,Follow-up,Initial intake appointment,52.16,52.18,Mangrove Health Center,Juniper Hospital,Juniper Hospital
+4289038,40.22,Male,2020-06-27,1980-04-17,2020-07-09,2020-07-27,Initial intake appointment,Follow-up,Drug pickup,40.25,40.3,Mangrove Health Center,Juniper Hospital,Acacia Clinic
+7952943,33.23,Male,2020-12-26,1987-10-12,2021-01-04,NA,Initial intake appointment,Follow-up,NA,33.25,NA,Juniper Health Center,Baobab Clinic,NA
+6651895,35.56,Female,2020-06-06,1984-11-22,2020-07-10,2020-07-23,Receiving test results,Follow-up,Follow-up,35.65,35.69,Juniper Hospital,Sandalwood Clinic,Mangrove Health Center
+5310452,26.58,Female,2020-07-08,1993-12-15,2020-08-03,2020-08-19,Initial intake appointment,Drug pickup,Receiving test results,26.65,26.7,Acacia Clinic,Juniper Health Center,Baobab Clinic
+8309911,31.43,Female,2019-08-25,1988-03-28,2019-09-29,2019-10-25,Drug pickup,Drug pickup,Initial intake appointment,31.53,31.6,Baobab Clinic,Juniper Health Center,Juniper Hospital
+2646512,50.49,Female,2020-02-18,1969-09-04,2020-03-30,2020-04-10,Follow-up,Drug pickup,Initial intake appointment,50.6,50.63,Acacia Clinic,Juniper Health Center,Baobab Clinic
+9182044,56.74,Female,2019-02-13,1962-06-01,2019-03-12,2019-04-16,Receiving test results,Follow-up,Receiving test results,56.81,56.91,Acacia Clinic,Acacia Clinic,Juniper Health Center
+0827724,51.73,Female,2019-11-17,1968-03-07,2020-01-16,2020-02-01,Initial intake appointment,Follow-up,Drug pickup,51.89,51.94,Acacia Clinic,Acacia Clinic,Baobab Clinic
+5539200,32.35,Male,2019-07-04,1987-03-06,2019-07-12,2019-07-20,Initial intake appointment,Receiving test results,Initial intake appointment,32.37,32.39,Juniper Hospital,Baobab Clinic,Baobab Clinic
+3125350,38.52,Male,2019-03-23,1980-09-23,2019-03-31,2019-04-22,Follow-up,Receiving test results,Drug pickup,38.54,38.6,Juniper Hospital,Baobab Clinic,Juniper Health Center
+8519908,49.56,Female,2019-08-23,1970-02-11,2019-09-21,2019-10-11,Drug pickup,Follow-up,Drug pickup,49.64,49.69,Mangrove Health Center,Juniper Hospital,Baobab Clinic
+3297507,30.17,Male,2020-03-31,1990-02-04,2020-05-07,2020-05-28,Follow-up,Initial intake appointment,Follow-up,30.27,30.33,Sandalwood Clinic,Mangrove Health Center,Juniper Health Center
+9548572,37.9,Male,2019-02-14,1981-03-31,2019-03-18,2019-03-20,Receiving test results,Drug pickup,Initial intake appointment,37.99,37.99,Acacia Clinic,Juniper Health Center,Baobab Clinic
+3180827,31.13,Female,2020-10-02,1989-08-23,2020-10-24,2020-11-12,Follow-up,Initial intake appointment,Drug pickup,31.19,31.24,Sandalwood Clinic,Mangrove Health Center,Juniper Health Center
+5597420,42.19,Female,2020-06-20,1978-04-22,2020-06-28,2020-07-15,Initial intake appointment,Receiving test results,Initial intake appointment,42.21,42.26,Juniper Hospital,Baobab Clinic,Juniper Hospital
+9142202,54.07,Female,2020-05-26,1966-05-14,2020-05-30,2020-06-01,Receiving test results,Drug pickup,Drug pickup,54.08,54.09,Acacia Clinic,Juniper Health Center,Baobab Clinic
+2817583,27.24,Male,2019-08-18,1992-05-28,2019-10-03,2019-10-26,Follow-up,Follow-up,Receiving test results,27.37,27.43,Juniper Health Center,Baobab Clinic,Juniper Health Center
+5817532,68.96,Male,2020-09-18,1951-10-20,2020-11-03,2020-11-16,Initial intake appointment,Drug pickup,Receiving test results,69.09,69.12,Acacia Clinic,Juniper Health Center,Juniper Health Center
+9818587,44.32,Male,2019-05-02,1975-01-16,2019-07-03,2019-07-27,Receiving test results,Initial intake appointment,Drug pickup,44.49,44.56,Sandalwood Clinic,Mangrove Health Center,Acacia Clinic
+0309908,36.1,Female,2019-04-14,1983-03-17,2019-05-18,2019-06-18,Initial intake appointment,Follow-up,Follow-up,36.19,36.28,Mangrove Health Center,Juniper Hospital,Juniper Health Center
+7384887,9.24,Female,2019-05-17,2010-02-20,2019-05-19,NA,Initial intake appointment,Initial intake appointment,NA,9.25,NA,Sandalwood Clinic,Mangrove Health Center,NA
+5601354,16.81,Female,2020-09-10,2003-11-23,2020-10-02,2020-10-17,Initial intake appointment,Follow-up,Drug pickup,16.87,16.91,Acacia Clinic,Acacia Clinic,Acacia Clinic
+6989188,39.83,Female,2020-11-05,1981-01-16,2020-12-27,2021-01-25,Receiving test results,Follow-up,Initial intake appointment,39.97,40.05,Mangrove Health Center,Juniper Hospital,Juniper Hospital
+4597334,53.57,Male,2020-03-01,1966-08-18,2020-04-08,2020-05-04,Initial intake appointment,Follow-up,Follow-up,53.67,53.75,Acacia Clinic,Acacia Clinic,Sandalwood Clinic
+0527658,15.01,Male,2019-04-22,2004-04-21,2019-06-14,2019-07-08,Initial intake appointment,Follow-up,Follow-up,15.16,15.22,Mangrove Health Center,Juniper Hospital,Juniper Health Center
+5834137,42.97,Male,2019-12-15,1977-01-04,2020-01-12,2020-01-29,Initial intake appointment,Initial intake appointment,Receiving test results,43.05,43.09,Sandalwood Clinic,Mangrove Health Center,Baobab Clinic
+4844409,13.71,Male,2020-06-22,2006-10-09,2020-07-07,2020-07-31,Initial intake appointment,Receiving test results,Drug pickup,13.75,13.82,Sandalwood Clinic,Sandalwood Clinic,Baobab Clinic
+3479906,22.6,Male,2019-01-26,1996-06-26,2019-03-06,2019-03-18,Follow-up,Receiving test results,Follow-up,22.71,22.74,Baobab Clinic,Mangrove Health Center,Juniper Health Center
+1524319,51.54,Male,2019-05-05,1967-11-01,2019-06-15,2019-07-12,Drug pickup,Receiving test results,Drug pickup,51.65,51.73,Sandalwood Clinic,Sandalwood Clinic,Juniper Health Center
+7804635,45.78,Male,2020-04-03,1974-07-04,2020-05-01,NA,Initial intake appointment,Follow-up,NA,45.86,NA,Juniper Hospital,Sandalwood Clinic,NA
+0056831,34,Female,2019-04-16,1985-04-24,2019-04-29,2019-05-30,Initial intake appointment,Drug pickup,Initial intake appointment,34.04,34.12,Baobab Clinic,Juniper Health Center,Baobab Clinic
+9389412,21.68,Female,2019-10-03,1998-02-01,2019-10-11,2019-11-13,Receiving test results,Drug pickup,Follow-up,21.7,21.79,Acacia Clinic,Juniper Health Center,Mangrove Health Center
+2838364,6.99,Female,2019-01-17,2012-01-22,2019-02-28,2019-03-12,Follow-up,Follow-up,Drug pickup,7.11,7.14,Acacia Clinic,Acacia Clinic,Juniper Health Center
+1840471,61.91,Female,2019-04-06,1957-05-23,2019-05-05,2019-05-21,Drug pickup,Drug pickup,Drug pickup,61.99,62.03,Baobab Clinic,Juniper Health Center,Baobab Clinic
+4458723,35.89,Male,2020-05-21,1984-07-09,2020-06-03,2020-06-13,Initial intake appointment,Follow-up,Follow-up,35.93,35.95,Juniper Health Center,Baobab Clinic,Mangrove Health Center
+6047268,27.45,Female,2020-11-27,1993-06-22,2021-01-08,2021-01-11,Receiving test results,Follow-up,Drug pickup,27.57,27.57,Mangrove Health Center,Juniper Hospital,Baobab Clinic
+7120039,33.26,Male,2020-11-23,1987-08-29,2021-01-04,NA,Initial intake appointment,Receiving test results,NA,33.38,NA,Sandalwood Clinic,Sandalwood Clinic,NA
+5763511,31.2,Male,2020-01-31,1988-11-26,2020-02-10,2020-03-05,Initial intake appointment,Drug pickup,Initial intake appointment,31.23,31.29,Baobab Clinic,Juniper Health Center,Juniper Hospital
+6167037,28.63,Male,2019-12-11,1991-05-02,2020-01-28,2020-02-27,Receiving test results,Initial intake appointment,Drug pickup,28.76,28.84,Sandalwood Clinic,Mangrove Health Center,Acacia Clinic
+2115125,19.05,Female,2020-07-31,2001-07-17,2020-08-26,2020-09-29,Follow-up,Follow-up,Receiving test results,19.12,19.21,Juniper Hospital,Sandalwood Clinic,Baobab Clinic
+9118659,14.2,Female,2020-10-31,2006-08-23,2020-12-04,2020-12-23,Receiving test results,Receiving test results,Follow-up,14.29,14.35,Sandalwood Clinic,Sandalwood Clinic,Mangrove Health Center
+1498299,59.65,Female,2020-01-02,1960-05-23,2020-02-27,2020-03-18,Drug pickup,Receiving test results,Follow-up,59.8,59.86,Sandalwood Clinic,Sandalwood Clinic,Juniper Health Center
+9499752,1.55,Female,2020-11-17,2019-05-01,2020-11-29,2020-12-08,Receiving test results,Drug pickup,Follow-up,1.58,1.61,Acacia Clinic,Juniper Health Center,Juniper Health Center
+1933158,20.96,Female,2020-04-30,1999-05-20,2020-06-21,2020-06-26,Drug pickup,Follow-up,Receiving test results,21.1,21.12,Mangrove Health Center,Juniper Hospital,Juniper Health Center
+8312260,39.21,Male,2019-02-18,1979-12-13,2019-03-29,2019-04-04,Drug pickup,Receiving test results,Follow-up,39.32,39.33,Juniper Hospital,Baobab Clinic,Sandalwood Clinic
+4297982,1.97,Female,2019-11-25,2017-12-05,2020-01-29,2020-02-22,Initial intake appointment,Drug pickup,Drug pickup,2.15,2.21,Acacia Clinic,Juniper Health Center,Juniper Health Center
+0665274,15.57,Female,2019-08-03,2004-01-10,2019-08-22,2019-09-25,Initial intake appointment,Follow-up,Initial intake appointment,15.62,15.72,Acacia Clinic,Acacia Clinic,Juniper Hospital
+4564478,13.08,Female,2019-08-20,2006-07-24,2019-08-23,2019-09-06,Initial intake appointment,Follow-up,Receiving test results,13.09,13.13,Mangrove Health Center,Juniper Hospital,Juniper Health Center
+7651708,17.61,Male,2020-06-08,2002-11-02,2020-07-21,NA,Initial intake appointment,Follow-up,NA,17.73,NA,Mangrove Health Center,Juniper Hospital,NA
+0912154,58.49,Female,2019-04-10,1960-10-27,2019-06-11,2019-06-25,Initial intake appointment,Follow-up,Initial intake appointment,58.66,58.7,Acacia Clinic,Acacia Clinic,Juniper Hospital
+2233369,21.55,Female,2020-08-02,1999-01-19,2020-10-06,2020-11-04,Follow-up,Receiving test results,Follow-up,21.73,21.81,Sandalwood Clinic,Sandalwood Clinic,Sandalwood Clinic
+1071191,16.58,Male,2020-03-27,2003-09-01,2020-05-24,2020-05-28,Drug pickup,Drug pickup,Follow-up,16.74,16.75,Baobab Clinic,Juniper Health Center,Juniper Health Center
+8005017,49.51,Female,2019-01-28,1969-08-06,2019-02-03,2019-02-23,Drug pickup,Initial intake appointment,Follow-up,49.53,49.58,Sandalwood Clinic,Mangrove Health Center,Mangrove Health Center
+2719285,61.58,Male,2020-04-26,1958-10-12,2020-06-09,2020-07-05,Follow-up,Follow-up,Initial intake appointment,61.7,61.77,Juniper Hospital,Sandalwood Clinic,Juniper Hospital
+8914048,22.88,Female,2019-12-07,1997-01-24,2020-02-05,2020-02-24,Drug pickup,Follow-up,Follow-up,23.04,23.1,Mangrove Health Center,Juniper Hospital,Sandalwood Clinic
+6036296,24.86,Male,2019-05-19,1994-07-15,2019-05-21,2019-06-07,Receiving test results,Receiving test results,Drug pickup,24.87,24.91,Baobab Clinic,Mangrove Health Center,Acacia Clinic
+4697859,33.4,Male,2019-08-08,1986-03-23,2019-09-11,2019-10-04,Initial intake appointment,Receiving test results,Follow-up,33.49,33.56,Sandalwood Clinic,Sandalwood Clinic,Sandalwood Clinic
+4649407,12.03,Male,2020-01-20,2008-01-12,2020-02-02,2020-02-17,Initial intake appointment,Initial intake appointment,Drug pickup,12.07,12.11,Sandalwood Clinic,Mangrove Health Center,Acacia Clinic
+4271872,26.65,Female,2019-08-30,1993-01-10,2019-09-17,2019-10-07,Initial intake appointment,Drug pickup,Drug pickup,26.7,26.75,Acacia Clinic,Juniper Health Center,Acacia Clinic
+8418348,36.64,Female,2020-10-16,1984-03-05,2020-12-13,2020-12-21,Drug pickup,Follow-up,Drug pickup,36.8,36.82,Mangrove Health Center,Juniper Hospital,Baobab Clinic
+7902048,3.72,Female,2020-10-03,2017-01-14,2020-10-09,NA,Initial intake appointment,Follow-up,NA,3.74,NA,Mangrove Health Center,Juniper Hospital,NA
+5910772,31.58,Male,2020-03-22,1988-08-30,2020-04-27,2020-05-19,Initial intake appointment,Drug pickup,Receiving test results,31.68,31.74,Acacia Clinic,Juniper Health Center,Baobab Clinic
+8627032,3.06,Female,2020-07-13,2017-06-22,2020-08-15,2020-08-29,Drug pickup,Drug pickup,Receiving test results,3.15,3.19,Acacia Clinic,Juniper Health Center,Baobab Clinic
+0070159,22.77,Male,2020-10-04,1998-01-01,2020-10-22,2020-11-25,Initial intake appointment,Receiving test results,Initial intake appointment,22.82,22.91,Sandalwood Clinic,Sandalwood Clinic,Juniper Hospital
+7132099,17.14,Female,2020-06-24,2003-05-08,2020-07-28,NA,Initial intake appointment,Receiving test results,NA,17.23,NA,Sandalwood Clinic,Sandalwood Clinic,NA
+8017339,15.38,Female,2020-08-15,2005-04-02,2020-09-06,2020-09-22,Drug pickup,Receiving test results,Drug pickup,15.44,15.48,Sandalwood Clinic,Sandalwood Clinic,Juniper Health Center
+5220988,44.03,Female,2020-08-25,1976-08-25,2020-10-05,2020-11-01,Initial intake appointment,Follow-up,Drug pickup,44.14,44.22,Mangrove Health Center,Juniper Hospital,Baobab Clinic
+7018565,34.35,Male,2019-10-24,1985-06-26,2019-11-03,NA,Initial intake appointment,Follow-up,NA,34.38,NA,Juniper Hospital,Sandalwood Clinic,NA
+2542604,15.27,Female,2020-09-29,2005-06-26,2020-10-12,2020-10-20,Follow-up,Follow-up,Initial intake appointment,15.31,15.33,Acacia Clinic,Acacia Clinic,Baobab Clinic
+9085214,7.58,Female,2020-07-15,2012-12-17,2020-08-11,2020-08-13,Receiving test results,Follow-up,Follow-up,7.65,7.66,Acacia Clinic,Acacia Clinic,Mangrove Health Center
+8443258,25.7,Male,2020-12-12,1995-04-07,2021-01-08,2021-01-18,Drug pickup,Follow-up,Follow-up,25.77,25.8,Mangrove Health Center,Juniper Hospital,Juniper Health Center
+5369146,6.57,Female,2019-07-08,2012-12-12,2019-08-30,2019-09-23,Initial intake appointment,Receiving test results,Follow-up,6.72,6.78,Baobab Clinic,Mangrove Health Center,Mangrove Health Center
+7429288,17.92,Female,2019-07-16,2001-08-18,2019-08-03,NA,Initial intake appointment,Follow-up,NA,17.97,NA,Mangrove Health Center,Juniper Hospital,NA
+9254772,30.97,Female,2020-05-14,1989-06-01,2020-05-31,2020-06-28,Receiving test results,Drug pickup,Follow-up,31.02,31.09,Acacia Clinic,Juniper Health Center,Juniper Health Center
+6510633,35.44,Male,2020-09-22,1985-04-23,2020-11-02,2020-11-25,Receiving test results,Follow-up,Initial intake appointment,35.55,35.62,Juniper Health Center,Baobab Clinic,Juniper Hospital
+4760079,35.63,Male,2020-01-09,1984-06-01,2020-01-15,2020-02-07,Initial intake appointment,Receiving test results,Drug pickup,35.65,35.71,Sandalwood Clinic,Sandalwood Clinic,Acacia Clinic
+5088095,48.43,Male,2020-06-23,1972-01-30,2020-08-09,2020-08-24,Initial intake appointment,Follow-up,Follow-up,48.56,48.6,Juniper Hospital,Sandalwood Clinic,Sandalwood Clinic
+7677581,37.08,Female,2020-12-10,1983-11-20,2021-01-01,NA,Initial intake appointment,Drug pickup,NA,37.14,NA,Baobab Clinic,Juniper Health Center,NA
+5623751,28.81,Female,2020-10-28,1992-01-13,2020-12-25,2021-01-28,Initial intake appointment,Drug pickup,Follow-up,28.97,29.06,Baobab Clinic,Juniper Health Center,Juniper Health Center
+8263676,30.32,Male,2019-09-21,1989-06-03,2019-10-15,2019-11-15,Drug pickup,Receiving test results,Initial intake appointment,30.39,30.47,Baobab Clinic,Mangrove Health Center,Juniper Hospital
+7066296,40.94,Female,2020-07-07,1979-08-08,2020-08-08,NA,Initial intake appointment,Receiving test results,NA,41.03,NA,Baobab Clinic,Mangrove Health Center,NA
+1654351,15.99,Male,2019-04-15,2003-04-22,2019-05-28,2019-06-15,Drug pickup,Drug pickup,Initial intake appointment,16.11,16.16,Baobab Clinic,Juniper Health Center,Juniper Hospital
+4979862,35.29,Female,2020-08-01,1985-04-26,2020-08-05,2020-08-20,Initial intake appointment,Drug pickup,Initial intake appointment,35.3,35.34,Acacia Clinic,Juniper Health Center,Baobab Clinic
+6477416,30.91,Male,2019-05-15,1988-06-23,2019-06-05,2019-06-11,Receiving test results,Receiving test results,Drug pickup,30.97,30.98,Baobab Clinic,Mangrove Health Center,Baobab Clinic
+9324303,19.95,Male,2020-09-07,2000-09-30,2020-09-27,2020-10-11,Receiving test results,Follow-up,Drug pickup,20,20.04,Juniper Health Center,Baobab Clinic,Baobab Clinic
+2417836,16.64,Female,2020-05-11,2003-09-24,2020-07-05,2020-07-06,Follow-up,Receiving test results,Receiving test results,16.79,16.79,Baobab Clinic,Mangrove Health Center,Juniper Health Center
+2948852,26.11,Female,2020-09-17,1994-08-14,2020-11-08,2020-11-29,Follow-up,Drug pickup,Receiving test results,26.25,26.31,Acacia Clinic,Juniper Health Center,Baobab Clinic
+7978404,24.7,Female,2020-02-22,1995-06-17,2020-02-27,NA,Initial intake appointment,Follow-up,NA,24.71,NA,Acacia Clinic,Acacia Clinic,NA
+9030440,19.82,Female,2019-12-19,2000-02-27,2020-02-06,2020-02-27,Receiving test results,Receiving test results,Drug pickup,19.95,20.01,Juniper Hospital,Baobab Clinic,Acacia Clinic
+1643909,26.27,Female,2020-10-17,1994-07-17,2020-12-18,2020-12-22,Drug pickup,Receiving test results,Drug pickup,26.44,26.45,Sandalwood Clinic,Sandalwood Clinic,Juniper Health Center
+5725709,32.48,Female,2020-06-14,1987-12-29,2020-07-23,2020-08-18,Initial intake appointment,Receiving test results,Follow-up,32.59,32.66,Sandalwood Clinic,Sandalwood Clinic,Juniper Health Center
+3946432,6.97,Male,2019-05-11,2012-05-22,2019-06-20,2019-07-22,Follow-up,Drug pickup,Drug pickup,7.08,7.17,Acacia Clinic,Juniper Health Center,Juniper Health Center
+8800439,58.65,Female,2019-05-14,1960-10-02,2019-05-24,2019-06-10,Drug pickup,Receiving test results,Initial intake appointment,58.68,58.72,Sandalwood Clinic,Sandalwood Clinic,Baobab Clinic
+8584181,29.88,Male,2020-10-05,1990-11-25,2020-10-29,2020-10-30,Drug pickup,Drug pickup,Initial intake appointment,29.95,29.95,Baobab Clinic,Juniper Health Center,Baobab Clinic
+7754624,51.18,Male,2019-05-22,1968-03-29,2019-07-08,NA,Initial intake appointment,Follow-up,NA,51.31,NA,Acacia Clinic,Acacia Clinic,NA
+9179960,61.49,Female,2020-01-11,1958-07-31,2020-02-11,2020-03-11,Receiving test results,Receiving test results,Drug pickup,61.57,61.65,Juniper Hospital,Baobab Clinic,Baobab Clinic
+7815414,32.32,Female,2020-04-20,1988-01-02,2020-04-23,NA,Initial intake appointment,Follow-up,NA,32.33,NA,Acacia Clinic,Acacia Clinic,NA
+8024726,47.24,Male,2020-02-01,1972-11-16,2020-03-13,2020-04-07,Drug pickup,Receiving test results,Drug pickup,47.35,47.42,Baobab Clinic,Mangrove Health Center,Acacia Clinic
+7424486,4.21,Male,2019-06-28,2015-04-13,2019-08-20,NA,Initial intake appointment,Receiving test results,NA,4.36,NA,Baobab Clinic,Mangrove Health Center,NA
+2787021,34.45,Female,2020-06-29,1986-01-24,2020-07-19,2020-08-02,Follow-up,Drug pickup,Drug pickup,34.5,34.54,Baobab Clinic,Juniper Health Center,Juniper Health Center
+4057128,41.75,Female,2019-07-14,1977-10-23,2019-07-22,2019-07-23,Initial intake appointment,Follow-up,Follow-up,41.77,41.77,Mangrove Health Center,Juniper Hospital,Mangrove Health Center
+6005864,50.01,Female,2019-04-23,1969-05-01,2019-06-27,2019-07-12,Receiving test results,Follow-up,Drug pickup,50.19,50.23,Acacia Clinic,Acacia Clinic,Juniper Health Center
+5629991,33.11,Female,2020-07-22,1987-06-20,2020-08-01,2020-08-28,Initial intake appointment,Drug pickup,Follow-up,33.14,33.21,Baobab Clinic,Juniper Health Center,Juniper Health Center
+8922684,26.51,Female,2020-10-24,1994-04-27,2020-10-25,2020-10-26,Drug pickup,Follow-up,Receiving test results,26.51,26.52,Acacia Clinic,Acacia Clinic,Juniper Health Center
+1144023,41.05,Male,2019-07-11,1978-07-02,2019-08-18,2019-09-01,Drug pickup,Follow-up,Drug pickup,41.15,41.19,Juniper Health Center,Baobab Clinic,Baobab Clinic
+6664732,23.69,Female,2019-10-10,1996-02-06,2019-12-01,2019-12-29,Receiving test results,Drug pickup,Receiving test results,23.83,23.91,Acacia Clinic,Juniper Health Center,Baobab Clinic
+1837177,43.16,Female,2020-01-12,1976-11-24,2020-02-22,2020-03-14,Drug pickup,Initial intake appointment,Follow-up,43.27,43.33,Sandalwood Clinic,Mangrove Health Center,Sandalwood Clinic
+2776781,30.74,Male,2020-02-08,1989-05-20,2020-03-17,2020-04-05,Follow-up,Drug pickup,Initial intake appointment,30.84,30.9,Baobab Clinic,Juniper Health Center,Juniper Hospital
+3261908,46.38,Female,2020-05-12,1974-01-05,2020-05-27,2020-06-20,Follow-up,Follow-up,Initial intake appointment,46.42,46.49,Mangrove Health Center,Juniper Hospital,Baobab Clinic
+8066929,34.27,Female,2020-12-07,1986-09-08,2020-12-29,2021-01-28,Drug pickup,Receiving test results,Follow-up,34.33,34.41,Sandalwood Clinic,Sandalwood Clinic,Juniper Health Center
+5270689,23.39,Female,2020-01-19,1996-09-03,2020-02-07,2020-02-09,Initial intake appointment,Receiving test results,Receiving test results,23.44,23.45,Sandalwood Clinic,Sandalwood Clinic,Baobab Clinic
+8988891,43.11,Male,2020-04-27,1977-03-28,2020-05-22,2020-06-13,Drug pickup,Drug pickup,Follow-up,43.18,43.24,Baobab Clinic,Juniper Health Center,Mangrove Health Center
+4711790,64.95,Female,2020-08-06,1955-09-10,2020-08-27,2020-09-04,Initial intake appointment,Receiving test results,Follow-up,65.01,65.03,Juniper Hospital,Baobab Clinic,Sandalwood Clinic
+0890396,8.11,Male,2019-02-22,2011-01-14,2019-03-13,2019-03-23,Initial intake appointment,Receiving test results,Follow-up,8.16,8.19,Baobab Clinic,Mangrove Health Center,Mangrove Health Center
+8359768,30.46,Female,2019-05-29,1988-12-19,2019-07-28,2019-08-09,Drug pickup,Follow-up,Receiving test results,30.62,30.66,Mangrove Health Center,Juniper Hospital,Baobab Clinic
+7971906,31.85,Female,2019-09-19,1987-11-20,2019-10-27,NA,Initial intake appointment,Receiving test results,NA,31.95,NA,Baobab Clinic,Mangrove Health Center,NA
+8854021,22.32,Male,2020-08-30,1998-05-11,2020-09-29,2020-10-24,Drug pickup,Drug pickup,Follow-up,22.4,22.47,Baobab Clinic,Juniper Health Center,Sandalwood Clinic
+9181150,48.13,Female,2019-04-03,1971-02-26,2019-04-17,2019-04-27,Receiving test results,Receiving test results,Drug pickup,48.17,48.2,Juniper Hospital,Baobab Clinic,Acacia Clinic
+8997427,37.21,Male,2020-08-24,1983-06-18,2020-09-23,2020-09-28,Drug pickup,Initial intake appointment,Follow-up,37.29,37.31,Sandalwood Clinic,Mangrove Health Center,Juniper Health Center
+2777615,38.86,Female,2020-06-21,1981-08-21,2020-06-25,2020-07-10,Follow-up,Follow-up,Initial intake appointment,38.87,38.91,Juniper Hospital,Sandalwood Clinic,Baobab Clinic
+9215736,21.97,Female,2020-11-21,1998-12-07,2020-12-22,2021-01-19,Receiving test results,Receiving test results,Receiving test results,22.05,22.13,Baobab Clinic,Mangrove Health Center,Baobab Clinic
+2298830,22.76,Male,2019-08-12,1996-11-12,2019-08-27,2019-10-01,Follow-up,Receiving test results,Drug pickup,22.8,22.9,Juniper Hospital,Baobab Clinic,Baobab Clinic
+2043679,35.96,Male,2020-05-03,1984-05-26,2020-05-28,2020-06-06,Follow-up,Receiving test results,Receiving test results,36.03,36.05,Sandalwood Clinic,Sandalwood Clinic,Juniper Health Center
+6002105,3.05,Male,2020-12-06,2017-11-18,2020-12-10,2020-12-15,Receiving test results,Follow-up,Initial intake appointment,3.06,3.07,Juniper Hospital,Sandalwood Clinic,Juniper Hospital
+5513164,33.31,Male,2019-11-21,1986-08-07,2019-12-27,2020-01-09,Initial intake appointment,Follow-up,Receiving test results,33.41,33.44,Acacia Clinic,Acacia Clinic,Baobab Clinic
+5257837,14.87,Male,2019-03-08,2004-04-27,2019-04-21,2019-05-11,Initial intake appointment,Initial intake appointment,Drug pickup,14.99,15.05,Sandalwood Clinic,Mangrove Health Center,Baobab Clinic
+1087614,27.68,Female,2019-04-30,1991-08-31,2019-07-01,2019-07-03,Drug pickup,Follow-up,Follow-up,27.85,27.86,Acacia Clinic,Acacia Clinic,Mangrove Health Center
+6025963,34.13,Female,2020-12-25,1986-11-16,2021-02-08,2021-03-08,Receiving test results,Follow-up,Follow-up,34.25,34.33,Juniper Health Center,Baobab Clinic,Juniper Health Center
+3093090,28.12,Female,2020-02-10,1992-01-04,2020-03-03,2020-03-15,Follow-up,Receiving test results,Initial intake appointment,28.18,28.21,Juniper Hospital,Baobab Clinic,Juniper Hospital
+2093644,37.74,Female,2020-03-28,1982-07-10,2020-05-18,2020-05-28,Follow-up,Follow-up,Follow-up,37.88,37.91,Acacia Clinic,Acacia Clinic,Juniper Health Center
+0353500,41.58,Female,2020-02-28,1978-08-10,2020-05-02,2020-06-03,Initial intake appointment,Receiving test results,Follow-up,41.76,41.84,Juniper Hospital,Baobab Clinic,Mangrove Health Center
+1263068,37.37,Male,2019-07-01,1982-02-24,2019-07-02,2019-07-22,Drug pickup,Follow-up,Drug pickup,37.37,37.43,Mangrove Health Center,Juniper Hospital,Juniper Health Center
+4189260,44.07,Male,2019-05-28,1975-05-13,2019-07-24,2019-08-22,Initial intake appointment,Receiving test results,Drug pickup,44.23,44.31,Juniper Hospital,Baobab Clinic,Juniper Health Center
+4571561,42.97,Male,2019-02-01,1976-02-22,2019-02-22,2019-03-27,Initial intake appointment,Drug pickup,Drug pickup,43.03,43.12,Baobab Clinic,Juniper Health Center,Acacia Clinic
+6150486,34.38,Female,2019-02-11,1984-10-03,2019-03-03,2019-04-04,Receiving test results,Receiving test results,Follow-up,34.43,34.52,Baobab Clinic,Mangrove Health Center,Sandalwood Clinic
+0622036,29.48,Male,2019-01-13,1989-07-28,2019-01-20,2019-01-24,Initial intake appointment,Receiving test results,Follow-up,29.5,29.51,Baobab Clinic,Mangrove Health Center,Sandalwood Clinic
+6728379,24.08,Female,2019-09-02,1995-08-09,2019-10-17,2019-11-17,Receiving test results,Receiving test results,Drug pickup,24.2,24.29,Sandalwood Clinic,Sandalwood Clinic,Acacia Clinic
+8996075,25.28,Female,2020-12-09,1995-09-04,2021-02-06,2021-02-23,Drug pickup,Follow-up,Follow-up,25.44,25.49,Juniper Hospital,Sandalwood Clinic,Mangrove Health Center
+7055443,40.48,Male,2019-12-23,1979-07-10,2020-02-19,NA,Initial intake appointment,Follow-up,NA,40.64,NA,Juniper Health Center,Baobab Clinic,NA
+6217755,52.09,Female,2019-07-20,1967-06-30,2019-07-27,2019-07-31,Receiving test results,Follow-up,Drug pickup,52.11,52.12,Juniper Hospital,Sandalwood Clinic,Baobab Clinic
+7318053,28.07,Female,2019-09-06,1991-08-18,2019-11-07,NA,Initial intake appointment,Follow-up,NA,28.24,NA,Juniper Health Center,Baobab Clinic,NA
+7302567,35.37,Female,2019-07-03,1984-02-26,2019-07-27,NA,Initial intake appointment,Initial intake appointment,NA,35.44,NA,Sandalwood Clinic,Mangrove Health Center,NA
+8294254,31.27,Female,2020-03-21,1988-12-20,2020-04-14,2020-05-16,Drug pickup,Follow-up,Receiving test results,31.34,31.42,Acacia Clinic,Acacia Clinic,Juniper Health Center
+1494265,34.07,Female,2020-11-15,1986-10-29,2020-11-24,2020-11-25,Drug pickup,Follow-up,Initial intake appointment,34.09,34.1,Juniper Hospital,Sandalwood Clinic,Juniper Hospital
+2263961,46.21,Male,2019-03-14,1973-01-07,2019-03-22,2019-04-20,Follow-up,Drug pickup,Initial intake appointment,46.23,46.31,Baobab Clinic,Juniper Health Center,Baobab Clinic
+9478037,34.28,Female,2020-07-30,1986-04-27,2020-09-12,2020-10-08,Receiving test results,Initial intake appointment,Follow-up,34.4,34.47,Sandalwood Clinic,Mangrove Health Center,Juniper Health Center
+4021197,38.15,Female,2019-07-07,1981-05-22,2019-07-28,2019-08-01,Initial intake appointment,Initial intake appointment,Drug pickup,38.21,38.22,Sandalwood Clinic,Mangrove Health Center,Baobab Clinic
+9697297,14.2,Female,2019-08-07,2005-05-29,2019-09-13,2019-09-22,Receiving test results,Initial intake appointment,Drug pickup,14.3,14.33,Sandalwood Clinic,Mangrove Health Center,Juniper Health Center
+5842357,25.85,Female,2019-03-25,1993-05-24,2019-04-20,2019-04-21,Initial intake appointment,Initial intake appointment,Drug pickup,25.92,25.92,Sandalwood Clinic,Mangrove Health Center,Baobab Clinic
+4959194,29.85,Male,2020-05-07,1990-07-08,2020-06-10,2020-06-30,Initial intake appointment,Follow-up,Initial intake appointment,29.94,30,Acacia Clinic,Acacia Clinic,Baobab Clinic
+7178350,31.64,Female,2020-08-12,1988-12-29,2020-09-03,NA,Initial intake appointment,Receiving test results,NA,31.7,NA,Juniper Hospital,Baobab Clinic,NA
+3412738,19.76,Female,2020-04-01,2000-07-02,2020-05-07,2020-06-03,Follow-up,Follow-up,Follow-up,19.86,19.93,Mangrove Health Center,Juniper Hospital,Mangrove Health Center
+7188949,14.63,Female,2020-03-10,2005-07-27,2020-04-18,NA,Initial intake appointment,Receiving test results,NA,14.74,NA,Sandalwood Clinic,Sandalwood Clinic,NA
+8722482,34.1,Female,2019-08-24,1985-07-26,2019-09-06,2019-10-09,Drug pickup,Drug pickup,Receiving test results,34.14,34.23,Acacia Clinic,Juniper Health Center,Baobab Clinic
+9858511,43.92,Male,2020-03-19,1976-04-28,2020-04-09,2020-04-20,Receiving test results,Drug pickup,Initial intake appointment,43.98,44.01,Baobab Clinic,Juniper Health Center,Baobab Clinic
+5664177,31.22,Male,2019-05-04,1988-02-20,2019-05-21,2019-06-25,Initial intake appointment,Initial intake appointment,Initial intake appointment,31.27,31.36,Sandalwood Clinic,Mangrove Health Center,Juniper Hospital
+0651694,26.41,Male,2020-04-15,1993-11-23,2020-05-15,2020-06-14,Initial intake appointment,Follow-up,Follow-up,26.49,26.57,Acacia Clinic,Acacia Clinic,Sandalwood Clinic
+2686919,46.98,Female,2020-03-11,1973-03-30,2020-04-19,2020-05-14,Follow-up,Receiving test results,Follow-up,47.09,47.16,Sandalwood Clinic,Sandalwood Clinic,Sandalwood Clinic
+2165786,10.59,Male,2020-04-24,2009-09-23,2020-05-04,2020-05-06,Follow-up,Receiving test results,Receiving test results,10.62,10.62,Baobab Clinic,Mangrove Health Center,Juniper Health Center
+3647587,31.15,Female,2020-03-06,1989-01-18,2020-05-01,2020-05-07,Follow-up,Initial intake appointment,Drug pickup,31.3,31.32,Sandalwood Clinic,Mangrove Health Center,Acacia Clinic
+8134287,41.95,Female,2020-03-14,1978-04-12,2020-05-08,2020-05-14,Drug pickup,Initial intake appointment,Follow-up,42.1,42.12,Sandalwood Clinic,Mangrove Health Center,Sandalwood Clinic
+4434048,26.04,Male,2020-07-29,1994-07-21,2020-09-07,2020-09-23,Initial intake appointment,Follow-up,Follow-up,26.15,26.19,Mangrove Health Center,Juniper Hospital,Mangrove Health Center
+4878595,58.28,Female,2019-05-01,1961-02-01,2019-06-16,2019-07-08,Initial intake appointment,Follow-up,Follow-up,58.41,58.47,Juniper Hospital,Sandalwood Clinic,Juniper Health Center
+7435025,29.82,Female,2020-06-30,1990-09-11,2020-08-03,NA,Initial intake appointment,Follow-up,NA,29.91,NA,Juniper Hospital,Sandalwood Clinic,NA
+5641881,35.85,Female,2020-03-16,1984-05-18,2020-04-06,2020-05-01,Initial intake appointment,Drug pickup,Drug pickup,35.91,35.98,Baobab Clinic,Juniper Health Center,Baobab Clinic
+9066545,23.97,Female,2020-12-15,1996-12-31,2021-01-22,2021-02-02,Receiving test results,Follow-up,Drug pickup,24.07,24.1,Juniper Hospital,Sandalwood Clinic,Juniper Health Center
+8656232,16.02,Female,2020-01-05,2004-01-01,2020-01-31,2020-02-19,Drug pickup,Drug pickup,Receiving test results,16.09,16.14,Acacia Clinic,Juniper Health Center,Baobab Clinic
+9635804,24.47,Female,2020-05-13,1995-11-29,2020-07-07,2020-07-15,Receiving test results,Follow-up,Initial intake appointment,24.62,24.64,Acacia Clinic,Acacia Clinic,Juniper Hospital
+3112565,16.53,Male,2020-03-03,2003-08-26,2020-03-26,2020-04-23,Follow-up,Follow-up,Follow-up,16.59,16.67,Juniper Hospital,Sandalwood Clinic,Mangrove Health Center
+2725811,47.88,Female,2019-04-13,1971-06-07,2019-06-14,2019-06-19,Follow-up,Drug pickup,Receiving test results,48.05,48.06,Baobab Clinic,Juniper Health Center,Baobab Clinic
+5482412,46.41,Male,2020-03-04,1973-10-17,2020-04-15,2020-05-04,Initial intake appointment,Drug pickup,Follow-up,46.53,46.58,Acacia Clinic,Juniper Health Center,Sandalwood Clinic
+9992596,7.45,Female,2019-02-03,2011-08-24,2019-02-17,2019-03-22,Receiving test results,Receiving test results,Drug pickup,7.49,7.58,Baobab Clinic,Mangrove Health Center,Juniper Health Center
+8538539,31.39,Female,2019-05-26,1988-01-11,2019-06-24,2019-06-26,Drug pickup,Receiving test results,Receiving test results,31.47,31.47,Sandalwood Clinic,Sandalwood Clinic,Juniper Health Center
+0313578,17.64,Female,2019-03-05,2001-07-18,2019-03-20,2019-03-31,Initial intake appointment,Follow-up,Drug pickup,17.68,17.71,Mangrove Health Center,Juniper Hospital,Baobab Clinic
+0771448,17.83,Male,2020-06-26,2002-09-01,2020-07-25,2020-08-04,Initial intake appointment,Follow-up,Follow-up,17.91,17.94,Mangrove Health Center,Juniper Hospital,Sandalwood Clinic
+0605106,26.77,Female,2019-08-01,1992-10-29,2019-09-01,2019-09-20,Initial intake appointment,Receiving test results,Initial intake appointment,26.85,26.91,Baobab Clinic,Mangrove Health Center,Baobab Clinic
+0457913,37.82,Female,2019-07-12,1981-09-24,2019-09-14,2019-10-01,Initial intake appointment,Follow-up,Drug pickup,38,38.04,Juniper Health Center,Baobab Clinic,Baobab Clinic
+1264471,24.15,Female,2020-02-09,1995-12-22,2020-03-03,2020-03-27,Drug pickup,Drug pickup,Drug pickup,24.21,24.28,Baobab Clinic,Juniper Health Center,Acacia Clinic
+4163388,35.82,Female,2019-11-22,1984-02-04,2019-12-14,2019-12-26,Initial intake appointment,Follow-up,Receiving test results,35.88,35.91,Mangrove Health Center,Juniper Hospital,Juniper Health Center
+5873918,50.72,Female,2019-04-21,1968-08-13,2019-05-18,2019-06-06,Initial intake appointment,Follow-up,Receiving test results,50.79,50.85,Mangrove Health Center,Juniper Hospital,Juniper Health Center
+6777769,37.86,Female,2019-07-05,1981-09-03,2019-08-04,2019-08-07,Receiving test results,Receiving test results,Drug pickup,37.94,37.95,Sandalwood Clinic,Sandalwood Clinic,Acacia Clinic
+8989686,38.51,Female,2019-07-24,1981-01-27,2019-09-10,2019-09-25,Drug pickup,Receiving test results,Initial intake appointment,38.64,38.68,Baobab Clinic,Mangrove Health Center,Juniper Hospital
+6556725,29.04,Female,2020-07-05,1991-06-28,2020-07-13,2020-08-09,Receiving test results,Follow-up,Receiving test results,29.06,29.14,Juniper Hospital,Sandalwood Clinic,Baobab Clinic
+1394414,12.51,Male,2020-04-09,2007-10-08,2020-05-23,2020-05-27,Drug pickup,Follow-up,Drug pickup,12.63,12.64,Acacia Clinic,Acacia Clinic,Acacia Clinic
+1445248,35.74,Female,2019-03-26,1983-07-07,2019-05-12,2019-05-28,Drug pickup,Follow-up,Follow-up,35.87,35.91,Mangrove Health Center,Juniper Hospital,Juniper Health Center
+0831011,12.33,Female,2020-04-04,2007-12-08,2020-04-07,2020-04-09,Initial intake appointment,Drug pickup,Receiving test results,12.34,12.34,Baobab Clinic,Juniper Health Center,Baobab Clinic
+8561518,9.36,Female,2019-06-20,2010-02-10,2019-07-09,2019-08-01,Drug pickup,Follow-up,Drug pickup,9.41,9.48,Mangrove Health Center,Juniper Hospital,Baobab Clinic
+4999504,26.84,Male,2020-02-11,1993-04-16,2020-03-23,2020-04-22,Initial intake appointment,Follow-up,Drug pickup,26.95,27.03,Acacia Clinic,Acacia Clinic,Juniper Health Center
+1844148,47.49,Male,2019-11-08,1972-05-24,2019-11-28,2019-12-04,Drug pickup,Follow-up,Follow-up,47.54,47.56,Mangrove Health Center,Juniper Hospital,Sandalwood Clinic
+3928750,21.14,Male,2019-08-22,1998-07-06,2019-10-02,2019-10-07,Follow-up,Receiving test results,Drug pickup,21.25,21.27,Juniper Hospital,Baobab Clinic,Acacia Clinic
+1988671,39.01,Female,2019-01-24,1980-01-30,2019-03-17,2019-03-29,Drug pickup,Drug pickup,Receiving test results,39.15,39.19,Baobab Clinic,Juniper Health Center,Baobab Clinic
+6391317,35.33,Female,2019-06-17,1984-02-25,2019-06-22,2019-06-28,Receiving test results,Initial intake appointment,Follow-up,35.34,35.36,Sandalwood Clinic,Mangrove Health Center,Juniper Health Center
+8366307,33.74,Male,2020-09-13,1986-12-25,2020-11-07,2020-11-13,Drug pickup,Initial intake appointment,Follow-up,33.89,33.91,Sandalwood Clinic,Mangrove Health Center,Mangrove Health Center
+8747398,23.51,Female,2019-09-14,1996-03-16,2019-09-18,2019-10-03,Drug pickup,Follow-up,Follow-up,23.52,23.56,Mangrove Health Center,Juniper Hospital,Mangrove Health Center
+5079346,29.12,Female,2020-02-24,1991-01-18,2020-03-17,2020-03-20,Initial intake appointment,Receiving test results,Initial intake appointment,29.18,29.19,Baobab Clinic,Mangrove Health Center,Baobab Clinic
+4392773,26.33,Male,2020-08-04,1994-04-12,2020-08-10,2020-09-02,Initial intake appointment,Follow-up,Drug pickup,26.35,26.41,Juniper Health Center,Baobab Clinic,Juniper Health Center
+2008074,30.39,Male,2020-10-25,1990-06-12,2020-10-31,2020-12-04,Follow-up,Follow-up,Follow-up,30.41,30.5,Acacia Clinic,Acacia Clinic,Sandalwood Clinic
+0812701,14.42,Male,2019-11-28,2005-06-30,2020-01-05,2020-01-07,Initial intake appointment,Drug pickup,Drug pickup,14.52,14.53,Baobab Clinic,Juniper Health Center,Acacia Clinic
+8753707,26.84,Female,2019-01-08,1992-03-13,2019-01-11,2019-02-05,Drug pickup,Initial intake appointment,Initial intake appointment,26.85,26.92,Sandalwood Clinic,Mangrove Health Center,Juniper Hospital
+9810297,44.01,Male,2020-03-13,1976-03-20,2020-03-30,2020-05-02,Receiving test results,Initial intake appointment,Drug pickup,44.06,44.15,Sandalwood Clinic,Mangrove Health Center,Juniper Health Center
+5317086,27.37,Male,2019-04-19,1991-12-11,2019-05-11,2019-06-12,Initial intake appointment,Receiving test results,Drug pickup,27.43,27.52,Baobab Clinic,Mangrove Health Center,Juniper Health Center
+4627779,48.76,Male,2019-02-28,1970-06-07,2019-03-29,2019-04-21,Initial intake appointment,Receiving test results,Drug pickup,48.84,48.9,Sandalwood Clinic,Sandalwood Clinic,Baobab Clinic
+9683108,16.21,Female,2019-03-28,2003-01-14,2019-04-13,2019-04-24,Receiving test results,Follow-up,Follow-up,16.25,16.28,Mangrove Health Center,Juniper Hospital,Sandalwood Clinic
+1461248,25.09,Female,2019-04-29,1994-04-02,2019-05-28,2019-06-11,Drug pickup,Follow-up,Drug pickup,25.17,25.21,Mangrove Health Center,Juniper Hospital,Baobab Clinic
+6265625,51.76,Male,2019-06-25,1967-10-03,2019-08-24,2019-08-25,Receiving test results,Follow-up,Initial intake appointment,51.92,51.93,Juniper Hospital,Sandalwood Clinic,Juniper Hospital
+2173307,40.06,Male,2020-08-28,1980-08-16,2020-10-06,2020-11-03,Follow-up,Initial intake appointment,Follow-up,40.17,40.24,Sandalwood Clinic,Mangrove Health Center,Mangrove Health Center
+2280818,26.55,Male,2019-11-03,1993-04-22,2019-12-02,2019-12-15,Follow-up,Follow-up,Initial intake appointment,26.63,26.67,Mangrove Health Center,Juniper Hospital,Juniper Hospital
+3029970,62.79,Male,2020-06-09,1957-09-09,2020-07-14,2020-08-10,Follow-up,Receiving test results,Initial intake appointment,62.89,62.96,Juniper Hospital,Baobab Clinic,Baobab Clinic
+6784414,29.53,Male,2020-12-31,1991-06-28,2021-02-23,2021-03-25,Receiving test results,Follow-up,Initial intake appointment,29.68,29.76,Acacia Clinic,Acacia Clinic,Juniper Hospital
+5994161,17.02,Female,2020-10-27,2003-10-24,2020-11-05,2020-12-02,Initial intake appointment,Drug pickup,Drug pickup,17.04,17.12,Baobab Clinic,Juniper Health Center,Juniper Health Center
+1628938,22.72,Female,2019-03-30,1996-07-15,2019-04-20,2019-05-05,Drug pickup,Follow-up,Initial intake appointment,22.78,22.82,Mangrove Health Center,Juniper Hospital,Juniper Hospital
+7017367,16.2,Male,2020-07-17,2004-05-09,2020-08-03,NA,Initial intake appointment,Initial intake appointment,NA,16.25,NA,Sandalwood Clinic,Mangrove Health Center,NA
+9175851,46.01,Female,2019-09-23,1973-09-30,2019-09-28,2019-10-20,Receiving test results,Drug pickup,Initial intake appointment,46.02,46.08,Baobab Clinic,Juniper Health Center,Baobab Clinic
+1956368,32.16,Female,2019-11-05,1987-09-15,2019-11-18,2019-12-23,Drug pickup,Follow-up,Follow-up,32.2,32.29,Mangrove Health Center,Juniper Hospital,Mangrove Health Center
+6613143,23.96,Female,2019-04-25,1995-05-15,2019-05-08,2019-05-26,Receiving test results,Follow-up,Receiving test results,24,24.04,Juniper Health Center,Baobab Clinic,Juniper Health Center
+3926944,44.7,Female,2019-11-26,1975-03-26,2019-12-17,2019-12-28,Follow-up,Follow-up,Follow-up,44.76,44.79,Acacia Clinic,Acacia Clinic,Juniper Health Center
+7813855,40.07,Female,2019-03-07,1979-02-19,2019-05-06,NA,Initial intake appointment,Follow-up,NA,40.23,NA,Juniper Hospital,Sandalwood Clinic,NA
+3395083,34.76,Female,2019-08-04,1984-11-07,2019-09-25,2019-10-27,Follow-up,Follow-up,Drug pickup,34.9,34.99,Juniper Health Center,Baobab Clinic,Acacia Clinic
+4427837,54.21,Male,2020-03-18,1966-01-14,2020-03-20,2020-04-05,Initial intake appointment,Initial intake appointment,Initial intake appointment,54.22,54.26,Sandalwood Clinic,Mangrove Health Center,Juniper Hospital
+4731419,49.38,Female,2019-09-22,1970-05-18,2019-11-05,2019-11-11,Initial intake appointment,Receiving test results,Drug pickup,49.5,49.52,Sandalwood Clinic,Sandalwood Clinic,Baobab Clinic
+2838247,25.27,Female,2019-08-14,1994-05-13,2019-09-27,2019-10-30,Follow-up,Initial intake appointment,Initial intake appointment,25.39,25.48,Sandalwood Clinic,Mangrove Health Center,Baobab Clinic
+7316408,32.41,Male,2020-04-12,1987-11-22,2020-04-22,NA,Initial intake appointment,Follow-up,NA,32.44,NA,Mangrove Health Center,Juniper Hospital,NA
+7115754,8.27,Female,2019-08-27,2011-05-22,2019-08-31,NA,Initial intake appointment,Follow-up,NA,8.28,NA,Acacia Clinic,Acacia Clinic,NA
+3375564,33.71,Male,2020-01-28,1986-05-21,2020-03-15,2020-04-07,Follow-up,Follow-up,Drug pickup,33.84,33.9,Acacia Clinic,Acacia Clinic,Acacia Clinic
+3101236,50.26,Female,2020-02-29,1969-12-08,2020-04-28,2020-05-23,Follow-up,Receiving test results,Follow-up,50.42,50.49,Baobab Clinic,Mangrove Health Center,Mangrove Health Center
+6005452,48.21,Female,2019-10-08,1971-08-04,2019-11-19,2019-12-24,Receiving test results,Drug pickup,Follow-up,48.33,48.42,Acacia Clinic,Juniper Health Center,Sandalwood Clinic
+9979446,9.55,Female,2019-05-21,2009-11-03,2019-06-14,2019-07-13,Receiving test results,Receiving test results,Follow-up,9.62,9.7,Baobab Clinic,Mangrove Health Center,Mangrove Health Center
+9212772,18.95,Male,2019-01-21,2000-02-13,2019-03-27,2019-04-05,Receiving test results,Drug pickup,Initial intake appointment,19.13,19.15,Acacia Clinic,Juniper Health Center,Juniper Hospital
+9804999,28.56,Female,2019-11-02,1991-04-18,2019-12-21,2020-01-22,Receiving test results,Receiving test results,Drug pickup,28.69,28.78,Sandalwood Clinic,Sandalwood Clinic,Juniper Health Center
+0453388,19.09,Male,2019-06-13,2000-05-15,2019-08-16,2019-08-23,Initial intake appointment,Follow-up,Follow-up,19.27,19.28,Mangrove Health Center,Juniper Hospital,Mangrove Health Center
+5447064,28.63,Male,2020-04-22,1991-09-12,2020-05-18,2020-06-20,Initial intake appointment,Follow-up,Initial intake appointment,28.7,28.79,Acacia Clinic,Acacia Clinic,Baobab Clinic
+8545014,10.34,Female,2020-05-05,2010-01-03,2020-05-19,2020-06-18,Drug pickup,Follow-up,Follow-up,10.38,10.46,Acacia Clinic,Acacia Clinic,Juniper Health Center
+3571804,36.64,Male,2020-12-18,1984-05-07,2021-02-04,2021-02-20,Follow-up,Follow-up,Initial intake appointment,36.77,36.82,Acacia Clinic,Acacia Clinic,Baobab Clinic
+4607998,44.47,Female,2020-06-04,1975-12-26,2020-07-06,2020-08-07,Initial intake appointment,Follow-up,Drug pickup,44.56,44.65,Mangrove Health Center,Juniper Hospital,Acacia Clinic
+1640939,31.47,Male,2019-09-16,1988-04-04,2019-10-09,2019-10-23,Drug pickup,Receiving test results,Follow-up,31.53,31.57,Sandalwood Clinic,Sandalwood Clinic,Mangrove Health Center
+3711329,34.21,Female,2019-03-16,1985-01-06,2019-03-28,2019-04-08,Follow-up,Receiving test results,Follow-up,34.24,34.27,Sandalwood Clinic,Sandalwood Clinic,Juniper Health Center
+2189021,35.53,Male,2020-12-24,1985-06-22,2021-01-10,2021-01-15,Follow-up,Drug pickup,Initial intake appointment,35.58,35.59,Baobab Clinic,Juniper Health Center,Juniper Hospital
+2603339,24.56,Female,2019-11-14,1995-04-29,2019-12-13,2020-01-08,Follow-up,Receiving test results,Follow-up,24.64,24.71,Sandalwood Clinic,Sandalwood Clinic,Juniper Health Center
+5174644,26.44,Male,2020-12-29,1994-07-28,2021-01-04,2021-01-25,Initial intake appointment,Follow-up,Initial intake appointment,26.46,26.51,Acacia Clinic,Acacia Clinic,Juniper Hospital
+4529310,14.25,Female,2019-11-01,2005-08-04,2019-12-24,2020-01-03,Initial intake appointment,Receiving test results,Follow-up,14.4,14.42,Juniper Hospital,Baobab Clinic,Mangrove Health Center
+8427984,33.82,Female,2019-12-22,1986-03-05,2020-02-17,2020-03-17,Drug pickup,Follow-up,Drug pickup,33.98,34.06,Acacia Clinic,Acacia Clinic,Acacia Clinic
+9431766,8.75,Male,2019-04-26,2010-07-28,2019-05-15,2019-06-02,Receiving test results,Receiving test results,Drug pickup,8.8,8.85,Baobab Clinic,Mangrove Health Center,Juniper Health Center
+9166065,29.22,Female,2019-06-10,1990-03-28,2019-07-26,2019-08-03,Receiving test results,Follow-up,Follow-up,29.35,29.37,Juniper Hospital,Sandalwood Clinic,Mangrove Health Center
+7032873,26.99,Male,2019-11-12,1992-11-21,2019-12-21,NA,Initial intake appointment,Follow-up,NA,27.1,NA,Juniper Health Center,Baobab Clinic,NA
+0086347,26.46,Male,2019-10-23,1993-05-14,2019-10-30,2019-11-06,Initial intake appointment,Initial intake appointment,Receiving test results,26.48,26.5,Sandalwood Clinic,Mangrove Health Center,Juniper Health Center
+5095682,42.82,Male,2020-07-26,1977-10-10,2020-08-26,2020-09-03,Initial intake appointment,Drug pickup,Follow-up,42.9,42.93,Acacia Clinic,Juniper Health Center,Mangrove Health Center
+9864726,31.28,Female,2019-11-30,1988-08-26,2019-12-09,2019-12-12,Receiving test results,Receiving test results,Drug pickup,31.3,31.31,Baobab Clinic,Mangrove Health Center,Juniper Health Center
+9570701,19.38,Male,2020-10-07,2001-05-26,2020-10-28,2020-11-24,Receiving test results,Drug pickup,Follow-up,19.44,19.51,Baobab Clinic,Juniper Health Center,Sandalwood Clinic
+4097392,25.02,Male,2020-02-15,1995-02-13,2020-03-03,2020-03-09,Initial intake appointment,Drug pickup,Receiving test results,25.07,25.08,Acacia Clinic,Juniper Health Center,Baobab Clinic
+1696159,40.55,Male,2019-03-19,1978-09-09,2019-04-23,2019-04-26,Drug pickup,Receiving test results,Receiving test results,40.65,40.65,Sandalwood Clinic,Sandalwood Clinic,Juniper Health Center
+9065488,38.72,Male,2020-05-29,1981-09-18,2020-07-11,2020-08-08,Receiving test results,Follow-up,Follow-up,38.84,38.91,Mangrove Health Center,Juniper Hospital,Juniper Health Center
+4437978,7.82,Female,2019-01-25,2011-04-02,2019-02-18,2019-03-17,Initial intake appointment,Follow-up,Drug pickup,7.89,7.96,Mangrove Health Center,Juniper Hospital,Acacia Clinic
+5785182,45.25,Female,2019-10-31,1974-08-11,2019-11-27,2019-11-30,Initial intake appointment,Drug pickup,Initial intake appointment,45.32,45.33,Acacia Clinic,Juniper Health Center,Baobab Clinic
+8580609,16.16,Female,2019-06-23,2003-04-29,2019-08-08,2019-08-28,Drug pickup,Receiving test results,Follow-up,16.29,16.34,Sandalwood Clinic,Sandalwood Clinic,Juniper Health Center
+3381699,56.54,Female,2020-03-08,1963-09-06,2020-04-01,2020-04-16,Follow-up,Receiving test results,Receiving test results,56.61,56.65,Sandalwood Clinic,Sandalwood Clinic,Juniper Health Center
+1465327,24.38,Male,2020-11-24,1996-07-14,2020-11-29,2020-12-14,Drug pickup,Initial intake appointment,Follow-up,24.39,24.43,Sandalwood Clinic,Mangrove Health Center,Sandalwood Clinic
+3461898,3.06,Male,2019-03-09,2016-02-16,2019-04-01,2019-04-13,Follow-up,Follow-up,Follow-up,3.12,3.16,Mangrove Health Center,Juniper Hospital,Mangrove Health Center
+3308350,4.88,Female,2019-06-04,2014-07-18,2019-07-24,2019-08-15,Follow-up,Receiving test results,Initial intake appointment,5.02,5.08,Juniper Hospital,Baobab Clinic,Juniper Hospital
+0724715,58.55,Female,2020-05-30,1961-11-25,2020-07-16,2020-08-10,Initial intake appointment,Follow-up,Initial intake appointment,58.68,58.75,Juniper Hospital,Sandalwood Clinic,Baobab Clinic
+2926176,39.08,Female,2019-11-16,1980-10-26,2019-12-18,2020-01-22,Follow-up,Receiving test results,Drug pickup,39.17,39.26,Baobab Clinic,Mangrove Health Center,Juniper Health Center
+1170425,10.83,Male,2020-01-13,2009-03-18,2020-02-21,2020-03-20,Drug pickup,Follow-up,Initial intake appointment,10.94,11.01,Juniper Hospital,Sandalwood Clinic,Baobab Clinic
+6366421,53.6,Female,2020-09-23,1967-03-02,2020-10-24,2020-11-02,Receiving test results,Drug pickup,Drug pickup,53.68,53.71,Baobab Clinic,Juniper Health Center,Juniper Health Center
+8319602,28.4,Male,2020-09-03,1992-04-17,2020-11-05,2020-12-01,Drug pickup,Drug pickup,Drug pickup,28.57,28.64,Acacia Clinic,Juniper Health Center,Baobab Clinic
+3942941,43.06,Male,2019-02-08,1976-01-28,2019-02-10,2019-03-13,Follow-up,Drug pickup,Follow-up,43.07,43.15,Baobab Clinic,Juniper Health Center,Mangrove Health Center
+4310932,36.73,Male,2020-07-21,1983-11-06,2020-08-01,2020-09-05,Initial intake appointment,Drug pickup,Initial intake appointment,36.76,36.86,Acacia Clinic,Juniper Health Center,Juniper Hospital
+5364063,21.98,Female,2020-03-09,1998-03-22,2020-03-25,2020-04-28,Initial intake appointment,Follow-up,Follow-up,22.02,22.12,Juniper Health Center,Baobab Clinic,Juniper Health Center
+9353473,56.83,Female,2019-12-06,1963-02-20,2020-02-09,2020-02-17,Receiving test results,Follow-up,Drug pickup,57.01,57.03,Juniper Health Center,Baobab Clinic,Acacia Clinic
+1750942,45.94,Female,2020-11-28,1974-12-31,2021-01-04,2021-01-08,Drug pickup,Drug pickup,Follow-up,46.04,46.05,Acacia Clinic,Juniper Health Center,Juniper Health Center
+5801766,8.54,Female,2019-01-27,2010-07-15,2019-03-25,2019-04-05,Initial intake appointment,Receiving test results,Initial intake appointment,8.7,8.73,Baobab Clinic,Mangrove Health Center,Juniper Hospital
+2955787,23.26,Female,2020-08-05,1997-05-08,2020-10-05,2020-11-04,Follow-up,Initial intake appointment,Follow-up,23.43,23.51,Sandalwood Clinic,Mangrove Health Center,Sandalwood Clinic
+6988336,39.58,Male,2019-10-28,1980-04-08,2019-11-04,2019-12-09,Receiving test results,Receiving test results,Receiving test results,39.6,39.7,Baobab Clinic,Mangrove Health Center,Baobab Clinic
+3416404,21.39,Male,2019-08-16,1998-03-31,2019-10-05,2019-10-26,Follow-up,Follow-up,Receiving test results,21.53,21.58,Acacia Clinic,Acacia Clinic,Juniper Health Center
+3134895,41.39,Female,2019-10-29,1978-06-18,2019-12-30,2020-01-25,Follow-up,Follow-up,Initial intake appointment,41.56,41.63,Juniper Hospital,Sandalwood Clinic,Juniper Hospital
+1528027,21.67,Female,2019-04-27,1997-08-30,2019-06-21,2019-06-29,Drug pickup,Initial intake appointment,Receiving test results,21.82,21.84,Sandalwood Clinic,Mangrove Health Center,Baobab Clinic
+0831203,0.9,Female,2019-07-28,2018-09-02,2019-08-05,2019-08-26,Initial intake appointment,Follow-up,Receiving test results,0.92,0.98,Juniper Health Center,Baobab Clinic,Juniper Health Center
+9970694,47.5,Female,2019-10-02,1972-04-13,2019-10-31,2019-11-23,Receiving test results,Follow-up,Follow-up,47.58,47.64,Acacia Clinic,Acacia Clinic,Mangrove Health Center
+4047388,26.04,Female,2020-04-14,1994-04-06,2020-04-23,2020-05-11,Initial intake appointment,Follow-up,Drug pickup,26.06,26.11,Mangrove Health Center,Juniper Hospital,Baobab Clinic
+2502370,35.5,Female,2019-03-22,1983-09-29,2019-04-04,2019-04-20,Follow-up,Receiving test results,Initial intake appointment,35.54,35.58,Juniper Hospital,Baobab Clinic,Baobab Clinic
+6611260,30.13,Female,2019-06-08,1989-04-28,2019-07-14,2019-07-16,Receiving test results,Receiving test results,Receiving test results,30.23,30.23,Juniper Hospital,Baobab Clinic,Juniper Health Center
+6100272,32.6,Female,2020-04-06,1987-09-08,2020-05-17,2020-06-05,Receiving test results,Drug pickup,Initial intake appointment,32.71,32.76,Acacia Clinic,Juniper Health Center,Juniper Hospital
+6525226,28.87,Male,2019-06-15,1990-08-08,2019-08-05,2019-08-22,Receiving test results,Receiving test results,Drug pickup,29.01,29.06,Baobab Clinic,Mangrove Health Center,Juniper Health Center
+8166387,33.15,Female,2019-12-16,1986-10-30,2019-12-28,2020-01-14,Drug pickup,Initial intake appointment,Follow-up,33.18,33.23,Sandalwood Clinic,Mangrove Health Center,Sandalwood Clinic
+2958030,12.83,Female,2019-05-30,2006-08-03,2019-07-09,2019-07-13,Follow-up,Receiving test results,Follow-up,12.94,12.95,Juniper Hospital,Baobab Clinic,Mangrove Health Center
+8456732,26.59,Female,2019-06-05,1992-11-07,2019-06-17,2019-07-19,Drug pickup,Drug pickup,Receiving test results,26.62,26.71,Acacia Clinic,Juniper Health Center,Baobab Clinic
+1644260,38.62,Female,2019-01-15,1980-06-11,2019-02-26,2019-03-06,Drug pickup,Receiving test results,Receiving test results,38.74,38.76,Juniper Hospital,Baobab Clinic,Juniper Health Center
+1920872,30.12,Female,2019-11-15,1989-10-09,2019-12-24,2019-12-25,Drug pickup,Drug pickup,Initial intake appointment,30.23,30.23,Acacia Clinic,Juniper Health Center,Juniper Hospital
+5052304,38.55,Female,2019-06-19,1980-12-09,2019-06-20,2019-07-15,Initial intake appointment,Follow-up,Initial intake appointment,38.55,38.62,Acacia Clinic,Acacia Clinic,Juniper Hospital
+0199174,22.05,Female,2020-05-09,1998-04-26,2020-05-26,2020-05-30,Initial intake appointment,Follow-up,Initial intake appointment,22.1,22.11,Acacia Clinic,Acacia Clinic,Baobab Clinic
+9735568,21.04,Female,2020-11-04,1999-10-26,2020-12-20,2021-01-15,Receiving test results,Follow-up,Initial intake appointment,21.17,21.24,Mangrove Health Center,Juniper Hospital,Juniper Hospital
+8565335,13.03,Female,2020-11-08,2007-11-01,2020-12-29,2021-01-20,Drug pickup,Follow-up,Initial intake appointment,13.17,13.23,Juniper Hospital,Sandalwood Clinic,Baobab Clinic
+2559913,21.72,Female,2019-11-10,1998-02-25,2019-11-12,2019-12-16,Follow-up,Follow-up,Receiving test results,21.73,21.82,Juniper Health Center,Baobab Clinic,Juniper Health Center
+7954334,45.53,Male,2019-02-10,1973-08-11,2019-03-14,NA,Initial intake appointment,Follow-up,NA,45.62,NA,Acacia Clinic,Acacia Clinic,NA
+8616837,25.91,Female,2020-01-30,1994-03-09,2020-02-25,2020-02-28,Drug pickup,Initial intake appointment,Follow-up,25.98,25.99,Sandalwood Clinic,Mangrove Health Center,Juniper Health Center
+2428005,42.32,Male,2020-10-11,1978-06-27,2020-11-06,2020-11-29,Follow-up,Follow-up,Receiving test results,42.39,42.45,Juniper Hospital,Sandalwood Clinic,Baobab Clinic
+2608300,35.89,Male,2020-10-12,1984-11-30,2020-11-26,2020-12-08,Follow-up,Receiving test results,Follow-up,36.01,36.05,Juniper Hospital,Baobab Clinic,Juniper Health Center
+8474556,19.39,Male,2019-09-03,2000-04-17,2019-10-05,2019-10-27,Drug pickup,Receiving test results,Drug pickup,19.48,19.54,Baobab Clinic,Mangrove Health Center,Acacia Clinic
+6437235,28.11,Female,2020-09-19,1992-08-16,2020-10-13,2020-10-24,Receiving test results,Follow-up,Follow-up,28.18,28.21,Juniper Hospital,Sandalwood Clinic,Sandalwood Clinic
+8381794,12.83,Male,2019-06-01,2006-08-05,2019-06-16,2019-07-02,Drug pickup,Follow-up,Drug pickup,12.87,12.91,Acacia Clinic,Acacia Clinic,Juniper Health Center
+2149725,34.82,Female,2019-12-30,1985-03-13,2020-01-12,2020-02-16,Follow-up,Follow-up,Receiving test results,34.86,34.95,Juniper Hospital,Sandalwood Clinic,Juniper Health Center
+4943944,14.92,Female,2020-10-19,2005-11-21,2020-11-19,2020-12-09,Initial intake appointment,Follow-up,Receiving test results,15,15.06,Acacia Clinic,Acacia Clinic,Baobab Clinic
+0732323,49.03,Female,2020-04-10,1971-04-12,2020-04-19,2020-04-25,Initial intake appointment,Follow-up,Initial intake appointment,49.05,49.07,Juniper Health Center,Baobab Clinic,Juniper Hospital
+8207231,53.94,Male,2020-12-11,1967-01-15,2021-01-22,2021-01-27,Drug pickup,Drug pickup,Drug pickup,54.06,54.07,Baobab Clinic,Juniper Health Center,Acacia Clinic
+4808536,42.62,Male,2019-09-10,1977-02-05,2019-10-12,2019-11-13,Initial intake appointment,Receiving test results,Follow-up,42.71,42.8,Baobab Clinic,Mangrove Health Center,Mangrove Health Center
+3198607,46.92,Male,2020-02-04,1973-03-16,2020-03-05,2020-03-30,Follow-up,Initial intake appointment,Initial intake appointment,47,47.07,Sandalwood Clinic,Mangrove Health Center,Baobab Clinic
+4919481,37.82,Female,2020-03-20,1982-06-03,2020-05-19,2020-06-21,Initial intake appointment,Drug pickup,Drug pickup,37.98,38.07,Baobab Clinic,Juniper Health Center,Baobab Clinic
+3737619,52.91,Male,2019-10-12,1966-11-26,2019-12-06,2019-12-07,Follow-up,Receiving test results,Drug pickup,53.06,53.06,Sandalwood Clinic,Sandalwood Clinic,Acacia Clinic
+4642422,31.8,Male,2020-03-17,1988-06-06,2020-05-17,2020-06-19,Initial intake appointment,Drug pickup,Receiving test results,31.97,32.06,Acacia Clinic,Juniper Health Center,Baobab Clinic
+3663239,28.76,Female,2020-11-01,1992-02-04,2020-12-21,2020-12-30,Follow-up,Receiving test results,Initial intake appointment,28.9,28.92,Sandalwood Clinic,Sandalwood Clinic,Baobab Clinic
+2710612,33.65,Female,2019-12-21,1986-05-05,2020-01-12,2020-02-04,Follow-up,Drug pickup,Follow-up,33.71,33.77,Acacia Clinic,Juniper Health Center,Sandalwood Clinic
+9772779,34.63,Female,2020-10-18,1986-03-11,2020-11-09,2020-11-22,Receiving test results,Receiving test results,Drug pickup,34.69,34.73,Sandalwood Clinic,Sandalwood Clinic,Juniper Health Center
+3803605,25.11,Female,2020-03-30,1995-02-24,2020-06-01,2020-06-21,Follow-up,Follow-up,Drug pickup,25.28,25.34,Juniper Hospital,Sandalwood Clinic,Baobab Clinic
+6392823,33.49,Male,2019-12-26,1986-07-08,2020-01-30,2020-02-26,Receiving test results,Follow-up,Receiving test results,33.59,33.66,Juniper Health Center,Baobab Clinic,Juniper Health Center
+7349305,14.37,Female,2020-04-25,2005-12-14,2020-06-10,NA,Initial intake appointment,Follow-up,NA,14.5,NA,Juniper Hospital,Sandalwood Clinic,NA
+7275183,9.19,Male,2020-03-24,2011-01-16,2020-05-21,NA,Initial intake appointment,Follow-up,NA,9.35,NA,Juniper Health Center,Baobab Clinic,NA
+6672710,13.86,Female,2020-10-14,2006-12-08,2020-11-11,2020-11-19,Receiving test results,Receiving test results,Receiving test results,13.94,13.96,Juniper Hospital,Baobab Clinic,Baobab Clinic
+8813293,19.69,Female,2020-05-19,2000-09-14,2020-07-21,2020-07-24,Drug pickup,Follow-up,Follow-up,19.86,19.87,Juniper Health Center,Baobab Clinic,Sandalwood Clinic
+3490844,27.77,Male,2020-02-25,1992-05-25,2020-04-10,2020-05-06,Follow-up,Follow-up,Receiving test results,27.89,27.96,Acacia Clinic,Acacia Clinic,Juniper Health Center
+1842243,23.85,Male,2019-11-23,1996-01-22,2020-01-13,2020-02-10,Drug pickup,Follow-up,Initial intake appointment,23.99,24.07,Juniper Health Center,Baobab Clinic,Baobab Clinic
+3001111,13.16,Female,2019-10-05,2006-08-10,2019-10-30,2019-11-01,Follow-up,Drug pickup,Drug pickup,13.23,13.23,Baobab Clinic,Juniper Health Center,Baobab Clinic
+3227666,2.24,Female,2020-08-29,2018-06-03,2020-09-19,2020-10-01,Follow-up,Receiving test results,Drug pickup,2.3,2.33,Baobab Clinic,Mangrove Health Center,Baobab Clinic
+1913506,30.06,Male,2019-05-24,1989-05-09,2019-05-29,2019-06-12,Drug pickup,Receiving test results,Drug pickup,30.07,30.11,Baobab Clinic,Mangrove Health Center,Juniper Health Center
+4542845,64.01,Male,2019-08-31,1955-09-12,2019-09-03,2019-09-25,Initial intake appointment,Follow-up,Initial intake appointment,64.02,64.08,Juniper Hospital,Sandalwood Clinic,Juniper Hospital
+5180401,29.97,Female,2020-08-03,1990-08-21,2020-09-28,2020-10-07,Initial intake appointment,Drug pickup,Drug pickup,30.12,30.15,Baobab Clinic,Juniper Health Center,Acacia Clinic
+2711841,10.08,Female,2020-04-17,2010-03-21,2020-05-20,2020-06-19,Follow-up,Drug pickup,Receiving test results,10.17,10.25,Baobab Clinic,Juniper Health Center,Baobab Clinic
+6095759,1.6,Female,2019-07-10,2017-12-03,2019-07-12,2019-07-21,Receiving test results,Receiving test results,Drug pickup,1.61,1.63,Sandalwood Clinic,Sandalwood Clinic,Baobab Clinic
+9530904,21.89,Male,2020-11-18,1999-01-03,2021-01-17,2021-02-20,Receiving test results,Follow-up,Initial intake appointment,22.05,22.15,Acacia Clinic,Acacia Clinic,Baobab Clinic
+6914335,45.2,Male,2019-11-04,1974-09-03,2019-12-07,2020-01-02,Receiving test results,Follow-up,Drug pickup,45.29,45.36,Juniper Hospital,Sandalwood Clinic,Juniper Health Center
+6874110,27.92,Male,2019-01-30,1991-03-07,2019-02-16,2019-02-19,Receiving test results,Receiving test results,Receiving test results,27.97,27.97,Juniper Hospital,Baobab Clinic,Baobab Clinic
+2845816,22.13,Male,2020-09-11,1998-07-31,2020-10-05,2020-10-07,Follow-up,Receiving test results,Drug pickup,22.2,22.2,Baobab Clinic,Mangrove Health Center,Acacia Clinic
+2252287,26.41,Male,2020-04-29,1993-12-07,2020-06-14,2020-06-16,Follow-up,Initial intake appointment,Receiving test results,26.54,26.54,Sandalwood Clinic,Mangrove Health Center,Juniper Health Center
+6204073,28.13,Male,2019-06-02,1991-04-22,2019-06-23,2019-07-23,Receiving test results,Follow-up,Follow-up,28.19,28.27,Juniper Health Center,Baobab Clinic,Mangrove Health Center
+8832473,32.8,Female,2019-06-26,1986-09-15,2019-07-08,2019-08-02,Drug pickup,Follow-up,Drug pickup,32.83,32.9,Juniper Health Center,Baobab Clinic,Juniper Health Center
+1302236,45.92,Female,2019-09-04,1973-10-14,2019-10-17,2019-10-21,Drug pickup,Receiving test results,Drug pickup,46.04,46.05,Baobab Clinic,Mangrove Health Center,Baobab Clinic
+1766803,32.92,Female,2020-11-12,1987-12-20,2021-01-02,2021-01-20,Drug pickup,Follow-up,Initial intake appointment,33.06,33.11,Juniper Health Center,Baobab Clinic,Baobab Clinic
+2717448,14.71,Female,2019-01-03,2004-04-21,2019-01-22,2019-02-04,Follow-up,Follow-up,Follow-up,14.76,14.8,Mangrove Health Center,Juniper Hospital,Sandalwood Clinic
+4549320,30.36,Female,2019-09-24,1989-05-22,2019-11-01,2019-11-04,Initial intake appointment,Receiving test results,Follow-up,30.46,30.47,Juniper Hospital,Baobab Clinic,Sandalwood Clinic
+7209076,15.57,Male,2019-02-21,2003-07-31,2019-03-21,NA,Initial intake appointment,Receiving test results,NA,15.65,NA,Baobab Clinic,Mangrove Health Center,NA
+7013656,9.93,Male,2020-09-09,2010-10-07,2020-10-11,NA,Initial intake appointment,Receiving test results,NA,10.02,NA,Baobab Clinic,Mangrove Health Center,NA
+6678210,18.28,Female,2019-10-17,2001-07-10,2019-12-01,2020-01-01,Receiving test results,Receiving test results,Drug pickup,18.4,18.49,Juniper Hospital,Baobab Clinic,Baobab Clinic
+1342318,29.81,Female,2019-08-11,1989-10-26,2019-09-29,2019-10-22,Drug pickup,Follow-up,Drug pickup,29.94,30.01,Mangrove Health Center,Juniper Hospital,Juniper Health Center
+2051131,43.68,Female,2019-09-29,1976-02-03,2019-10-05,2019-10-19,Follow-up,Drug pickup,Receiving test results,43.7,43.73,Baobab Clinic,Juniper Health Center,Baobab Clinic
+4928912,25.59,Female,2019-09-08,1994-02-10,2019-10-13,2019-11-10,Initial intake appointment,Drug pickup,Initial intake appointment,25.69,25.76,Acacia Clinic,Juniper Health Center,Baobab Clinic
+4705314,33.09,Female,2019-05-08,1986-04-13,2019-05-28,2019-06-13,Initial intake appointment,Follow-up,Follow-up,33.14,33.19,Acacia Clinic,Acacia Clinic,Mangrove Health Center
+8741512,37.56,Female,2019-04-09,1981-09-25,2019-04-21,2019-05-25,Drug pickup,Drug pickup,Initial intake appointment,37.59,37.69,Acacia Clinic,Juniper Health Center,Juniper Hospital
+5806900,25.76,Female,2019-09-11,1993-12-13,2019-09-22,2019-10-10,Initial intake appointment,Receiving test results,Initial intake appointment,25.79,25.84,Juniper Hospital,Baobab Clinic,Baobab Clinic
+0055031,15.1,Female,2020-02-07,2005-01-04,2020-04-01,2020-04-27,Initial intake appointment,Drug pickup,Drug pickup,15.25,15.32,Baobab Clinic,Juniper Health Center,Acacia Clinic
+5954351,5.3,Female,2020-11-02,2015-07-17,2020-11-03,2020-11-29,Initial intake appointment,Drug pickup,Receiving test results,5.3,5.37,Baobab Clinic,Juniper Health Center,Baobab Clinic
+1381062,22.62,Female,2020-08-08,1997-12-30,2020-09-26,2020-10-18,Drug pickup,Drug pickup,Follow-up,22.75,22.81,Acacia Clinic,Juniper Health Center,Juniper Health Center
